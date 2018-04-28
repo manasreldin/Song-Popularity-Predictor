@@ -1,0 +1,895 @@
+SongNumber,SongID,AlbumID,AlbumName,ArtistID,ArtistLatitude,ArtistLocation,ArtistLongitude,ArtistName,Danceability,Duration,KeySignature,KeySignatureConfidence,Tempo,TimeSignature,TimeSignatureConfidence,Title,Year
+1,"SODVOGB12A58A7C5B7",294868,"Live","ARPDVPJ1187B9ADBE9",,"Atlanta GA",,"Usher",0.0,212.61016,8,0.622,209.056,4,0.886,"Pianolude",1999
+2,"SOQMMLD12AB017F3CC",387111,"Human Being","ARAIABB1187B9AC6E2",,"Paddington London England",,"Seal",0.0,354.76853,5,0.486,153.731,4,0.523,"Still Love Remains (Album Version)",1998
+3,"SOQONHY12AC468A056",599643,"Open Up And Say...@<%_|^[!]: A Tigerbeat6 Compilation","ARVHJV91187B9B7C91",,"",,"Terminal 11 feat. b.b0Nd",0.0,114.83383,1,0.632,127.355,4,0.622,"In Place Of Love [edit]",0
+4,"SOYKZHI12A58A7BEE9",381182,"It's Great To Be Alive","ARUAOGE1187B9B3D50",,"",,"Fake Problems",0.0,195.47383,0,0.745,103.776,3,1.0,"Tabernacle Song",2009
+5,"SOGSQEE12AC4687265",686907,"Sheltered","ARADC5W1187B993322",36.16778,"NASHVILLE US",-86.77836,"Dottie Rambo_ The Whites",0.0,130.29832,2,0.137,103.014,4,0.979,"New Shoes",0
+6,"SOEAASN12A58A7932D",674068,"Dr. Nos Ethiopium","ARXHFWE1187FB410A9",34.20034,"Oxnard CA",-119.18044,"Oh No",0.0,110.57587,3,0.582,128.116,3,1.0,"Soul of Ethiopia",2009
+7,"SOFUNPN12A8C13B387",2022,"The Middle Of Nowhere","ARD5K161187B9AC784",51.27562,"Sevenoaks United Kingdom",0.17898,"Orbital",0.0,467.53914,6,0.717,91.364,5,0.996,"I Don't Know You People",1999
+8,"SOEHBKH12A8C139741",158319,"Rendez Vous Au Balajo","ARQC4R31187B9A0D88",,"",,"Jo Privat",0.0,122.72281,9,0.014,122.13,4,0.433,"Ay ! Mi Sombrero",0
+9,"SOLJYHM12AB0186497",459993,"The Latin Side Of Vince Guaraldi","AR1RHCO1187B9AF0BF",37.77916,"San Francisco CA",-122.42005,"Vince Guaraldi",0.0,201.42975,9,0.434,124.391,3,0.318,"Corcovado",1964
+10,"SOYJMPE12A6D4F4BB6",78918,"The Trashcan Electric E.P.","ARAFRFP1187FB4230B",,"",,"Williamson",0.0,223.81669,11,0.908,140.003,4,0.0,"Cool People Make Me Tired",2005
+11,"SOCISCT12AB0180021",386707,"Les Increvable N2","ARD7U0O1187FB5531A",49.34463,"Neuilly-sous-Clermont (Oise)",2.40955,"André Verchuren",0.0,170.1873,7,0.804,137.192,1,0.0,"Aviatic",1989
+12,"SOKCQWQ12AB0189111",727695,"And The Beat Goes Om","ARI28VJ1187FB4EAD7",,"",,"Slackbaba",0.0,488.25424,0,0.326,68.0,1,0.0,"And The Beat Goes Om",2006
+13,"SOTQGSB12AB01894AE",649320,"Noble Things ST","AR3AY3R1187FB52CF0",,"Vidor TX",,"Tracy Byrd",0.0,190.27546,9,0.567,137.528,4,0.0,"Take Me Fishin'",0
+14,"SOFLOGZ12A8C13C69F",210460,"Very Best Of","ARV21JS1187B99E516",40.73197,"Newark NJ",-74.17418,"Jerry Lewis",0.0,142.73261,7,0.485,124.877,4,1.0,"It All Depends On You",1995
+15,"SOTGRAB12A6D4FA555",599583,"Toca Me","AR343TM1187B99DEFE",,"",,"Flexy",0.0,241.97179,8,0.089,126.034,4,0.942,"Toca Me (Album Version)",0
+16,"SOYPREH12A6D4F6EF4",55322,"Phil Spector's Wall Of Sound Retrospective Phillies Sound 1961-1996","AR4M1KM1187B9AC7E2",,"New York NY [The Bronx]",,"Phil Spector",0.0,130.61179,0,0.863,101.166,4,0.0,"Spanish Harlem",0
+17,"SOIUCMV12AB017DEDB",403572,"Quand L'Humain Danse","ARYVLXY1187FB373B0",50.82056,"Ixelles Belgium",4.37967,"Maurane / Lara Fabian",0.0,198.86975,0,0.588,107.087,4,0.961,"Mais La Vie",2003
+18,"SOZASXE12A58A7F12B",225156,"The Other Side Of The Looking Glass","ARHG53Q1187B9ACBFC",32.67828,"Georgia",-83.22295,"Alias",0.0,310.72608,1,0.835,111.67,3,1.0,"Dying To Stay",0
+19,"SOCLDAW12A8C144BEC",374550,"Le Roi de la Bossa Nova","ARQCHDN1187FB4C7C2",-22.97673,"Rio de Janeiro Brazil",-43.19508,"Luiz Bonfa",0.0,141.40036,2,0.345,194.099,4,0.548,"Santeleco",2005
+20,"SOJEBLF12A8C138B50",156787,"Cry For The Desert","ARUTS6Y1187FB5BDAB",,"",,"Twila Paris",0.0,290.19383,7,0.554,105.834,4,0.818,"How Beautiful (Cry For The Desert Album Version)",1990
+21,"SOVXFJX12A81C2387B",230740,"LAViSH","ARWJEOP1187B996538",,"",,"Soul Ballet",0.0,462.07955,4,0.279,101.006,4,0.95,"Tuscan Chica",2007
+22,"SOFWODZ12A6701DE58",15562,"Opposite Of H20","ARZBV7T1187FB51EA8",,"BronxNew York City (USA)",,"Drag-On / DMX",0.0,232.82893,10,0.732,102.889,4,0.185,"Niggas Die 4 Me",0
+23,"SOWMYVP12AB017BB47",538806,"My Own Set Of Rules","ARUNHZF122988ED7DA",35.21962,"North Carolina",-80.01955,"Lou Reid & Carolina",0.0,145.94567,4,0.014,109.696,4,0.653,"It's So Hard To Stumble (When You're Down On Your Knees)",0
+24,"SOVFWRR12A58A7C25E",502757,"Killswitch Engage [Special Edition]","ARDQ9AP1187B9BA3F6",42.31256,"Boston MA",-71.08868,"Killswitch Engage",0.0,189.20444,5,0.024,149.998,3,0.697,"Never Again (Album Version)",0
+25,"SONWSOW12A8C13BC80",113780,"Rickie Lee Jones","ARXPE571187FB4AFD0",,"Chicago IL",,"Rickie Lee Jones",0.0,246.62159,1,0.0,143.497,4,0.591,"Danny's All-Star Joint (LP Version)",1979
+26,"SOEYLSW12A8C131366",529522,"Hold Tight","AR57Z841187B9B7D7D",,"Kingston Jamaica",,"Gregory Isaacs",0.0,219.402,9,0.078,138.039,4,0.897,"Down the Line",1979
+27,"SOLREKJ12AF729FF59",235138,"French","AR0XSOO1187B9B9E88",51.50632,"London / Ex-Manchester",-0.12714,"Buzzcocks",0.0,144.77016,9,0.9,181.421,4,0.235,"Get On Our Own",1978
+28,"SOGQTJR12AC468D18E",695158,"Murskapunkkia","ARKPDBH1242077DEB1",,"",,"Murskahumppa",0.0,121.57342,9,0.0,132.368,4,0.397,"Mua rakastan",0
+29,"SOREPOR12AB01859E4",813152,"The Paul - EP","ARA2ZTN1187B98E3ED",41.50471,"Cleveland OH",-81.69074,"This Moment In Black History",0.0,145.8673,9,0.147,156.408,4,0.287,"Blackwords Masking",0
+30,"SOYYFNE12AB018A96D",774026,"From Hell...With Love","ARJ8PZJ1187B99314F",,"Seattle Washington",,"Aiden",0.0,241.03138,7,0.705,125.653,4,1.0,"Die Romantic [Live]",0
+31,"SOPOEHR12A8C13D801",250395,"A Pretty Gal's Love","ARPEJMN11F4C84080E",38.00335,"Virginia",-79.77127,"New Roanoke Jug Band",0.0,216.81587,4,0.588,92.932,4,1.0,"I've Been Cryin' Since You've Been Gone",0
+32,"SOFTJHT12AB0180955",567667,"The Very Best of Congolese Rumba : The Kinshasa-Abidjan Sessions (le meilleur de la rumba congolais","ARE8MZ81187B9AB2A3",,"",,"Wendo Kolosoy",0.0,305.94567,7,0.789,88.471,7,1.0,"Soki Olingi Ngai",0
+33,"SOOHVCV12AB0181E5D",463184,"Look At  You Now","ARTHKHA1187FB3996A",40.85251,"Long Island NY",-73.13585,"PMD",0.0,214.02077,11,0.329,115.949,5,0.858,"The Awakening (Clean)",0
+34,"SOBJZRJ12A8C13EB0C",257781,"A Greater Vision Christmas","ARC28SN1187B989049",,"United States",,"Greater Vision",0.0,113.42322,0,0.0,184.529,3,1.0,"Carol Of The Bells (Instramental Featuring The Budapest Pops Orchestra)",0
+35,"SOLKBKQ12A8C13400C",87397,"LIVE IN CONCERT","ARHT0B11187B993CB3",30.22032,"Lafayette LA",-92.01705,"Eddy Raven",0.0,204.85179,5,0.92,133.428,1,0.061,"I WANNA HEAR IT FROM YOU",1995
+36,"SONDXDP12A6D4F866C",34539,"Tales From The Ozone","ARYV1OT1187B9B4C8E",,"",,"Commander Cody And His Lost Planet Airmen",0.0,161.88036,2,0.859,166.531,1,0.0,"Cajun Baby (LP Version)",1975
+37,"SODVYMC12A8C139669",99019,"Lonnie Johnson Vol. 1 1937 - 1940","ARDNQ0R1187B9BA1EF",29.95369,"New Orleans LA",-90.07771,"Lonnie Johnson",0.0,199.44444,3,0.855,90.814,4,0.203,"She's My Mary",0
+38,"SOIMQSC12A8C1344C4",286272,"Feel Like Going Home: The Essential Charlie Rich","AR0B1CH1187FB3A824",34.56398,"Benton Arkansas",-92.58685,"Charlie Rich",0.0,184.65914,0,0.194,119.963,1,0.228,"Nice 'N' Easy",1997
+39,"SOQLHDY12A6D4FA28B",53183,"After Hours","AR56P361187B9AC4DB",54.5958,"Belfast Northern Ireland",-5.93494,"Gary Moore",0.0,306.72934,9,0.84,86.429,3,1.0,"Nothing's The Same (2002 Digital Remaster)",1992
+40,"SOVQSBI12AB017F0E5",531454,"Up Front","ARH4N0N1187FB3E1F1",,"",,"Malkit Singh",0.0,256.57424,0,0.397,161.543,4,0.009,"Nach Ke VEkha Bhabhiyie",0
+41,"SOCWMGG12A8C1332B2",241191,"Early Rythms","AR78WG01187B98E404",19.45565,"Santiago de los Caballeros Domin",-70.70719,"Johnny Pacheco",0.0,152.31955,10,0.099,116.045,4,0.854,"Cero Codazos",0
+42,"SOCOICY12A8C140D18",315023,"Sex On Fire","ARF2EHS1187B994F4E",36.16778,"Nashville Tennessee",-86.77836,"Kings Of Leon",0.0,466.65098,9,0.0,114.73,4,0.572,"Knocked Up",2007
+43,"SOAGRCT12AAF3B5E13",434249,"Match Box Blues","AR6DGPH1187B998587",35.83073,"Tennessee",-85.97874,"David Evans",0.0,250.56608,7,0.221,86.201,4,0.0,"Prison Bound Blues",0
+44,"SODSHKO12A6D4FB716",60485,"Blues At Montreux","ARLTWXK1187FB5A3F8",32.74863,"Fort Worth TX",-97.32925,"King Curtis with Jack Dupree",0.0,329.19465,5,0.651,158.121,3,0.886,"Everything's Gonna Be Alright (Live Version)",0
+45,"SOCBRFS12AB01825FA",417769,"Electronic experimental and microtonal 1953-1999","AR7OEB71187B995A17",50.93364,"Malm� Belgium",4.22417,"Henri Pousseur",0.0,1130.94485,4,0.301,79.266,5,0.685,"Racine dix-neuvième de huit-quarts",0
+46,"SOIUEQG12A8C134F30",188216,"The Out of Towners","AR8IEZO1187B99055E",,"",,"Marc Shaiman",0.0,154.122,2,0.496,131.615,4,0.469,"We're New Yorkers Now!",1999
+47,"SOWMJNZ12AB017E8CD",500861,"Novedades","ARO0R521187B98A2D1",,"",,"2 Minutos",0.0,179.09506,7,0.384,105.498,4,0.542,"Vos No Confiaste",1994
+48,"SOQSXNC12A8C133130",141904,"Legendary Country Blues Artists - CD C","ARJ7NR71187FB437B7",35.5953,"Brownsville TN",-89.26212,"Yank Rachell",0.0,184.73751,4,0.578,91.589,1,0.089,"My Mind Got Bad",0
+49,"SONNXJI12A58A7AD05",601499,"Yes! 2-Disc Set","ARCF06I1187B995398",,"",,"K-OS",0.0,282.43546,9,0.63,102.91,4,0.159,"The Avenue (Zack W. Remix)",0
+50,"SOLUWXE12A6BD550CD",72563,"Phoney Phone Calls 1959-1972","ARV21JS1187B99E516",40.73197,"Newark NJ",-74.17418,"Jerry Lewis",0.0,446.37995,11,0.42,145.333,5,0.804,"Bill Lynch",0
+51,"SOIAJUT12A8AE4888C",138556,"La Extraordinaria Paradoja Del Sonido Quijano","ARAIJG51187B9B97A4",,"",,"Café Quijano",0.0,205.40036,2,0.086,104.036,4,0.605,"Hablando A Un Cristal",1999
+52,"SOQZHMH12A8C13A393",259476,"Leland Martin","ARFS01P1187B9A395A",42.17963,"Blandford MA",-72.92483,"Leland Martin",0.0,175.62077,4,0.852,159.968,4,0.415,"Stone Cold Fingers (Bonus Track)",0
+53,"SOEXCDW12A58A7C4C9",262259,"Sittin' Here With Nothing","ARSX72J1187FB3740D",,"",,"Big Mike Griffin",0.0,232.82893,5,0.333,86.164,4,0.551,"The Last Thing I Need",0
+54,"SONKAVH12AB017D040",539006,"Pills","ARI3W3K1187FB49E6F",,"",,"Cedric Gervais feat. Second Sun",0.0,392.9073,10,0.86,124.063,4,0.548,"Pills (Dub) (Dub)",0
+55,"SOADKNO12AB0182BC7",659812,"Blow My Fuse","AR3SEQM1187B98E9E8",39.6425,"Hagerstown MD",-77.71758,"Kix",0.0,257.2273,1,0.747,140.994,4,0.381,"Cold Blood (LP Version)",0
+56,"SOKVWUH12A58A7D2CD",481245,"I'm No Angel","AROMB601187B991317",40.65507,"Brooklyn NY",-73.94888,"Mae West",0.0,150.49098,2,0.0,101.276,7,0.634,"Put It Off Until Tomorrow",2006
+57,"SOZGSEZ12A8C137C40",206616,"Back To The 70'S-The Very Best Of Dakis","ARBKMHZ11F4C843491",,"",,"Dakis",0.0,215.7971,5,0.489,93.017,4,0.512,"Kathe Mera Kathe Nihta (2005 Digital Remaster)",0
+58,"SOWEHVB12A6D4F8F0B",56996,"The Projected Passion Revue","AR8CT8U1187FB4D803",52.47859,"Birmingham England",-1.9086,"Dexys Midnight Runners",0.0,202.39628,4,0.212,119.448,1,0.387,"Spiritual Passion (aka Dubious)",2007
+59,"SOEGCMJ12A58A7B0E6",730040,"ANANÉSWORLD","ARIYFYD1187FB3F0E5",,"",,"Anané",0.0,409.70404,11,0.96,125.016,4,0.266,"Plastic People (Original Mix)",0
+60,"SOHCSLO12A8C14171E",174801,"Birmingham Jubilee Singers Vol. 2 (1927-1930)","ARJSGPI1241B9C8855",,"",,"Birmingham Jubilee Singers",0.0,188.3424,11,0.387,108.049,1,0.0,"Queen Street Rag (144826)",0
+61,"SOXCLCB12AB01829E2",328334,"Morning Cup Of Jazz","ARYFXQ21187FB4DAEF",27.53092,"Laredo TX",-99.502,"Poncho Sanchez / Dianne Reeves",0.0,355.05587,5,0.809,215.461,3,0.358,"Morning",1999
+62,"SONYSNO12AB0189762",763433,"Burnin up","ARW90Y31187B98FC7C",,"",,"Pinchers & Ganglords",0.0,235.17995,4,0.203,159.798,4,0.544,"Girls Girls",0
+63,"SOBDYCT12AB0183AF5",804859,"100 Love Evergreen","ARAJPHH1187FB5566A",40.7038,"Queens NY",-73.83168,"The Shangri-Las",0.0,136.01914,10,0.218,65.771,4,0.648,"Remember (Walkin' In the Sand)",1964
+64,"SOSPNZF12AB018214F",159971,"Cronica","ARS4KT21187B9B9438",,"",,"Fito Paez",0.0,175.25506,11,0.789,162.38,4,1.0,"Corazon Clandestino",0
+65,"SOPVHBC12A8C13E506",376297,"Voices","ARCP8YG1187B997D72",52.88356,"UK - England - South East",-1.97406,"Claire Hamill",0.0,313.05098,0,0.454,111.856,4,1.0,"Icicle Rain",0
+66,"SOBVZHC12AB0181786",557613,"Toutes Les Femmes En Moi","AREMOC71187B996C2F",,"",,"Lara Fabian",0.0,246.20363,8,0.709,104.994,4,0.545,"TLFM (Toutes Les Femmes En Moi)",2009
+67,"SOPDZXV12A58A77173",280275,"Roadmaps and Revelations","ARGGD1E1187B98FA9D",,"",,"Parachute Band",0.0,285.36118,9,0.528,87.967,4,0.781,"Thine Is The Kingdom",0
+68,"SOQPBEV12AC3DF66EF",729776,"Angelina & Other Favorites (Digitally Remastered)","ARN0DMU1187FB5B63A",,"Philadelphia Pennsylvania",,"Hall & Oates",0.0,158.40608,3,0.619,105.314,1,0.0,"Perkiomen",1993
+69,"SOOKCOH12A8C13AA44",251356,"Taste the X","ARFRR9R1187B98A987",,"",,"Ultra X",0.0,209.13587,1,0.01,101.458,4,0.453,"Break Em",0
+70,"SOOOJUT12AB01883B9",753651,"Brahms: The Complete Symphonies and Hungarian Dances","ARZOVCV11F4C83D9FA",,"",,"Bamberg Symphony Orchestra and Hans Swarowsky",0.0,151.01342,2,0.331,137.219,4,0.0,"Hungarian Dances_ WoO 1: No. 12 in D Minor: Presto",0
+71,"SOXNUWK12A8C140027",735440,"Wolfheart (re-issue + Bonus Tracks)","AR4C6V01187FB3BAF4",39.55792,"Portugal",-7.84481,"Moonspell",0.0,209.03138,11,0.02,85.515,4,0.0,"Trebraruna",0
+72,"SOBEVMI12AB018E480",681223,"A Somber Wind From A Distant Shore","ARSKSFC1264D0E32F8",,"",,"Canis Dirus",0.0,722.20689,9,0.667,200.169,3,0.543,"A Somber Wind from a Distant Shore (Album)",0
+73,"SOKSVVV12AB0181165",647761,"Bodjal","ARU2IVS1187FB42A82",,"",,"Ale Möller",0.0,184.42404,9,0.79,86.313,1,0.0,"Sandpolskan",0
+74,"SOERPVK12AB0185466",345449,"The Beatles","ARAOADX1187B98AED3",36.15398,"Tulsa OK",-95.99277,"Dwight Twilley",0.0,224.54812,7,0.395,90.875,4,1.0,"Tomorrow Never Knows",0
+75,"SOYPMHZ12AF72A31BD",282908,"Hold Your Fire","ARMH10M1187FB4184F",,"Wisconsin",,"Firehouse",0.0,278.12526,1,0.633,119.423,4,1.0,"Talk Of The Town",1992
+76,"SOAOIBZ12AB01815BE",627950,"Live! At The Royal Albert Hall","ARPBNLO1187FB3D52F",40.71455,"New York NY",-74.00712,"Tiny Tim",0.0,43.36281,6,0.02,93.779,3,0.666,"I Hold Your Hand In Mine [Live At Royal Albert Hall]",2000
+77,"SOQTVUL12A6D4F8F04",56996,"The Projected Passion Revue","AR8CT8U1187FB4D803",52.47859,"Birmingham England",-1.9086,"Dexys Midnight Runners",0.0,434.88608,7,0.437,84.437,1,0.0,"Until I Believe In My Soul",1982
+78,"SOJFBKG12AB017E36F",533246,"An American Storyteller","ARJSPFM1241B9CD859",,"Middle Village NY",,"Big Jay Oakerson",0.0,172.5122,8,0.434,122.757,1,0.0,"It's All In How You Look At It",2009
+79,"SOTBFHX12AB0183936",471943,"Leroy Hutson Selected Hits Vol. 1","ARVML4B1187FB52324",40.73197,"Newark NJ",-74.17418,"Leroy Hutson",0.0,276.87138,8,0.484,171.197,4,0.044,"All Because Of You - Original",0
+80,"SOOQKAN12AB01846F9",400022,"Then Sings My Soul: 24 Favorite Hymns & Gospel Songs","ARGIABO1187FB4B3B5",35.32689,"Robbinsville NC",-83.80489,"Ronnie Milsap",0.0,281.52118,9,0.906,83.973,4,0.0,"How Great Thou Art",0
+81,"SOAAFUV12AB018831D",762448,"Resistance","AR5ZGC11187FB417A3",37.27188,"California",-119.27023,"Big Mountain",0.0,216.05832,2,0.543,149.169,4,0.315,"Where Do The Children Play? (LP Version)",0
+82,"SOAOTOX12A58A7C308",69802,"Ride Ranger Ride","ARHK7A51187FB411D8",40.58751,"Redding CA",-122.39293,"Roy Rogers",0.0,146.07628,9,0.535,101.195,3,0.582,"My Chickasay Girl",0
+83,"SOYNESO12AB018782B",513031,"Eddie Cano at PJ's","ARODP5P1187FB40142",,"",,"Eddie Cano",0.0,225.17506,0,0.805,165.263,4,0.535,"The Trolley Song (Live Album Version)",0
+84,"SOOKYPR12AB018AD0C",818242,"Endzeit Bunkertracks - Act IV: The Alfa Matrix Selection","ARY02GH1187B99B223",,"Edmonton Alberta Canada",,"Zombie Girl",0.0,256.73098,11,0.207,120.103,4,1.0,"The Darkness (Komor Kommando Mix)",2009
+85,"SOYFOXO12A6D4F6C8B",81295,"Honey Hitters","ARMXCWK12086C13DB2",,"NY - New York City",,"I.N.T.",0.0,152.92036,7,0.0,93.105,4,1.0,"Big Sister",0
+86,"SOPXTAX12A6D4F573B",37491,"DECEMBERUNDERGROUND","AR2FAMK1187FB4CF60",,"Ukiah CA",,"AFI",0.0,187.03628,1,0.387,170.046,4,0.794,"Summer Shudder",2006
+87,"SOFKRIR12AB017CFE4",401201,"Santa's Christmas Collection","ARVQ4QM1187B98AD95",33.52029,"Birmingham AL",-86.8115,"Hank Penny & Sue Thompson",0.0,119.58812,3,0.668,140.151,3,0.941,"Walkin' In The Snow",0
+88,"SOGHNAC12CF5663C17",777599,"The Legendary Kenny Rogers","ARO4WQR1187B9B9825",,"Houston TX",,"Kenny Rogers",0.0,135.36608,5,0.531,154.783,1,0.0,"Where Does Rosie Go?",2003
+89,"SOUDAKO12A6D4F6A89",29535,"Snap","ARJG2ID1187B9A767E",51.31476,"Woking Surrey England",-0.56623,"The Jam",0.0,135.83628,0,0.799,139.826,4,0.921,"Start!",1980
+90,"SODKENB12A6D4F46AF",25979,"Live At The Filmore East","AR8SRQ31187FB4D477",52.94922,"Nottingham England",-1.14392,"Ten Years After",0.0,598.41261,9,0.741,128.239,4,0.359,"50_000 Miles Beneath My Brain (Live)",0
+91,"SOGEAPM12A8C137932",157323,"Truly...Sandy","AR0QS8F1187B9ADC96",,"",,"Sandy Lam",0.0,178.54649,10,0.808,122.886,4,1.0,"Zhan Zai Di Yi Pai",0
+92,"SORNZLS12AB018E4AB",679314,"Tall_ Dark & Chicano","ARYF20K1187B9B76BD",,"ORANGE California",,"George Lopez",0.0,330.16118,9,0.289,86.353,5,0.728,"Vibrators",2009
+93,"SONSUTY12A6D4FA57D",57691,"Luz Negra","ARWI6LR1187FB46E9F",43.57607,"Le Cannet France",7.01815,"Richard Galliano",0.0,190.74567,9,0.51,98.987,1,0.0,"Les Forains",1999
+94,"SOGYYVP12A8C14495E",528170,"Feather_ Stone & Light","AREJ5K11187B993F5F",,"",,"R. Carlos Nakai",0.0,170.762,1,0.904,203.737,3,0.835,"Restless Spirits (World)",0
+95,"SOQTOZK12A6D4F95AD",40248,"Estados","ARDZJ6H1187FB387F2",,"",,"Moraes Moreira",0.0,194.87302,2,0.09,128.544,4,0.147,"Felicidade",0
+96,"SOLEIOS12AB018372B",498256,"Wonderful Town","ARWVMJA1187B98AA6E",37.27188,"California",-119.27023,"Nancy Walker",0.0,162.79465,0,0.007,75.77,5,0.404,"Ya Got Me",0
+97,"SOJODUO12A6D4F69CD",50686,"The Art Of Storytelling","ARUMGZN1187FB37125",,"London England",,"Slick Rick",0.0,169.69098,4,0.346,92.551,3,1.0,"Kill Niggaz",1999
+98,"SOKHRWE12A6D4F6BE7",79861,"Direct Al Corazon","ARFYUX51187B9A7751",,"",,"Paquito Guzman",0.0,327.67955,11,0.25,176.113,4,0.277,"Cuando Seolvida El Amor",0
+99,"SOXAXWG12A81C20D97",132769,"Street Tough","ARISHTQ1187FB3E6F0",,"",,"Ben E. King",0.0,339.66975,4,0.393,208.338,4,0.745,"You Made The Difference To My Life (LP Version)",0
+100,"SOEISBO12AC468ABAB",606149,"Preset 001 / Reset 001","ARMUCXW11F50C4BFEC",,"",,"Bionikworld",0.0,413.51791,11,0.03,125.997,4,0.429,"Party Favours (Dee Dee's Flukey Remix)",0
+101,"SOJMLXA12A8C12FB20",282332,"Fire Garden","AROY6XW1187B991121",,"Carle Place New York",,"Steve Vai",0.0,304.71791,5,0.663,227.161,4,0.645,"Brother",1996
+102,"SOQJLFV12AB01897C7",656041,"Calm Before the Storm","ARGXIE31187FB55B48",,"BAKERSFIELD California",,"Tech N9ne",0.0,354.7424,2,0.612,167.984,4,0.335,"Soldiers At War feat. Kon Juan_ Big Scoob_ Short Nutty_ L.V.",0
+103,"SOUSNTL12A6D4F7CE9",23251,"Majurugenta","ARFK45R1187B989AA7",,"",,"Ghorwane",0.0,343.40526,0,0.683,78.666,7,0.661,"Matarlatanta",1993
+104,"SOPAHSW12AB0186F88",462641,"Street Breaks & Beats","ARLLANI1187FB5116F",,"",,"Simon Harris",0.0,185.62567,1,0.119,102.976,3,1.0,"Sample Track 18",0
+105,"SOHYEJU12AC3DF9CE7",694101,"Rock 'em Dead","ARNRTFR1269FCD155C",,"",,"Adam Richmond",0.0,36.10077,7,0.006,114.057,3,0.741,"Pic & Run",0
+106,"SOOTDLW12AB017DBF3",531252,"Pump Up The Bhangra","AR2PNSZ1187B9AF0A4",,"",,"Pardesi",0.0,254.9024,8,0.14,98.824,4,0.288,"Pardesi Pind Wich Ageya",0
+107,"SOHUTDD12AB018A94F",715197,"Gypsy (Original Broadway Cast)","AR2JD2Z1187B998A90",40.77735,"New York NY [Astoria Queens]",-73.88137,"Ethel Merman",0.0,135.31383,0,0.703,124.184,1,1.0,"Small World",0
+108,"SOOXJSH12A8C137DD1",289558,"40 Dayz & 40 Nightz (Explicit)","AR49IQD1187FB37EA7",,"Los Angeles CA",,"Xzibit featuring Jayo Felony and Method Man",0.0,201.06404,6,0.665,96.058,4,0.99,"Pu**y Pop",0
+109,"SOFVXXK12A8C135404",253395,"Re-zoom","ARVVLMQ11F4C8456E4",,"",,"Knack",0.0,230.71302,2,0.581,150.08,4,0.0,"Everything I Do",0
+110,"SOLQVOX12AB018BF56",767267,"Put Em Up EP","ARIGY9P1187B9B6428",,"GERMANY",,"Ancient Astronauts",0.0,331.59791,7,0.739,170.04,4,0.922,"Lost in Marrakesh with Entropik (Pathaan's Mirage Mix)",0
+111,"SOUWQYP12A8C1373F2",293908,"Estopa","ARZ4Y2H1187FB3C36F",,"",,"Estopa",0.0,195.83955,11,0.742,142.869,4,1.0,"Exiliado En El Lavabo",1999
+112,"SOLOJYI12A8C13C49E",217883,"Operaatio Jalokivimeri","AR22KLC1187B98E812",,"",,"Kaija Koo",0.0,192.26077,11,0.436,155.049,4,0.272,"Savu hälvenee",1998
+113,"SOKHOUY12A8C1358E0",256978,"Beyond The Valley Of 1984","AREENKN1187B98F35D",40.71455,"New York NY",-74.00712,"The Plasmatics",0.0,286.9024,11,0.701,119.38,4,0.71,"Summer Nite",1981
+114,"SOPPIJK12A8C13EAC5",171954,"Vena Cava","ARUUP4L1187B9B72EB",32.71568,"San Diego CA",-117.16172,"Diamanda Galas",0.0,191.42485,11,0.414,168.352,5,0.812,"Vena Cava 8",1993
+115,"SOJBLIX12A8C1373C7",93091,"Continued Story / Hi_ How Are You?","AR6CLFP1187B9ACB94",,"Sacramento CA",,"Daniel Johnston",0.0,219.76771,9,0.678,92.938,1,0.23,"Desperate Man Blues",1983
+116,"SOAECCP12AB0186ADB",765209,"Move That Thing Vol 2","AR5GLIU1187FB4638A",,"Memphis TN",,"Memphis Jug Band",0.0,184.52853,3,0.413,94.853,1,0.0,"Spider's Nest Blues",2005
+117,"SOBDZUW12A8C13ED88",520987,"The Dee Jays / Baby Talk - Best of","ARBIXZL12086C11573",,"",,"The Dee Jays",0.0,195.10812,5,0.725,118.355,4,0.364,"In The Midnight Hour",0
+118,"SONRQRW12AB01880EC",648437,"HarpGuitar "Antonio Koudele Plays Evergreens" Vol.1","ARBSAVH1241B9CA637",,"",,"Antonio Koudele",0.0,175.90812,4,0.904,117.298,4,1.0,"Track TAKE FIVE",0
+119,"SOFOFCW12AC468DFC5",746053,"Pure Cotton","ARWI92K1187B98A5CC",,"",,"Jets",0.0,260.38812,11,0.678,106.68,7,1.0,"Alligator Come Across (Live)",0
+120,"SORVKAX12A8C1343AA",576851,"Joyful Rebellion","ARCF06I1187B995398",,"",,"K-OS",0.0,304.16934,7,0.279,104.128,4,0.507,"Man I Used To Be",2004
+121,"SOUSWBE12A679AE573",15742,"Living With Ghosts","AR6I54S1187FB48C6B",,"Old Town ME",,"Patty Griffin",0.0,208.32608,4,0.934,95.738,4,0.737,"Moses",1996
+122,"SOFKYTG12A6D4F7275",2014,"Happy Love Sick","ARE8LV21187B9B9A6B",34.05349,"Los Angeles California",-118.24532,"Shifty",0.0,192.91383,3,0.0,163.884,4,0.337,"EZ Cuz You're Beautiful (Album Version)",2004
+123,"SOLQLCA12AB0188BBD",763905,"Valleys Of Neptune","ARNDL191187FB51583",,"Seattle USA",,"Jimi Hendrix",0.0,449.74975,8,0.912,146.77,1,0.0,"Hear My Train A Comin'",1989
+124,"SOIMFZR12AB017F041",437901,"The Legendary Leonard Kwan : The Complete Early Recordings","ARN5BHA1187B99E072",,"",,"Leonard Kwan",0.0,170.31791,5,0.0,108.912,4,0.765,"Hawaiian Chimes",0
+125,"SOKMPKV12A67AE241B",734726,"The War Within","ARK8OHG1187B99016A",,"Boston MA",,"Shadows Fall",0.0,283.48036,0,0.489,84.992,4,0.42,"What Drives The Weak",2004
+126,"SOQGZBE12A8C139160",204315,"Live On St. Patrick's Day","ARD2NDU1187B99B615",,"Boston MA",,"Dropkick Murphys",0.0,196.72771,9,0.008,183.808,4,0.0,"Bloody Pig Pile (Live)",2002
+127,"SONUMYT12A8AE47DEE",277871,"Jaktens Tid","ARB5TJM1187B9A71FD",,"",,"Finntroll",0.0,125.46567,1,0.0,110.972,4,0.0,"Kitteldags",2001
+128,"SOXDWON12AB018612D",723079,"Carheart","ARZ02US1187FB430BD",52.88356,"UK - England - South East",-1.97406,"Virus",0.0,529.03138,0,0.019,155.091,4,0.917,"Be Elevator",0
+129,"SOVPWRB12A6D4FB0C3",226440,"Dr. Elmo Sings The Boo's","AR45KNL1187B992E53",37.77916,"California - SF",-122.42005,"Dr. Elmo",0.0,151.84934,9,0.474,65.637,4,0.891,"Happy Halloween Anniversary",0
+130,"SOZPRDS12A8C134E2E",288111,"Sunday People","ARY7DVZ1187FB58433",,"",,"The Monroes",0.0,219.61098,4,0.655,132.369,4,0.206,"Arabian Night",1983
+131,"SOPQTWV12AC3DF9853",730337,"A Loaf Of Bread_ A Container Of Milk And A Stick Of Butter","ARNNBW81187FB55594",52.94922,"nottingham",-1.14392,"We Show Up On Radar",0.0,194.71628,4,0.0,80.029,3,0.562,"Like a Bird Pulling Up At a Worm",0
+132,"SODHRKU12A8C139009",156663,"Grand Slam - The Best Of Babe Ruth","ARX14WH1187FB50649",51.76102,"Hatfield Hertfordshire England",-0.23396,"Babe Ruth",0.0,159.00689,11,0.08,144.474,1,0.0,"A Fistful Of Dollars (1994 Digital Remaster)",0
+133,"SOVSJCE12A6701E0D9",16044,"For The Masses","ARK0BT61187B9ACEC2",,"",,"Monster Magnet",0.0,260.17914,0,0.532,61.593,3,0.96,"Black Celebration",1998
+134,"SODKCCT12A67ADA321",345570,"Ministry of Sound Presents 100","AROI96Z1187B9A5304",,"",,"Mish Mash",0.0,211.90485,0,0.895,124.043,4,1.0,"Speechless",2006
+135,"SOBWXDJ12A58A7725D",42341,"This Is Where You Belong","ARUYGJ31187B9A2FEA",30.33138,"Jacksonville FL",-81.6558,"The Summer Obsession",0.0,282.04363,0,0.359,79.935,4,0.0,"Where You Belong",2006
+136,"SOLLCFT12A58A7A566",717115,"The Dream","ARV2X851187FB41A78",42.31256,"Mass. - Boston",-71.08868,"Open Hand",0.0,486.97424,9,0.284,86.308,4,0.783,"Never Alone",1999
+137,"SOUVKXW12A8C1427AC",611118,"Dance Workout Classics; Keep Fit With The Hottest Hits & Remixes","ARPDVPJ1187B9ADBE9",,"Atlanta GA",,"Usher",0.0,286.77179,11,0.322,147.979,4,0.0,"Trading Places",2008
+138,"SOPAHBW12A6D4F7638",129349,"Punto y aparte","AR2K2CM1187B98D4F1",36.71832,"MalagaSpanija",-4.42016,"Fran Perea",0.0,173.08689,4,0.215,90.645,1,0.868,"Entonces",2005
+139,"SOLPZUJ12A81C21413",276801,"14 Megala Tragoudia - Angela Dimitriou","AR4OHL91187B9B2EB9",,"",,"Angela Dimitriou",0.0,215.562,8,0.532,109.695,4,1.0,"Mi Mas Agapas",0
+140,"SOAMIZZ12AB0182A28",360241,"Mr. McGregor","ARX5XTP1187FB3D8CC",,"",,"Freddie McGregor",0.0,185.83465,5,0.07,167.48,4,0.201,"Zion Chant (Album Version)",0
+141,"SOWJFHF12AF72A7603",484175,"Steps of Faith 1987-1991","ART1R9I1187B9B3324",,"",,"Margaret Becker",0.0,268.87791,0,0.31,162.296,4,0.159,"Just Come In",0
+142,"SONMNZJ12CF5F892EE",265343,"Sun Giant","ARO2U2Q119B86692A8",,"PHILADELPHIA Pennsylvania",,"Fleet Foxes",0.0,281.18159,8,0.408,196.022,4,0.574,"English House",2008
+143,"SOBMAHU12AB017FA30",628277,"30 Of His Best","ARKBTPV1187FB38A79",32.51461,"Shreveport LA",-93.74727,"Faron Young",0.0,159.79057,9,0.542,141.772,1,0.814,"It's Four In The Morning",1986
+144,"SOFCHBZ12A8C142084",611922,"Líricas","ARVLIVA1187B991590",,"",,"Zeca Baleiro",0.0,237.97506,9,0.632,86.006,5,0.375,"Blues Do Elevador",2000
+145,"SOMKTMJ12AB0189ACF",519747,"Humboldt Beginnings","AR82DJK1187B991107",34.05349,"Los Angeles CA",-118.24532,"The Pharcyde",0.0,138.50077,7,0.396,130.019,3,0.017,"Homegrown",2004
+146,"SODREXM12AB017C1E8",623039,"The Original Johnny Cash Volume 1","ARH861H1187B9B799E",,"Kingsland AR",,"Johnny Cash",0.0,80.03873,1,0.083,196.303,4,0.572,"You Tell Me",1959
+147,"SOCVPCD12AB018E260",764939,"Skylines","ARN5MQ11187B98A12D",,"",,"Sean Quinn",0.0,217.52118,2,0.601,111.442,4,0.444,"Skyline",0
+148,"SODGOXT12A8C1418DE",475523,"Hit Club_ The Hits 1949","ARK82DC1187B9A1FEB",38.59264,"Webster Groves MO",-90.35591,"Gordon Jenkins",0.0,190.48444,5,0.098,66.988,4,0.819,"Don't Cry_ Joe",0
+149,"SOVQKHW12AB01804CD",440044,"Le cinéma de Francis Lai","AR25WM21187FB461B3",,"",,"Francis Lai",0.0,243.43465,7,0.499,97.849,3,0.815,"13 jours en France",1996
+150,"SOBCLUB12A6BD53D2E",72103,"Rubikon","AREUYDJ1187B9BA040",,"Havířov Česká republika",,"Krystof",0.0,222.32771,9,0.483,88.024,4,0.864,"Svedomi",2006
+151,"SOYHKYI12A6D4FAEB4",57714,"Scratchy: The Reprise Recordings [Includes Liner Notes]","ARXLX5L1187FB47BED",,"",,"Crazy Horse",0.0,732.39465,9,0.636,119.649,5,1.0,"Scratchy (Takes 1-3 / bonus track)",0
+152,"SOVNVPF12A8C13AD4A",254710,"White African","ARSRFOY1187B9917DA",41.88415,"Chicago IL",-87.63241,"Otis Taylor",0.0,107.83302,4,0.805,217.289,1,0.0,"Round and Round",2001
+153,"SODNYXU12A8C13F1B3",116845,"Nemam Razloga Za Strah","ARWDDAE11F4C844B57",,"",,"Donna Ares",0.0,194.71628,1,0.508,87.006,4,0.901,"Prijateljica",0
+154,"SOMYOQU12A8C13C2B4",212353,"The Faithless","ARXIIEY1187FB44EAF",35.14968,"Memphis TN",-90.04892,"Nights Like These",0.0,305.89342,5,0.283,124.872,1,0.93,"Ghost Town Rituals (Album Version)",2006
+155,"SOJGYPA12A8AE46C32",280982,"Rivers Of Joy","ARG274E1187FB4BCA8",,"",,"Russ Taff",0.0,343.37914,2,0.452,124.343,4,0.645,"We Will Stand",1998
+156,"SOEXJDG12A8C137AE8",98433,"Lockwood","ARXXCHI1241B9C54EE",29.97525,"Cypress Texas",-95.6802,"Lockwood",0.0,256.46975,0,0.421,107.386,4,0.886,"Meat Parade",0
+157,"SOMKDZN12A8C144D1E",375651,"The Complete Hi Recordings of Charlie Rich","AR0B1CH1187FB3A824",34.56398,"Benton Arkansas",-92.58685,"Charlie Rich",0.0,148.24444,7,0.487,108.128,4,0.151,"Only Me",0
+158,"SOHGKJW12AC468A8BD",782470,"Lo Mejor con La Orq. Broadway","AR6YDKV1187B989230",,"",,"Roberto Torres",0.0,226.66404,0,0.863,117.271,4,0.453,"Sabor Guajiro",0
+159,"SOJIQVT12AB0189EB1",761403,"Danzones de Ayer","ARBVUUG11F50C48750",,"",,"Fajardo",0.0,118.85669,2,0.694,121.423,1,0.0,"La Fluta Magica",0
+160,"SOUGCKR12A8C14402B",372927,"Live In Switzerland","ARR8AIK1187B9A0BCE",34.30138,"Stovall MS",-90.64208,"Eddie Boyd",0.0,291.76118,2,0.363,110.14,3,1.0,"I got A Woman",0
+161,"SOUEARP12A58A7D643",600381,"This Is Love","ARX2R5A1187FB5B85B",33.74831,"Joliet IL &amp; Atlanta GA",-84.39111,"Ann Nesby",0.0,243.01669,11,0.863,88.008,4,0.292,"Tables Turn",0
+162,"SOCQAEO12AB01825BC",550709,"Siempre Es Hoy/Reversiones","AR189B91187B9B8D9C",,"",,"Gustavo Cerati",0.0,232.48934,2,0.0,110.016,4,1.0,"Tu Cicatriz En Mi",0
+163,"SOIWQSF12AC468C3CD",599225,"Radiant Health & Well-Being","AROC6N61187FB40B14",,"",,"Steven Halpern",0.0,248.63302,5,0.4,134.538,3,0.356,"Natural Light (Subliminal Self-Help)",0
+164,"SOAVRJE12A58A798CE",532273,"Cores_ Nomes","AR9JNFU1187B9B9868",-23.6361,"Santo Amaro da Purifica� Bra",-46.71173,"Gal Costa",0.0,242.9122,5,0.677,145.099,7,0.68,"Meu Bem Meu Mal (Mi Bien Mi Mal)",0
+165,"SOQJDZH12A67AE0CBF",19265,"Judgement Days","AR21YNH1187FB49649",51.50632,"London",-0.12714,"Ms. Dynamite",0.0,208.5873,2,1.0,109.287,1,0.616,"Unbreakable",2005
+166,"SOMKDSL12A8A9D5A19",277481,"Gentleman's Blues","ARWD82K1187B98CFF2",,"Richmond VA",,"Cracker",0.0,196.5971,9,0.263,107.848,4,0.352,"My Life Is Totally Boring Without You",1998
+167,"SOWQNPV12A6D4F980D",47592,"Flying Cowboys","ARXPE571187FB4AFD0",,"Chicago IL",,"Rickie Lee Jones",0.0,331.36281,0,0.717,87.94,4,0.836,"Away From The Sky",1989
+168,"SOMZNFA12A6D4F8A2A",37893,"Jongo Trio","ARRLCY71187B9A0FC6",,"",,"Jongo Trio",0.0,157.72689,2,0.192,144.581,4,0.0,"Cavaleiro De Aruanda",0
+169,"SOLETWK12AF72A1079",485654,"Mind Control","ARH9GD41187FB37E0F",,"",,"Stephen Marley",0.0,270.05342,9,0.667,118.144,4,0.821,"Mind Control",2005
+170,"SOKDRIH12AB0182247",623984,"Bloomfield-A Retrospective","AR0569B1187B9A4036",,"",,"Mike Bloomfield",0.0,320.1824,9,0.709,102.533,3,1.0,"Tell Me Partner",0
+171,"SOPOFBK12AF729EEBE",15564,"The Ever Passing Moment","ARBOG0H1187B99F775",47.565,"Bremerton WA",-122.62569,"MxPx",0.0,129.88036,7,0.589,130.716,1,0.0,"Answer In The Question",2000
+172,"SOKCJMY12A8C1449C1",610778,"Out Of The Gutter","ARONPP01187B995FB5",52.88356,"England",-1.97406,"Cockney Rejects",0.0,250.01751,9,0.367,165.621,4,0.0,"Beginning Of The End",1987
+173,"SOZCQBJ12A8C13E811",174574,"Abrazame Fuerte","ARP2TO91187B9913EA",29.95369,"New Orleans LA",-90.07771,"Angelica Maria",0.0,160.83546,0,0.789,81.649,4,0.892,"Te Necesito",0
+174,"SOGAKLF12A67AD9390",584842,"Le Monde de Pierrot","ARW45YR1187FB3DE95",,"",,"Pierre Perret",0.0,90.46159,5,0.085,135.487,4,0.011,"Le poulet",1994
+175,"SONBWUH12A8C1421BB",527141,"The Baroque Beatles","AR76YOD1187FB46B24",40.71455,"New York NY",-74.00712,"Joshua Rifkin",0.0,111.46404,2,0.451,90.318,1,0.085,"Réjouissance [I'll Cry Instead]",0
+176,"SOZUQAZ12A81C21E0D",131960,"12 Grandes exitos Vol. 1","ARO1NHM1187B9B9D27",,"",,"Los Solitarios",0.0,168.12363,5,0.61,94.994,1,0.0,"Verdad Amarga",0
+177,"SOTQHWA12A8C136E39",287074,"Live In Swing City- Swingin' With Duke","ARBTD2Y1187B9B3EA5",,"",,"Lincoln Center Jazz Orchestra",0.0,304.84853,5,0.0,90.306,4,1.0,"Chinoiserie",0
+178,"SOEZXGQ12AAA8C65E3",528810,"Jump / House Of Pain [Digital 45]","ARNLO5S1187B9B80CC",,"Pasadena CA",,"Van Halen",0.0,199.10485,4,0.743,200.52,4,0.0,"House Of Pain",1983
+179,"SOWETKI12A67ADC802",65938,"As Nasty As we Wanna Be","ARTQ6AP1187B998A84",,"",,"NG3",0.0,240.50893,2,0.396,106.019,4,0.808,"Tainted Love feat. Tatz",2003
+180,"SOWPLTX12A5891F918",779118,"At Night (The Unreleased Mixes)","ARVNK831187FB48831",37.27188,"California",-119.27023,"Shakedown",0.0,437.9424,3,0.256,123.994,4,0.95,"At Night",2001
+181,"SOGBFJS12AB0183AB7",623902,"Faithful To Believe","ARNORNI1187B98CAFB",,"",,"Byron Cage featuring Tye Tribbett",0.0,240.43057,1,0.26,119.194,4,0.609,"In The Midst",0
+182,"SOAPYOS12A8C133890",283031,"Swing - Original Broadway Cast Recording","AR4JY8V1187B98A62F",,"",,"Ann Hampton Callaway;Laura Benanti;Michael Gruber;Everett Bradley",0.0,217.73016,5,0.177,194.039,3,0.539,"Stompin' at the Savoy",0
+183,"SOJBNUB12A6D4FC0D3",725674,"A Man And His Music","AR78WG01187B98E404",19.45565,"Santiago de los Caballeros Domin",-70.70719,"Johnny Pacheco/Rolando La Serie",0.0,136.09751,0,0.502,112.915,4,0.952,"La Palabra Fin",0
+184,"SOATIOJ12A8C14469B",611228,"Ceol Tacsi","ARQF6NE1187FB55EF7",,"",,"Karan Casey",0.0,189.88363,3,0.09,102.745,5,0.778,"Sliabh Geal gCua",0
+185,"SOIVRUS12A8C133164",190811,"The Bucket List","AR8IEZO1187B99055E",,"",,"Marc Shaiman",0.0,106.81424,0,0.582,136.975,4,0.0,"Blame Canada ( From: South Park )",2008
+186,"SOKFEUT12A6D4FC34C",274347,"Steer EP","AROOKC21187B9AE85C",-37.81753,"Melbourne Australia",144.96715,"Missy Higgins",0.0,255.34649,9,0.706,142.968,4,0.517,"Where I Stood [Live]",0
+187,"SOXXGFN12A8C1379A1",249009,"Hattie B's Daughter","ARF3PG41187FB4B0B4",,"",,"Dorothy Norwood",0.0,287.03302,5,0.701,151.215,3,1.0,"Near The Cross",0
+188,"SOQPAQK12A8C13B2DB",160881,"The Real Twang Thang","ARDNS031187B9924F0",32.67828,"Georgia",-83.22295,"Tim Wilson",0.0,166.84363,5,0.161,122.061,4,0.842,"The Michael Vick Song",2005
+189,"SORXEQN12AB0184EEE",559845,"Menace To Society","AR8FMEN1187FB4A657",34.05349,"Los Angeles CA",-118.24532,"Lizzy Borden",0.0,268.40771,2,0.441,145.882,4,0.257,"Generation Aliens",1986
+190,"SOSNAWZ12A6D4F74DF",28940,"Jahmekya","ARLUAK21187B9B785A",,"",,"Ziggy Marley And The Melody Makers",0.0,246.54322,7,0.718,110.873,4,0.031,"Namibia",0
+191,"SORVMCT12A6D4FA8F7",54099,"Safari Beach (Tucasa Micasa)","ARQVLQJ1187B98F11F",,"",,"Mau Mau",0.0,232.12363,2,0.46,89.672,1,0.976,"Gamble Calypso",2000
+192,"SOARVHI12AB018C588",662089,"Greatest Hits","ARDQO721187FB3C6D9",,"",,"Rodney O & Joe Cooley",0.0,217.41669,1,0.329,107.185,4,1.0,"U Don't Hear Me Tho' (Street Mix)",1993
+193,"SOOZYMQ12AB018E589",773435,"Knowledge Zombie","AR8BMEQ1187B9B4214",38.2589,"Missouri",-92.43659,"Pumpkin Buzzard",0.0,271.49016,11,0.418,104.19,1,0.039,"The Sector of Foliage",0
+194,"SODPTLB12A8C13E227",111347,"Überfall","ARGBG2T1187B9B1670",,"",,"Massive Töne",0.0,310.25587,8,0.19,92.872,4,1.0,"Notify The President Feat. Celestial Souljahz - Shabazz The Disciple & Freestyle",0
+195,"SOKLGLN12A8C13D204",305855,"Witness Protection","ARXP7MQ1187FB3AC5F",,"LOWELL",,"Dave Hollister",0.0,258.16771,11,0.242,117.936,4,1.0,"Calm Da Seas",2008
+196,"SOULRCV12A8C137BEC",150802,"Differente","ARYVLXY1187FB373B0",50.82056,"Ixelles Belgium",4.37967,"Maurane",0.0,263.67955,10,0.16,89.394,4,0.887,"Juste Une Petite Fille",1995
+197,"SOIBLAH12AB018B3BA",596461,"Kona Gold","ARO5P0H1187FB5BAD7",,"Kona HI",,"Pepper",0.0,108.93016,11,0.064,148.712,4,0.0,"Stormtrooper (Live)",2009
+198,"SOPRWGJ12AB018216D",453419,"A Kiss And A Cuddle","AR59C6A1187B9B2143",-24.9162,"Australia",133.39311,"The Cat's Miaow",0.0,103.00036,2,0.811,92.966,5,0.568,"Talking To Trees",2003
+199,"SONJHTY12AB017FCE6",533363,"Pendulum","ARFNJ4O1187B9A204B",52.47859,"Birmingham England",-1.9086,"Broadcast",0.0,102.94812,9,0.474,161.196,1,0.084,"One Hour Empire",2003
+200,"SOCJPAI12AB0185DB1",702585,"Manhattan Mayhem (a history of the Dolls)","ARS1OWB1187B99EEAD",,"New York NY",,"New York Dolls",0.0,210.85995,7,0.844,110.056,4,0.0,"Trash (live Paris)",0
+201,"SOPOWJI12A8C14159F",170018,"Reaching For The Best","ARH8VT91187FB49CA2",45.7594,"Lyon FR",4.82897,"The Exciters",0.0,194.53342,5,0.328,137.237,4,0.0,"Reaching For The Best",1994
+202,"SONISVG12A8C13EB34",162755,"Long Road Out Of Eden","AR16GSC1187B9A6291",,"Los Angeles California",,"Eagles",0.0,427.36281,9,0.472,115.277,1,0.0,"Last Good Time In Town",2007
+203,"SODFEVS12AB018C60A",822324,"Fasten Your Seat Belt","ARPJQLM1269FCCFBFF",,"",,"Pete Bamboo",0.0,290.37669,9,0.389,156.078,4,0.0,"Baila Cariño",0
+204,"SOBRRQI12AB017E0A0",348243,"Baroque at Bathtime","ARJEPNS1187FB3DEF4",,"",,"Angel Romero / The Academy of St. Martin in the Fields / Iona Brown",0.0,141.322,2,0.708,106.98,4,0.141,"Largo",0
+205,"SOSJVGP12AB0185B95",591025,"El Mas Chingon","ARYF20K1187B9B76BD",,"ORANGE California",,"George Lopez",0.0,270.68036,9,0.022,101.455,1,0.0,"Church Hangover",2006
+206,"SORQSRN12AB018102E",463023,"ISM","ARJNQM51187FB54C55",,"",,"Smut Peddlers",0.0,167.60118,11,0.568,116.638,4,0.0,"Playstation Generation",0
+207,"SOAVKMN12A58A7C691",299837,"Junge Roemer","AR5DXUU1187B9B0E42",48.20254,"Vienna Austria",16.3688,"Falco",0.0,228.12689,5,0.45,123.028,4,0.926,"Brillantin' Brutal'",1984
+208,"SOOTRFL12A6D4F5428",35097,"Sag Ihnen Bescheid","AR5BLB01187FB57E99",,"",,"Headliners",0.0,216.89424,9,0.712,160.158,4,0.835,"Sag Ihnen Bescheid",2005
+209,"SOZMKSN12AC96186C4",602681,"Big Damn Nation","ARM2D2V1187B9AEB4F",,"",,"The Reverend Peyton's Big Damn Band",0.0,179.46077,0,0.039,118.167,4,0.709,"My Old Man Boogie",2006
+210,"SOPSDJE12AB0184BC7",415839,"Songs of Ireland And Beyond","ARW45K91187FB3DE04",44.00118,"United States",-71.6342,"Tommy Makem;The Clancy Brothers",0.0,117.02812,11,0.715,120.988,1,0.0,"Old Woman From Wexford",0
+211,"SOSFHGJ12AB01857C0",669695,"Rares für Bares 2004","AR58SW81187B992CA0",,"",,"Zeltinger Band",0.0,222.24934,1,0.571,140.264,4,0.161,"Wo bleibt die Mark?",0
+212,"SOIHZMH12AB017DF93",441344,"Cinema Do Mar","ARCID1N1187FB51DA0",,"",,"Carlos Nuñez",0.0,215.35302,9,0.779,211.327,3,1.0,"Quiero Ir Ao Mar",2005
+213,"SOJLDJL12A81C238A0",276869,"Converge EP","ARYOPH81187B98AEED",40.65507,"Boston Brooklyn USA",-73.94888,"Converge",0.0,407.03955,5,0.294,152.775,4,1.0,"Deep Inside",0
+214,"SOMBVRT12AB0181F49",447998,"Bienvenidos A La Época Iconoclasta","ARYXJ5A1187B9B9E56",36.69094,"Jerez De La Frontera (Cádiz)",-6.13487,"Los Delinqüentes",0.0,192.1824,9,0.51,146.64,4,0.923,"Quítate La Ropa",2009
+215,"SOMYXTW12A8C130319",282973,"Master Sessions Vol. II","ARS8HNI1187B9B0785",23.1168,"Havana Cuba",-82.38859,"Cachao",0.0,84.94975,7,0.423,81.24,4,0.0,"Los Tres Glopes / The Three Beats (danza)",0
+216,"SOBGWIG12A6D4F6329",25791,"Aziatic","ARKQ9JM1187FB57521",,"Oakland CA",,"AZ",0.0,60.21179,2,0.048,87.599,4,1.0,"Aziatic (Outro)",2002
+217,"SOBXGKH12AB017DDB6",651412,"Demigod","AR1OBRC1187FB59AD4",,"POLAND",,"Behemoth",0.0,178.33751,1,0.695,85.112,1,0.0,"Before The Æons Came",2004
+218,"SOVVDVO12A8C14215D",309474,"We Ride","ARKU3Z61187FB51DCA",13.11199,"St Michael Barbados ",-59.59895,"Rihanna",0.0,237.87057,5,0.158,99.989,1,1.0,"We Ride",2006
+219,"SODIAHF12A6D4F809C",24055,"Country Greats","AR0RCMP1187FB3F427",30.08615,"Beaumont TX",-94.10158,"Billie Jo Spears",0.0,159.81669,5,0.892,101.626,3,1.0,"Misty Blue",1976
+220,"SOWPPAT12AB017F666",602643,"Live From Nowhere In Particular","ARSHZBZ1187B98A445",,"",,"Joe Bonamassa",0.0,372.76689,5,0.432,66.366,3,0.823,"So Many Roads",2006
+221,"SOKZLSY12A8C1320E1",284045,"Broadway: The Great Original Cast Recordings","AR4ABL21187FB3913A",40.99471,"Pennsylvania",-77.60454,"Richard Burton",0.0,149.28934,5,0.642,112.144,4,0.418,"Camelot",0
+222,"SOJCRUU12AB018BE8A",570765,"Take Me To Paradise","ARYOMNP11F4C842E43",,"",,"Will To Will",0.0,508.65587,0,0.771,129.818,4,0.0,"Take Me To Paradise (Nicky Scanni's Garage Mix)",0
+223,"SOCIEFE12AB0183821",358049,"Mercury Retrograde","ARE0OLY1187B9AD19F",40.79263,"Whitestone Queens NY",-73.80817,"Jesse Malin",0.0,260.62322,1,0.401,120.648,4,1.0,"Since You're In Love",2004
+224,"SOVEHDZ12AB017E78F",391315,"Introspective","ARAI3SX1187B9A3A9A",,"",,"Brainchoke",0.0,91.01016,6,0.675,127.171,4,1.0,"1st World Hypocrisy",0
+225,"SOBSKJV12A67AE0CC4",19265,"Judgement Days","AR21YNH1187FB49649",51.50632,"London",-0.12714,"Ms. Dynamite",0.0,286.32771,9,0.53,125.916,3,0.262,"Mr. Prime Minister",2005
+226,"SOHJJTY12A8C139876",212126,"En Joy","ARIP54S1187FB53259",,"",,"Jaime Urrutia",0.0,214.43873,5,0.221,133.01,4,0.969,"Caray! (con Loquillo_ directo Enjoy 07)",0
+227,"SORTGBA12AB018A917",583352,"Petit Coeur Assassin","AR1KMPF1187B99AA98",,"",,"Lara",0.0,190.85016,9,0.283,109.318,4,0.456,"Café Sarajevo",0
+228,"SOBVBID12A8AE474E3",233366,"Endless Pain","ARSCJQW1187B9B3523",,"Vrsac",,"Hoods",0.0,63.58159,1,0.579,103.931,3,0.615,"Suffer",0
+229,"SORJHOX12A8AE48899",529132,"Donnie McClurkin... Again","ARF3HEO1187B9AF2F4",,"",,"Donnie McClurkin",0.0,318.82404,8,0.577,230.041,3,1.0,"I'm Walking",0
+230,"SOFRUDU12A8C13A40C",293622,"RCA Country Legends","AR0X3JJ1187FB3A9A7",,"McLellan FL",,"Hank Locklin",0.0,127.05914,2,0.826,148.357,4,0.097,"We're Gonna Go Fishin'",0
+231,"SOLMECR12AB018B776",757389,"The Quiet Hour","AREZWC61187FB52DCF",29.76045,"Houston TX",-95.36978,"Johnny Nash",0.0,187.0624,3,0.607,86.128,1,0.753,"I See God",0
+232,"SOEAXUV12A6D4F8FA2",304975,"Valse Avec Bachir","ARDG9Z71187B997023",51.50632,"London England",-0.12714,"Public Image Ltd",0.0,251.50649,9,0.007,127.369,4,0.0,"This Is Not A Love Song",1983
+233,"SOJUTCU12AB017EDB4",495309,"Instrumentals and Lost Tracks","AR16T2D1187B98ABF4",,"",,"Zimbabwe Legit",0.0,235.91138,1,0.0,100.145,4,0.752,"Siyabonga (Unreleased Bonus Track)",0
+234,"SOSZFJT12AB0181E84",417438,"Mask Industries","AR74W1A1187FB5ACFC",48.20254,"Vienna",16.3688,"Devanic",0.0,336.06485,4,0.034,87.044,4,0.437,"I Am",2006
+235,"SOOCPDS12A8AE469F0",280211,"Charmer","ARF2EHS1187B994F4E",36.16778,"Nashville Tennessee",-86.77836,"Kings Of Leon",0.0,225.27955,11,0.682,127.006,4,0.589,"My Party (Kenna Remix)",2007
+236,"SOKASNE12A6D4F850B",25815,"Mississippi-The Album","AREMPZY1187B9B8FF3",,"Jackson MS",,"David Banner",0.0,183.90159,6,0.611,99.487,5,1.0,"Bush",2003
+237,"SOYJKGB12AB01877C7",644085,"Peaceful Evening","ARJ3TAF1187FB4AAB1",37.27188,"California",-119.27023,"David & Steve Gordon",0.0,311.35302,2,0.796,64.634,3,0.326,"Evenglow",1982
+238,"SOWDLGO12AB0182434",367177,"Meet Me in the City","ARRM70G1187B9A7F64",,"Hudsonville MS",,"Junior Kimbrough",0.0,294.76526,4,0.831,92.32,3,0.546,"Lonesome Road",1997
+239,"SOAHAZZ12AAF3B464A",480803,"Drawing Down the Moon","AREBWEH1187B99EA9A",,"Helsinki",,"Beherit",0.0,202.91873,11,0.512,130.955,4,0.708,"Lord of Shadows and Golden Wood",1993
+240,"SOWMWMK12A6BD4F3AC",71767,"TheBloodyTransylvaniaStreetMachine","AR0XJ291187FB45855",39.75911,"Dayton Ohio",-84.19444,"Drexel",0.0,226.32444,4,0.0,137.333,1,0.0,"Blood On The Snow",0
+241,"SOKHBRA12AB017E6AE",327857,"Mi Gran Pasion","ARDE7I31187FB43352",23.1168,"Havana Cuba",-82.38859,"Gonzalo Rubalcaba",0.0,586.29179,3,0.454,62.008,1,0.823,"Cuatro Veinte",0
+242,"SOZTOSX12AC468AD34",793116,"Mate Tron","ARIMJFK1187FB4ED3E",,"",,"Luke Vibert",0.0,420.15302,0,0.572,125.008,4,0.989,"Mate Tron",2007
+243,"SOVENLZ12A8C13F7DE",307974,"Carlos Nunez En Concert","ARCID1N1187FB51DA0",,"",,"Carlos Nuñez",0.0,275.43465,0,0.584,143.969,4,0.0,"Camiño De Santiago",2004
+244,"SOFRYEV12A8C139B76",249417,"Dr. Elmo's Twisted Christmas","AR45KNL1187B992E53",37.77916,"California - SF",-122.42005,"Dr. Elmo",0.0,223.26812,9,0.61,102.134,4,0.611,"Here's to the Lonely",0
+245,"SOIFOLA12AB017CDA1",333103,"To Live Alone","ARWAPYC1187FB3FCAF",,"",,"S.U.P",0.0,384.70485,11,0.582,137.862,4,0.0,"The Cube (Live)",2001
+246,"SOLZFRY12A8C13BDF3",164708,"The Torture Papers","ARZRTZT124549A402A",,"",,"Army of the Pharoahs",0.0,129.69751,10,0.27,92.236,4,0.775,"Narrow Grave",0
+247,"SOTGMEB12A8C13B4CC",214393,"Bondage Goat Zombie","ARNNQBT1187FB437C1",33.74907,"SANTA ANA California",-117.87394,"Belphegor",0.0,178.15465,2,0.015,120.026,3,0.23,"The Sukkubus Lustrate",2008
+248,"SOSMPOC12AB0188E55",750470,"Blow-Up","ARB3YS71187FB4E54E",,"",,"Tomorrow",0.0,113.26649,9,0.587,156.957,4,0.648,"Blow-Up (Outtake)",0
+249,"SOFQHNI12AB018345A",627641,"Tiger Woods PGA Tour 2005","AR035N21187FB3938E",34.23294,"Earth",-102.4102,"BT",0.0,311.90159,8,0.879,110.002,4,0.69,"Ver de Feliz",2006
+250,"SOULXLO12AB018379D",461074,"Knives [Clean]","ARJ8PZJ1187B99314F",,"Seattle Washington",,"Aiden",0.0,140.40771,2,0.0,207.974,4,0.0,"Killing Machine",2009
+251,"SOENTVS12A8C136556",203410,"Dance Hall Showcase Vol. II","ARIRD6J1187FB5A98C",18.01571,"Kingston Jamaica",-76.79731,"Sugar Minott",0.0,226.40281,11,0.314,154.585,4,1.0,"Informer",2008
+252,"SOGYEFP12AF729F8DF",459483,"A Fist In The Thought","ARA7EEC1187FB4C392",49.01037,"Karlsruhe Germany",8.4092,"Snowgoons",0.0,257.25342,8,0.381,97.454,4,1.0,"Platoon Goons",2009
+253,"SORBDNB12AAF3B1B4E",323348,"Still Making History","ARW2DG51187B9A170F",44.81187,"Belgrade Yugoslavia",20.46414,"Ana Popovic",0.0,322.66404,7,0.399,156.948,3,1.0,"U Complete Me (Blues Version - Bonus Track)",2007
+254,"SOUWLEZ12A6D4F499A",27630,"The Plan","ARI4NXX1187FB59DF2",,"Wisconsin",,"Raze",0.0,25.88689,2,0.0,92.403,7,0.458,"Intro. (The Plan Album Version)",0
+255,"SOEFKLQ12A8C140047",238124,"Road Rockets","AR7LIU31187B98EF11",,"",,"Rita Chiarelli",0.0,252.682,7,0.787,89.919,3,1.0,"This Is My Life",1992
+256,"SOUJKAH12A6701F2A5",7830,"Shadow Zone","ARHRY5S1187B99B96F",32.61436,"Alabama",-86.68073,"Static-X",0.0,185.10322,6,0.388,144.017,4,0.837,"Control It (Album Version)",2003
+257,"SOGJYMK12AB018272A",466293,"The Right Time","ARK9K3O1187B98F504",,"Los Angeles CA",,"Cherrelle",0.0,290.82077,8,0.239,145.607,4,1.0,"Into My Eyes",1999
+258,"SOSJBHK12A6D4F8092",24739,"It's A Sorry World","ARDNS031187B9924F0",32.67828,"Georgia",-83.22295,"Tim Wilson",0.0,123.58485,5,0.0,169.428,1,0.0,"Dale Darrell Waltrip Richard Petty Rusty Awesome Bill Irvin Gordon Earnhardt Smith...Johnson_ Jr. (Live)",0
+259,"SOYQWAD12A8C139316",156902,"All i","ARCEOW71187B9A5A71",51.50632,"London England",-0.12714,"B.A.D.",0.0,241.81506,7,0.286,121.993,4,0.787,"Chu Hsin",0
+260,"SOVBJGB12AB01802A5",345588,"The Gentle Touch","AR9JLBU1187B9AAEC4",-33.96243,"Port Elizabeth South Africa",25.62326,"Danny Williams",0.0,249.93914,3,0.641,143.869,4,0.255,"The Rainbow Bridge",0
+261,"SOQUAKN12A8AE486C2",236556,"Fruko Power Salsa","ARHEQ501187FB4F898",,"",,"Fruko Y Sus Tesos",0.0,242.75546,8,0.519,84.751,7,0.561,"La Fruta Bomba",2000
+262,"SOXRZUH12A6D4F68AB",25735,"The Essential UFO","AROATPL1187FB48E12",34.16788,"Arizona",-111.9307,"UFO",0.0,213.31546,7,0.058,132.43,4,0.587,"Cherry",0
+263,"SOACLMC12A8C13FA4C",174729,"Tampa Red Vol. 15 1951-1953","AR576O51187B990C30",31.90143,"Smithville GA",-84.25274,"Tampa Red",0.0,181.08036,2,0.42,72.177,1,0.0,"Baby Please Don't",0
+264,"SOKRRKZ12AB0182EF8",554752,"Koocheyeh Khatereh","ARYLQVR11F50C4EFC2",,"",,"Saman",0.0,243.98322,7,0.27,141.205,3,1.0,"Roorasty",0
+265,"SOJVTQT12A8C13B86D",296716,"Skeeter Davis: RCA Country Legend","ARDY3451187B9A0226",38.68193,"Dry Ridge KY",-84.59431,"Skeeter Davis",0.0,168.48934,4,0.756,89.219,3,0.807,"He Says The Same Things To Me",0
+266,"SOSAMRR12AB018203B",602675,"At The Jazz Base","ARVAE1F1187B994957",39.95227,"Philadelphia PA",-75.16237,"Gerald Veasley",0.0,371.25179,8,0.0,112.213,4,0.758,"On The Fast Track",0
+267,"SOQKKCG12AB017D5C4",541577,"Good Morning Judge","ARN7OQ21187FB5A6B3",,"Greenwood MS",,"Furry Lewis",0.0,234.78812,10,0.074,146.569,4,0.449,"Old Hobo",2003
+268,"SOPOJVI12A58A7E706",8566,"Whut? The Album","ARXWAQQ1187B9AE954",,"Newark NJ",,"Redman",0.0,185.83465,0,0.125,94.146,4,0.298,"Jam 4 U",1992
+269,"SOKRZJY12AB0187E80",702585,"Manhattan Mayhem (a history of the Dolls)","ARS1OWB1187B99EEAD",,"New York NY",,"New York Dolls",0.0,354.01098,11,0.642,131.348,4,0.235,"Human Being (1972 demo)",0
+270,"SOTARLM12AB0189263",424048,"The Early Years","ARV38Z81187B98E608",,"",,"The Jets",0.0,164.54485,11,0.172,97.243,4,0.719,"Steppin' Out Tonight",0
+271,"SOBEBCP12AB0182AEE",628299,"Calle ilusion","AR05IU31187B9B9A1A",42.84751,"Vitoria Spain",-2.67973,"Alex Ubago",0.0,186.09587,7,0.459,135.016,4,0.529,"Ciudad desierta",2009
+272,"SOVMSTD12A6D4F9840",47597,"American Psycho","ARA1UU51187FB5A70B",,"New Jersey",,"The Misfits",0.0,85.9424,11,0.127,212.293,4,0.989,"The Haunting",1997
+273,"SOCSLWU12A58A7E43A",45697,"The Best Of Little Feat","AR6W5MS1187FB3BF47",34.05349,"Los Angeles CA",-118.24532,"Little Feat",0.0,228.98893,0,0.177,97.342,4,0.0,"Down On The Farm (2006 Remastered Edit Version)",2006
+274,"SOXAUGB12AB018756D",462244,"Passion","ARFGFXM1187B9ADFAE",,"",,"Tony Murena",0.0,155.14077,1,0.552,213.995,1,0.0,"Mambo Italiano",0
+275,"SOGYDSV12A8C142A33",525940,"Malllet Jazz","AREVNGE11F50C49B9A",,"",,"Tom Collier",0.0,411.42812,0,0.515,111.743,4,1.0,"Eddie's Pad",0
+276,"SOCIFIF12A8C1378E5",420820,"Lady Sleep","ARS0W831187B9AF0B7",,"",,"Maximilian Hecker",0.0,370.02404,5,0.399,243.981,4,0.271,"Birch",2005
+277,"SOGUGOR12A8C1316DF",144671,"Lyssa - Rural Gods And Astonishing Punishments","ARNHJHU1187B98F79C",4.65637,"Bogota COL",-74.11779,"Nightfall",0.0,190.87628,7,0.37,105.061,4,0.596,"So(u)l Invictus",2004
+278,"SOLHRRP12A6D4F4A3B",27864,"Ultra-Lounge/Mondo Exotica: Volume One","ARCU3AN1187B989EA0",,"",,"Bas-Sheva",0.0,178.65098,10,0.512,111.504,4,0.552,"Lust (1995 Digital Remaster)",0
+279,"SOFXBFL12AB01873CE",469555,"Lost & Found Blues","ARRU9GR1187FB43F56",33.46797,"Thomson GA",-82.50293,"Blind Willie McTell",0.0,188.21179,1,0.395,170.462,4,0.419,"Let Me Play With Yo' YoYo",0
+280,"SOOIETN12A8C13E1AD",217642,"Vuosikirja 1951 - 50 hittiä","ARBV8MP1187B9B60B1",,"",,"Esa Pakarinen",0.0,202.86649,2,0.318,171.876,1,0.365,"Lentävä kalakukko",1990
+281,"SOPWHEV12AB017DC10",500966,"Empty","AR1U3BY1187B9B136F",,"",,"God Lives Underwater",0.0,215.40526,2,0.411,169.966,4,0.952,"Don't Know How To Be",1995
+282,"SOSACTG12A8C144B2B",611663,"The Essential Fureys","ARFWZZD1187FB561F9",,"",,"The Fureys",0.0,240.74404,11,0.039,89.236,3,0.839,"The Anniversary Waltz",0
+283,"SOPESRK12A6D4F8B92",56247,"Made In Italy","ARQVLQJ1187B98F11F",,"",,"Mau Mau",0.0,285.1522,10,0.187,182.198,4,0.683,"Paseo Colòn",2004
+284,"SOLNEKT12AB0187086",647436,"The Very Best Of","AREZMPH11F4C83B364",35.83073,"Tennessee",-85.97874,"Everly Brothers",0.0,125.02159,7,0.079,82.461,4,0.0,"Oh What A Feeling",0
+285,"SOKMTOP12AC468980A",699533,"Emerald","ARFN4JN1187B98C627",-22.96566,"Detroit",18.48617,"Bedrock",0.0,501.86404,6,0.041,129.988,4,0.607,"Emerald",2004
+286,"SOHJXBB12A8C1437B7",521693,"LIVE AT SWEETWATER II","AREOGMA1187B9908EF",37.77916,"San Francisco CA",-122.42005,"Hot Tuna",0.0,461.71383,1,0.979,138.512,4,0.661,"Parchman Farm",2004
+287,"SOTMYBJ12A58A7A667",618681,"Blue Record","ARKLA8V1187B999B68",,"",,"Baroness",0.0,270.52363,10,0.15,176.066,3,0.592,"The Sweetest Curse",2009
+288,"SOKVBVL12A8C13908F",207670,"Southern Slang (Chopped & Screwed)","ARG3UX61187B9AC05A",,"",,"D.O.W.N.",0.0,265.66485,1,0.788,109.659,4,0.805,"I Don't Give A F**K",0
+289,"SOFHCUH12AB0183CA2",704461,"WOW Gospel 2010","ARVMFE61187B992463",,"",,"Darwin Hobbs",0.0,311.95383,1,0.323,140.085,3,0.642,"Free",0
+290,"SOCRVCC12A6D4FB91B",56789,"Informal Introduction","AR7AA2D1187B98B415",,"Los Angeles CA",,"Shade Sheist / N.U.N.E. / King Arthur",0.0,262.3473,11,0.062,89.912,4,1.0,"The Urban Gospel",0
+291,"SOXMJIX12A8C13C3FE",298816,"As Long As You Want This","AR1XE381187FB4C685",34.05349,"California - LA",-118.24532,"Kane",0.0,261.3024,9,0.745,120.611,4,0.226,"My Heart's Desire",2004
+292,"SOPBAMQ12A8C13A815",257997,"Lo Mejor De Roberto Torres / Vol. II","AR6YDKV1187B989230",,"",,"Roberto Torres",0.0,276.00934,5,0.844,161.345,4,0.892,"Decima Del Tiempo De Antes",0
+293,"SOESZYV12A6D4F8299",25833,"New Tattoo","AREGV3K1187B9AF614",,"Los Angeles California",,"Mötley Crüe",0.0,260.04853,5,0.026,132.131,4,0.275,"Hell On High Heels",2000
+294,"SOCHUHK12A6D4F7883",280978,"A Beautiful Lie + 30 Seconds To Mars","ARRBF3M1187FB4D59F",,"Los Angeles CA",,"30 Seconds To Mars",0.0,277.28934,10,0.696,98.507,4,1.0,"End Of The Beginning",2002
+295,"SOMZWCG12A8C13C480",300848,"Fear Itself","ARD7TVE1187B99BFB1",,"California - LA",,"Casual",0.0,218.93179,1,0.736,92.198,4,0.778,"I Didn't Mean To",0
+296,"SOPAQJH12AB018BAFC",715656,"Black Debbath Hyller Kvinnen!","AR93K7R1187B9AC92A",59.91228,"Oslo Norway",10.74998,"Black Debbath",0.0,268.61669,0,0.392,85.068,7,0.849,"Grønn Dame_ Rød Klut (Sangen Om Boken Om Damen Anne Enger Lahnstein)",0
+297,"SOVFFVM12AB0186705",567667,"The Very Best of Congolese Rumba : The Kinshasa-Abidjan Sessions (le meilleur de la rumba congolais","ARE8MZ81187B9AB2A3",,"",,"Wendo Kolosoy",0.0,397.76608,0,0.677,81.249,3,1.0,"Marie Marie",1993
+298,"SOQYRAY12AC3DFAFB0",823052,"15 Grandes Exitos","ARDAXCG1187B9942B1",,"",,"Leonardo Favio",0.0,229.25016,11,0.538,102.392,3,1.0,"Sera Cuestion De Conversar",0
+299,"SOZUOAK12AB018AA82",469705,"It's Nothing Personal","ARG9E8O1187B99AB4F",42.31256,"Boston Massachusetts",-71.08868,"Bury Your Dead",0.0,290.63791,4,0.005,123.635,4,0.892,"Closed Eyes",2009
+300,"SOMXCXZ12A58A7B343",156224,"The Good Road","ARKYI5T1187B99334F",35.21962,"North Carolina",-80.01955,"Janet Paschal",0.0,207.69914,6,0.313,180.121,3,0.32,"The Lord Will Go Before You",0
+301,"SOUTSOK12A8C146665",527222,"On The Barricades","ARU868Z1187FB47319",42.18419,"Mass. - Western",-71.71818,"Wonderland",0.0,172.30322,4,0.539,123.976,4,0.5,"You",0
+302,"SOSIZPX12A8AE46AD3",279150,"Rockabye Baby - Lullabies with Orchestra","AR3AIEI1187B992D8D",54.31392,"Great Britain / UK",-2.23218,"Marilyn Horne",0.0,109.37424,9,0.753,109.257,4,0.756,"Nana",0
+303,"SOKMBQK12A8C1450CE",428531,"Moving Mountains","ARPDVPJ1187B9ADBE9",,"Atlanta GA",,"Usher",0.0,309.83791,11,0.294,126.955,5,1.0,"Moving Mountains",2008
+304,"SONATVQ12A6D4FAF73",175825,"Matter Of Time","ARJAOPV1187B9A96D9",37.16793,"United States",-95.84502,"Javier Mendoza Band",0.0,295.57506,2,0.991,117.116,4,0.091,"Rápido Nos Vamos",0
+305,"SOLIDWN12A8C1411A5",248385,"Step Up","ARDK87R1187B98D51C",,"San Francisco CA",,"Flamin' Groovies",0.0,199.49669,7,0.382,159.337,4,0.85,"Step Up",1991
+306,"SOCKRAI12A81C20385",231129,"Que No Pare La Rumba","AROSW2I1187FB44866",,"",,"Sonora Carruseles",0.0,297.79546,9,0.524,54.192,1,0.0,"Las Muchachas",0
+307,"SOQLRND12A6D4FD162",175656,"Rexx Erected","ARNCWQE12454A2E59C",,"",,"Diamond Rexx",0.0,181.39383,8,0.024,103.14,4,1.0,"Fire",0
+308,"SODOLVO12B0B80B2F4",440990,"In Your Honor","AR6XPWV1187B9ADAEB",,"Seattle WA",,"Foo Fighters",0.0,117.002,7,0.458,152.127,4,0.651,"Hell",2005
+309,"SOOJILM12AB018AA47",756181,"All Empires Fall","ARIF6IS1187B98FDEB",53.34376,"Dublin Ireland",-6.24953,"Primordial",0.0,425.19465,9,0.688,124.614,5,1.0,"Journey's End",1998
+310,"SOOSYTN12A8C13F55B",224620,"Am I Lying?!","ARHSYTC11F50C505F9",,"",,"D' Militante",0.0,420.49261,9,0.0,240.314,1,0.725,"T.V. & Movies",0
+311,"SOPAZAM12A6D4F6F05",27497,"Broken","ARVMFE61187B992463",,"",,"Darwin Hobbs",0.0,352.86159,8,0.554,41.21,4,0.0,"You Are God (Broken Album Version)",2003
+312,"SOXHKRT12A6D4F89C8",55270,"American Dreams","ARA82JG1187FB36131",40.76596,"Shenandoah IA",-95.3756,"Charlie Haden",0.0,292.17914,7,0.367,141.229,4,0.06,"American Dreams",2002
+313,"SOGCGAW12A8C13BF27",304105,"So Glad You Made It","AR1XE381187FB4C685",34.05349,"California - LA",-118.24532,"Kane",0.0,395.83302,5,0.593,134.115,4,0.565,"Rain Down On Me",2001
+314,"SOAHDEK12A8C13A82E",160073,"Sauta Rabel","ARQVLQJ1187B98F11F",,"",,"Mau Mau",0.0,255.55546,1,0.089,162.134,4,0.0,"Neir",1992
+315,"SOCGBIR12A6D4F601E",24411,"Mad Mad World","ARY1VGA1187FB5A39E",56.85147,"Lynn Lake Manitoba Canada",-101.04893,"Tom Cochrane",0.0,320.44363,5,0.85,88.072,4,0.481,"Washed Away",1992
+316,"SOCRJDR12A8C139007",95078,"America's bugle calls","ARCVMYS12454A51E6E",,"",,"The Sun Harbor's Chorus-Documentary Recordings",0.0,37.01506,10,0.214,125.124,4,0.0,"The Air Force song : Evening colors sequence",0
+317,"SOILKFY12AB01859FF",420080,"Love Rule","ARTPGR61187B98B0F6",,"",,"Thriller U",0.0,235.12771,9,0.352,72.305,3,0.714,"Dancehall Man",0
+318,"SOPPWUZ12AB0180E3C",550688,"Special Homecoming Moments","ARDFZE61187FB45994",35.83073,"Tennessee",-85.97874,"Jake Hess",0.0,298.89261,10,0.35,99.958,4,0.741,"I Know Where I Am Now",2004
+319,"SOCLLUZ12A8AE47ACE",138168,"Twelve Year Silence","AR7W7Z01187B998286",37.82245,"FLGAKY",-85.69091,"Dark new Day",0.0,278.02077,10,0.527,133.985,4,0.896,"Free (Album Version)",2005
+320,"SOKIBDZ12AB0183317",443912,"The Greatest Hits - Vol. 2","ARG4KW31187FB51B7C",,"United Kingdom",,"Atomic Rooster",0.0,249.93914,9,0.959,119.981,4,0.65,"Take It For Granted",2005
+321,"SOPZASO12A6D4F6A79",77351,"Trauma","AROTIMO1187FB532BF",,"Compton CA",,"DJ Quik",0.0,260.362,7,0.597,200.079,4,1.0,"Pacific Coast Remix",0
+322,"SOBXRGX12A8C138B59",152362,"Lo Mejor De José Luis Perales","ARWX7AO1187B9B91AA",,"",,"Jose Luis Perales",0.0,247.01342,10,0.966,76.449,1,0.366,"¿Y Cómo Es Él?",0
+323,"SOBAORS12A6D4F6820",21648,"Chasing Daylight","AREPD8D1187FB3F5BC",,"Gainesville FL",,"Sister Hazel",0.0,235.72853,10,0.799,217.13,4,0.326,"Come Around (LP Version)",2003
+324,"SOZVTQM12CF5F88285",9844,"Siren Song Of The Counter-Culture","ARZWK2R1187B98F09F",,"Chicago",,"Rise Against",0.0,139.17995,10,0.505,132.045,3,0.426,"State Of The Union",2004
+325,"SOEBFHP12AC468DA37",789783,"Lange Presents Intercity Spring 2010","ARNLHY61187FB3A0C0",,"United States",,"Organ Donors",0.0,455.44444,8,0.459,134.07,4,0.542,"Dr Kaotica",0
+326,"SOZQKUN12A58A7BE4B",480173,"Roots And Culture Volume 3","ARIHI8H1187B9B0058",18.11526,"Jamaica",-77.27348,"Jackie Edwards",0.0,256.62649,1,0.0,161.796,4,0.0,"So Jah Seh",2006
+327,"SOTRJTA12AB0180A36",357544,"EMI Years","ARWIN9D1187B98E544",,"",,"Jason & The Scorchers",0.0,227.49995,2,0.944,176.269,1,0.0,"19th Nervous Breakdown",1998
+328,"SOAWMQC12AB0184136",639881,"Underneath Rotting","AR8BMEQ1187B9B4214",38.2589,"Missouri",-92.43659,"Pumpkin Buzzard",0.0,228.0224,5,0.334,118.796,1,0.802,"Hard Pure",0
+329,"SOGEMEJ12B34F1C5AC",53164,"Arnold Layne","AR2W4T81187FB410A7",,"Cambridgeshire England",,"David Gilmour Featuring Richard Wright",0.0,202.1873,2,0.036,138.43,1,0.0,"Arnold Layne",2006
+330,"SONYQUL12AB0188C4D",812035,"Tumi Cuba Classics Vol.3: Rumba","ARZ7OD71187B9940A7",40.71455,"New York",-74.00712,"Los Munequitos de Matanzas",0.0,184.21506,1,0.355,102.366,3,1.0,"El Chisme De La Cuchara",0
+331,"SONYUSG12AB018AA7C",569125,"Bach: Organ Works Vol.2","ARN8NCB1187FB49652",46.20835,"Geneva Switzerland",6.1427,"Lionel Rogg",0.0,137.32526,0,0.725,77.754,3,0.678,"Prelude And Fugue In C Major BWV 545 : Prelude",0
+332,"SOBBSDX12AAF3B33A9",530067,"L'apparenza","AREEJJK1187FB56DC7",,"Sofia",,"Evolution",0.0,208.50893,5,0.823,97.015,4,0.383,"My Own Way",0
+333,"SOYCABE12A8C142BD5",524255,"Still The Cross","AR2S4CA1187B99632E",,"",,"FFH",0.0,215.50975,0,0.168,116.446,4,0.446,"You And Only You",0
+334,"SOKBBXO12A6701DEA0",15567,"Things Falling Apart","ARK9TRQ1187B99C095",41.50471,"Cleveland OH",-81.69074,"Nine Inch Nails",0.0,426.89261,0,0.05,63.017,4,0.378,"Metal",2000
+335,"SOSZUSE12AB018CEAA",575324,"Early Works","AR0Q5531187FB45143",,"",,"Dallas Holm",0.0,270.00118,9,0.826,167.461,4,0.0,"Here We Are",0
+336,"SOXRWWL12A8C1345F8",143384,"The Real Testament","AR7Q0O91187FB4DBE7",,"Fort Myers FL",,"Plies",0.0,233.42975,9,0.755,110.933,4,1.0,"Goons Lurkin (Instrumental Album Version)",2007
+337,"SOSAANW12A6D4F7BB8",23102,"Morrocan Roll","ARDPTGD1187B9AD361",36.87652,"Sikeston MO",-89.58828,"Brand X",0.0,95.76444,2,0.0,158.578,4,0.0,"Collapsar",1977
+338,"SOHUJGR12AB01806C8",494850,"Le Samouraï / Les Aventuriers","ARGCEOR1187B9A4E7D",,"",,"Eric Demarsan",0.0,91.45424,3,0.521,108.11,1,0.0,"Valérie",0
+339,"SOAWJAQ12AB01863E0",670951,"Inner-Cept","ARVMZFK11F50C4A0D2",37.77916,"California - SF",-122.42005,"Tunsi",0.0,237.7922,1,0.477,101.527,3,1.0,"The Paper Remix",0
+340,"SOGXSWA12A6D4FBC99",186933,"Lupe Fiasco's The Cool","ARPFHN61187FB575F6",41.88415,"Chicago IL",-87.63241,"Lupe Fiasco feat. Matthew Santos",0.0,213.34159,2,0.303,140.046,4,0.759,"Fighters (feat. Matthew Santos) (Amended Album Version)",0
+341,"SOVUUYF12AF729D0CA",459483,"A Fist In The Thought","ARA7EEC1187FB4C392",49.01037,"Karlsruhe Germany",8.4092,"Snowgoons",0.0,239.64689,1,0.626,94.281,4,0.918,"Planetary Takeover",2009
+342,"SOCAYHA12A8C13683A",154001,"The Military Band - Salute to the Services","ARASWKT1187B9923B7",38.62774,"St. Louis MO",-90.19951,"Felix Slatkin/Concert Arts Symphonic Band",0.0,108.35546,5,0.83,92.499,4,0.629,"The Star-Spangled Banner (1998 Digital Remaster)",0
+343,"SOPBHMH12AB018252F",363525,"Gilad Atzmon presents: Artie Fishel & The Promised Band","ARRFTTO1241B9C8C96",,"",,"Artie Fishel & The Promised Band",0.0,28.83873,7,0.093,100.08,1,0.432,"Artie In The Sky",0
+344,"SOQVDWT12AC468A52B",605707,"Soul of a Free Man","ARXOUML1187FB48ACB",45.51179,"Portland",-122.67563,"Patrick Lamb",0.0,290.37669,5,0.272,93.041,4,0.0,"I Remember",2007
+345,"SOTBVZW12A8C1360F0",150705,"Bach: Favorite Organ Works","ARN8NCB1187FB49652",46.20835,"Geneva Switzerland",6.1427,"Lionel Rogg",0.0,499.51302,2,0.639,92.924,4,0.5,"Toccata Et Fugue En Ré Mineur BWV 565",0
+346,"SOXOPDV12A8C133674",289619,"Ultra Dark Radio - Compilation III. Mensch und Maschine","ARLKAOO12406A89CB1",,"",,"Vorstadtkinder",0.0,291.21261,7,0.593,179.82,4,0.0,"Los!",0
+347,"SOLSWBA12A8C141B9A",238650,"The Italian Sessions","AR7LIU31187B98EF11",,"",,"Rita Chiarelli",0.0,228.38812,8,1.0,99.381,1,0.907,"Chiove",2006
+348,"SONYHUC12A8C13B90E",214125,"Viva Brazil","ARC6J781187B98F02B",,"",,"Tania Maria",0.0,267.67628,5,0.583,176.349,4,0.236,"Vem Pr'a Roda",2000
+349,"SOPEBJN12AB0188E0A",463162,"Las Mejores Gaitas Vol.1","ARRXPRY1187B9A8B34",,"",,"Gran Coquivacoa",0.0,163.47383,9,0.221,167.567,3,0.1,"Gaita Pueblera",0
+350,"SOYJVQR12AB01835DE",641098,"Message To The Other Side (Osirus Part 1)","AR05OJD1187B9B99A6",,"Brooklyn New York",,"Ol' Dirty Bastard",0.0,180.45342,7,0.165,90.473,4,0.539,"Destiny Ft: Lesk One",0
+351,"SORAMLE12AB017C8B0",815863,"Arrivederci","ARHHO3O1187B989413",,"",,"Bob Azzam",0.0,191.84281,10,0.0,137.334,1,0.319,"Auguri Cha Cha",0
+352,"SOGWDQX12AB0185701",495559,"The Road Home","ARNBFWO1187FB4D1DD",37.27188,"California",-119.27023,"William Coulter",0.0,238.57587,9,0.551,148.524,4,0.0,"Shrivasta",0
+353,"SOGHPTG12A6D4F97CF",31500,"Signs","ARFQ7RR1187FB3CC0A",,"",,"Badmarsh & Shri",0.0,263.31383,6,0.432,87.327,3,1.0,"Bang",2001
+354,"SOQMDJS12A8C138341",162827,"Betty","AR0IVSA1187FB4F069",40.71455,"New York",-74.00712,"Helmet",0.0,220.31628,7,0.024,144.447,4,0.709,"Tic",1994
+355,"SOBDCSO12AB017F02D",437973,"Snug","AR4Q1VD1187B9893C7",,"",,"Mulberry Lane",0.0,169.58649,0,0.585,148.012,4,0.142,"Come Dance With Me",0
+356,"SOEWVBB12A8C135AE7",291797,"Live At The Metro","ARPKK761187FB4D53C",40.10216,"Anderson IN",-85.67869,"The Ataris",0.0,199.26159,2,0.509,199.028,4,0.0,"so long_ astoria",2004
+357,"SOANMBZ12AAF3B5204",383862,"Blues Blastin': The Modern Recordings Vol 2","ARRWDU31187B9B5656",38.62774,"St. Louis MO",-90.19951,"Jimmy McCracklin",0.0,180.87138,10,0.484,147.633,4,1.0,"Give My Heart A Break aka You Don't Seem To Understand",0
+358,"SOJDYFO12A8C141BA4",238650,"The Italian Sessions","AR7LIU31187B98EF11",,"",,"Rita Chiarelli",0.0,278.33424,2,0.441,95.508,4,0.333,"Tu Vuo_ Fa_ L_ Americano",0
+359,"SOHWAHE12A8C13DDD1",112016,"Open","ARXK4YK1187FB4D0C4",51.50632,"London England",-0.12714,"Dub Pistols feat. TK & JMS",0.0,238.18404,1,0.624,108.998,4,1.0,"Open (Koobas Koobatronmix)",0
+360,"SOMHYXD12A8C1354D4",152941,"Trouble","ARKJHKX1187FB5AEE5",,"Lafayette LA",,"Buckwheat Zydeco",0.0,233.50812,10,0.0,148.371,4,0.0,"Trouble (Studio)",0
+361,"SOOZPUG12A8C132EDD",148194,"Respighi: Ancient Airs and Dances","ARBH0MS1187FB36311",,"",,"Sir Neville Marriner",0.0,220.05506,0,0.435,0.0,1,0.927,"Ancient Airs and Dances (1996 Digital Remaster)_ Suite No. 2: III.  Campanae parisienses (anon.) - Aria (Marin Mersenne)",0
+362,"SOPXSEX12A8C13E4CE",253773,"Epic Fits","ARYE7N51187B9AF501",,"",,"PRE",0.0,92.70812,9,0.703,142.107,1,0.0,"Greasers",2007
+363,"SOCVGQS12A8C13D7DF",216819,"Coastal","ARR2TI31187FB380FE",,"",,"The Field Mice",0.0,316.73424,3,0.356,162.682,4,0.0,"When Morning Comes To Town",1989
+364,"SOLADTL12AB01815A7",353310,"Heart On (with bonus tracks)","ARHR5BC1187B9AC348",,"",,"Eagles Of Death Metal",0.0,225.48853,1,0.737,144.398,4,0.587,"As Nice As I Can Be",2009
+365,"SOJURPV12A8C141B82",221617,"Live!","ARZQSNO1187FB5BBAB",,"Chapel Hill NC",,"Elizabeth Cotten",0.0,295.60118,2,0.184,99.959,4,0.375,"Freight Train",1958
+366,"SODBIWB12AB018705E",718975,"Closer to God","ARAVEKH1269FCD294D",,"",,"Demonbreed",0.0,337.24036,8,0.446,94.069,4,0.658,"Hell Will Reign",0
+367,"SOQLWVI12A6D4F465F",25971,"Cricklewood Green","AR8SRQ31187FB4D477",52.94922,"Nottingham England",-1.14392,"Ten Years After",0.0,145.00526,11,0.707,106.145,1,0.0,"Year 3_000 Blues (2002 Digital Remaster)",1970
+368,"SOVOEOG12AF729F7DF",279769,"Too Much Too Soon","ARS1OWB1187B99EEAD",,"New York NY",,"The New York Dolls",0.0,344.45016,4,0.232,154.763,1,0.0,"Human Being",1974
+369,"SOGQNDO12AB0181930",346368,"Ninja Mental - Unplugged MTV","AR0JURX1187FB3C8FF",41.39447,"Brewster New York USA",-73.61689,"Illya Kuryaki And The Valderramas",0.0,233.97832,7,0.526,154.028,4,0.913,"Ninja Mental",1996
+370,"SOMYHTA12A6D4FB87D",65878,"Kloidt Ze Di Penussen!","ARQB8PN1187B98E6C4",,"",,"Tresenlesen",0.0,239.46404,4,0.481,174.332,5,0.939,"Das Gelübde",1998
+371,"SOBWVGX12AB017BD87",569858,"The BBC Sessions","AR8BUVM1187FB4D94D",,"",,"Belle and Sebastian",0.0,250.69669,1,0.336,104.494,1,0.32,"Like Dylan In The Movies",1996
+372,"SOBOKGJ12A8C132819",555515,"Roll Away","AR531IG1187FB59B35",,"CANADA - Ontario",,"Back Door Slam",0.0,236.87791,1,0.629,123.382,4,0.089,"It'll All Come Around (Album Version)",2007
+373,"SOVKVJM12A6D4F972F",46544,"And The Crowd Goes Wild","ARWVVVP1187FB52F31",,"Cleveland TN",,"Mark Wills",0.0,210.33751,2,1.0,96.071,4,0.0,"How Bad Do You Want It",2003
+374,"SOZCCPL12AB017C957",440388,"Mal de amores","ARMHR011187B9A62B5",,"Spanish Harlem New York City NY",,"El Barrio",0.0,306.31138,5,0.393,107.021,3,0.721,"Al maestro",0
+375,"SOZRJUQ12A81C1F779",179245,"Bottom Belle","ARWFMDC122988EFD33",,"",,"African Rhythm Messengers",0.0,235.28444,0,1.0,115.196,4,0.863,"baby Wayo",0
+376,"SOAOJRS12A6D4FBDEE",626438,"Shout","ARYML1P1187B9AF39B",,"Georgia",,"Devo",0.0,264.33261,2,0.67,144.801,4,1.0,"The 4th Dimension (LP Version)",1984
+377,"SOQFKZW12AB0181847",545565,"Season Selection - Summer","ARRZQZE1241B9CBFBB",,"",,"Arctique",0.0,468.00934,9,0.393,130.004,4,0.0,"Kyana",0
+378,"SOOCRIF12AB0181137",342581,"Knowledge Is King","ARH0Z131187B9B69E9",40.8079,"Harlem New York NY",-73.9454,"Kool Moe Dee",0.0,219.76771,5,0.853,107.905,4,0.967,"Knowledge Is King",1989
+379,"SOOJKNX12A8C132425",86259,"Nouveau Zydeco","ARAGMIV11F4C843F78",,"",,"Myrick "Freeze" Guillory",0.0,55.50975,8,0.181,111.542,1,0.0,"Queen Ida Introduction",0
+380,"SOOHGVW12A8C1449BB",795650,"Samba Enredo Du Carnaval De Rio","ARHEBZJ1187FB37C3A",,"",,"Samba Enredo",0.0,202.05669,9,0.241,139.344,4,0.0,"Estacao Primeira Da Mangueira_ Viva Do Samba",0
+381,"SOCTUML12A8AE45691",233782,"Over The Edge","ARC15471187FB4640C",38.49809,"Kansas",-98.32023,"Hurricane",0.0,236.042,8,0.864,110.177,4,0.131,"I'm On To You",1988
+382,"SOTNIIP12A8C1359DA",286445,"Boulez: Pli Selon Pli; and Livre pour Cordes","AR6TZJQ1187B9AD572",45.60718,"Montbrison France",4.06212,"Pierre Boulez",0.0,956.60363,0,0.151,47.794,1,0.0,"Pli Selon Pli ("fold according to fold")/IV.  Improvisation sur Mallarmé III",0
+383,"SOODQEF12A58A7AF5F",150859,"Collecton","ARB45GQ1187B98D2B4",,"",,"DeGarmo & Key",0.0,203.62404,4,0.658,120.548,4,1.0,"Destined To Win",1988
+384,"SOGMQYW12AB018C302",570600,"Gangster Of Love & Other Favorites (Digitally Remastered)","ARAOBIZ1187FB38574",,"Beaumont Texas",,"Johnny Winter",0.0,135.99302,7,0.672,111.716,3,1.0,"Shed So Many Tears",1984
+385,"SOJXYUF12AB0188969",715113,"Fantastic Vol. 2.10","AR0WGXC1187B9AAC99",,"Detroit MI",,"Slum Village",0.0,204.38159,0,0.015,94.495,4,0.199,"CB4 (Instrumental Mix)",0
+386,"SOAQGHA12AB0186D60",660041,"Morgarot","ARS7E2E1187FB361BC",31.1689,"Texas",-100.07715,"Mayday",0.0,307.33016,11,0.085,71.984,4,0.019,"Nüt isch für immer",0
+387,"SOLLLZR12AB0180455",495391,"Ultra-Lounge / On The Rocks With A Twist - Part 2","ARID33C1187FB4610A",34.16788,"Arizona",-111.9307,"David Rose",0.0,292.80608,0,0.411,109.059,4,0.0,"Wear Your Love Like Heaven / Workin' On A Groovy Thing (Medley) (1997 Digital Remaster)",0
+388,"SOGXWRE12AC468BE24",781922,"Out Of Time","ARTXS851187FB411C7",,"Essex England",,"Chris Farlowe",0.0,177.57995,7,0.345,146.913,1,0.0,"Paint It Black",1966
+389,"SOJJAGC12A8C13F710",174759,"Creator Of The Memphis Blues","ARSX3I61187B98FAC7",35.03731,"Whitehaven TN",-90.06146,"Frank Stokes",0.0,176.32608,5,0.555,149.056,1,0.0,"Sweet To Mama",2005
+390,"SODDLAZ12AB018350A",443790,"Bahamian Songs","AR97EHA1187B98AD5F",30.33138,"Jacksonville FL",-81.6558,"Blind Blake & The Royal Victoria Hotel Calypsos",0.0,161.74975,3,0.256,110.603,3,0.794,"Bahama Lullaby",0
+391,"SOUDYEW12AB0183E5C",492520,"Foogy","ARYWU5F1187B9A77BE",,"",,"Olov Johansson_ Catriona Mckay",0.0,469.68118,7,0.436,74.046,4,0.394,"Rain / Ekoln",0
+392,"SOELMDY12A6D4FB18A",57839,"Last Night In Town","ARCP94M1187B9B0F56",42.88544,"Buffalo New York",-78.87846,"Every Time I Die",0.0,171.59791,9,0.538,93.458,1,0.0,"California_ Gracefully",2001
+393,"SOEJVCS12A8AE483B7",235873,"Lullaby Renditions of U2","ARLNMEP11C8A41519E",34.05349,"Los Angeles",-118.24532,"Rockabye Baby!",0.0,312.78975,8,0.118,100.043,3,0.492,"Desire",0
+394,"SOAMBCI12AC4685087",685601,"Vivant","ARWNTXK11EBCD7BBFB",,"",,"Alain-François",0.0,172.01587,4,0.517,107.986,4,0.273,"Playa del sous-sol",0
+395,"SOAXGUT12AB0184D53",463706,"French Touch","ARWI6LR1187FB46E9F",43.57607,"Le Cannet France",7.01815,"Richard Galliano",0.0,261.74649,9,0.503,76.296,3,0.51,"L' Envers Du Décor",1999
+396,"SOTLZBK12A6D4F7E63",27667,"Here Come the Lords","ARTE2FL1187FB51337",,"Raleigh NC",,"Lords Of The Underground",0.0,264.69832,11,0.53,99.058,4,1.0,"Check It (Explicit)",1993
+397,"SOPOGEB12A6D4FB25A",62220,"Live","ARJVTRE1187B9959C0",40.71455,"London England",-74.00712,"Foghat",0.0,501.2371,5,0.294,114.831,4,0.714,"Slow Ride [Live Version]",1977
+398,"SOHUEFC12A8AE4827A",278832,"Lovers Live","AR7N7MI1187FB46935",7.37884,"Ibadan Nigeria",3.89527,"Sade",0.0,271.98649,10,0.303,80.292,3,0.402,"Paradise",1988
+399,"SONQXNP12AB017F81B",485654,"Mind Control","ARH9GD41187FB37E0F",,"",,"Stephen Marley / Damian Marley",0.0,273.89342,9,0.483,115.823,4,0.607,"The Mission",2008
+400,"SODPYOG12A8C136332",256771,"Ellen Disingenuous","ARU9KWP1187B98B2A7",,"",,"Busdriver",0.0,246.22975,7,0.444,136.116,4,0.0,"Ellen Disingenuous",0
+401,"SOIWZKY12AB0183F0D",453672,"Yolandita Monge Selected Hits Vol. 1","ARDG9I21187FB35FF3",,"",,"Yolandita Monge",0.0,214.49098,1,0.047,110.599,4,0.171,"Cierra Los Ojos Y Juntos Recordemos - Original",0
+402,"SORZJUY12AB018BFB9",806525,"Sea Cruise","ARYV1OT1187B9B4C8E",,"",,"Commander Cody & His Lost Planet Airmen",0.0,162.45506,9,0.333,182.918,7,0.364,"Sister Sue",1973
+403,"SOBSEXG12AB0180DD4",536869,"Shakin' The House Live","ARX4D1E1187B9A9C4D",40.21787,"Trenton NJ",-74.7594,"Carman featuring Commissioned & The Christ Church Choir",0.0,326.26893,7,0.0,135.507,4,0.683,"Let The Church Rise",0
+404,"SONIQTE12A58A7A189",106254,"Mindy McCready","ARZL6CE1187FB3F264",27.9758,"Fort Meyers FL",-81.54106,"Mindy McCready",0.0,231.33995,9,0.4,88.942,4,0.835,"Be With Me",2002
+405,"SOJRFYT12A6D4F9972",40837,"Hello_ I Must Be Going","AR9W3X91187FB3994C",,"Chiswick London England",,"Phil Collins",0.0,316.39465,5,0.0,121.044,4,1.0,"I Cannot Believe It's True",1982
+406,"SOHNTPT12AB01835EF",368970,"Heritage - Florilège - BAM (1954-1978)","ARYDFJA1241B9CBFF2",,"",,"Jacques Douai",0.0,122.46159,7,0.483,79.003,4,0.984,"L'Etang Chimérique",0
+407,"SOIPEKK12AB01805B4",485079,"Fool Me Good","AR858UO1187FB437B4",35.21962,"North Carolina",-80.01955,"Precious Bryant",0.0,164.8322,9,0.537,130.453,1,0.522,"When The Saints Go Marching In",2002
+408,"SOFKMDX12AB0184231",431155,"Last The Whole Night Long","AR1JD6E1187FB5696C",53.07516,"Bremen Germany",8.80466,"James Last",0.0,101.642,9,0.615,126.184,1,0.0,"Stuff Like That",0
+409,"SOYTQGO12A8C138C1B",202993,"Transformation","ARYUHNV1187FB482AF",,"",,"Megadrums",0.0,237.24363,11,0.001,118.713,4,0.0,"Drummer's Circle",0
+410,"SOFMCTW12A8C139DDA",331631,"Further Down The Old Plank Road","AR0V36F1187FB366B1",53.41961,"Ireland",-8.24055,"The Chieftains",0.0,187.92444,7,0.768,210.957,4,0.0,"The Raggle Taggle Gypsy",2003
+411,"SOVZRSW12A8C141AFC",524634,"Hör auf zu weinen","AR4SOKG1187B98D2B0",,"",,"Geier Sturzflug",0.0,211.35628,9,0.269,120.985,4,0.298,"Wie ein Eisbär sein",0
+412,"SOEOEZA12AB018530E",547009,"Freakhouse","ARCPN4U1187B9A94B7",42.21464,"South Hadley Massachusetts USA",-72.59378,"Freakhouse",0.0,204.06812,7,0.466,78.019,3,0.984,"Submit",0
+413,"SOUUNYT12AB0184F40",552550,"Man-made","ARHPPJK1187B9AC897",,"Glasgow Scotland",,"Teenage Fanclub",0.0,221.41342,5,0.915,122.002,4,0.909,"It's All In My Mind",2005
+414,"SOLJMGD12A58A76C3A",620827,"Holding Up Half the Sky: Voices of Celtic Women","AR82GTS1187FB5662F",53.41961,"Ireland",-8.24055,"Mary Black & General Humbert",0.0,303.75138,7,0.791,99.237,3,0.849,"Isle of St. Helena",1984
+415,"SOGRKPG12A58A7ADF7",350902,"12 x 5","ARFCUN31187B9AD578",51.50632,"London England",-0.12714,"The Rolling Stones",0.0,183.17016,7,0.514,185.333,4,0.164,"Around And Around",1964
+416,"SOJRXHM12A8C13D93E",307847,"Love Songs","AR0AVIB1187FB37D01",,"Englewood NJ",,"Regina Belle",0.0,307.22567,7,0.55,92.643,4,0.95,"Quiet Time",1993
+417,"SOBYREB12A8C13CF88",163506,"Lover's Poem","AR9HNKW1187FB57EC6",,"",,"Mei Chi Chiang",0.0,73.03791,10,0.489,150.933,3,0.795,"Chagall(OS)",0
+418,"SOBYWCK12A58A7C5C0",244917,"Project: Death","AR7XK9K1187B9B1864",,"",,"Hey Colossus",0.0,420.07465,9,0.608,84.518,4,0.9,"The Book of Disquiet",2007
+419,"SOJLKSL12AB0183D93",508143,"Tesoros De Colección","ARQHLIO1187B98AA6A",,"",,"Jay Pérez",0.0,156.47302,5,0.0,119.949,7,0.818,"America the Beautiful",0
+420,"SOTALBJ12AB017D609",495796,"Lounjazz","ARN9GBH1187FB3FEF9",-22.97673,"Rio de Janeiro BR",-43.19508,"Leo Gandelman",0.0,222.98077,5,0.524,157.95,4,0.454,"Bari Bossa",2007
+421,"SOALFBA12A81C20681",179488,"Twilight Fields","ARN3O411187FB4D859",,"",,"Stephan Micus",0.0,519.8624,0,0.004,142.158,4,0.677,"Part 1 (19 Flowerpots_ 2 Hammered Dulcimers_ Bavarian Zither_ Shakuhachi)",1988
+422,"SOEMGOC12AB018790A",646387,"A Man And His Music  - El Inolvidable","ARZ8S071187B993849",18.46617,"San Juan Puerto Rico",-66.10665,"Tito Rodriguez",0.0,176.5873,5,0.297,103.166,7,0.143,"Mango Del Monte",2001
+423,"SOMAWGO12AF72A64F8",511967,"Pescado Rabioso 2","AR2GU4Y1187B99F35E",,"",,"Pescado Rabioso",0.0,579.44771,0,0.123,111.011,4,1.0,"¡Hola_ Pequeño Ser!",1973
+424,"SONVMQR12AB018688B",721687,"The Now Factor","ARO9IJB1187B9939D0",,"",,"Deckard",0.0,175.90812,1,0.238,90.964,4,1.0,"Deckard",0
+425,"SOGSSOW12AB0189E3E",573754,"Messin' Around tha House","AR43KFF1187B9B74B1",30.9742,"Louisiana",-91.52382,"Little Freddie King",0.0,312.63302,4,0.0,128.745,4,0.154,"Goin' Upstairs (Little Freddie King)",0
+426,"SOXCWTT12AC9075756",785362,"Pentagrammaton","ARZEWUR1187FB53DC8",50.45663,"Belgica -- Namur Namur/Ghent East Flanders",4.87137,"Enthroned",0.0,240.74404,2,0.735,135.535,7,0.583,"The Vitalized Shell",2010
+427,"SOYJVCQ12A81C22C90",230265,"What It Be...","ARC2BFH1187B98F3C8",40.71455,"NY - New York City",-74.00712,"Pete Miser",0.0,32.96608,2,0.242,95.761,4,1.0,"Credits",0
+428,"SOQUWUE12A8C139B47",152863,"U Brown's Hit Sound","AR1FOAY11C8A415F1E",,"",,"Angela Stewart",0.0,211.33016,6,0.481,142.674,4,0.898,"Ready For The Love",0
+429,"SONQOIL12A6D4F4D47",79637,"Beavis and Butt-Head Do America","ARFZSPU1187B9B5BA9",,"",,"John Frizzell",0.0,108.85179,7,0.096,176.756,4,0.617,"DEFCON 4",1996
+430,"SOQWOLC12AB018393D",509704,"Adios Sui Generis Vol III","ARPNDSH1187B9B942F",,"",,"Sui Generis",0.0,335.33342,7,0.685,107.592,4,0.735,"Cuando Ya Me Empiece A Quedar Solo",1973
+431,"SOFFKZS12AB017F194",542173,"Wildflowers","ARBEBBY1187B9B43DB",,"Gainesville FL",,"Tom Petty",0.0,236.17261,9,0.58,129.122,4,0.0,"A Higher Place (Album Version)",1994
+432,"SONWURF12A8C134ABD",239731,"Pass In Review","ARPMJGA11F4C83BDFE",,"",,"US Coast Guard Band",0.0,207.93424,0,0.344,115.449,4,0.529,"Independentia",0
+433,"SODRPTE12A58A7BE10",60341,"Anthology","ARLDW2Y1187B9B544F",39.75911,"Dayton OH",-84.19444,"Tommy James And The Shondells",0.0,161.85424,0,0.659,100.191,4,0.682,"I Like The Way",1967
+434,"SOPGUJO12AB0186DF1",581855,"Face The Nation","AR1DLF21187FB3CBF0",,"",,"4Him",0.0,269.06077,8,0.593,150.049,4,0.51,"He Never Changes",0
+435,"SOOGZTT12AB018A256",562622,"Jaane Maryam - Persian Music","ARMTTWG11F4C83E6AE",,"",,"Mohammad Nouri",0.0,273.94567,4,0.546,168.527,4,1.0,"Nastaran",0
+436,"SOWRAQJ12A8C146BF1",527870,"Peculiar Friends","ARKBX5B1187B9ADAFD",,"",,"Ten Wheel Drive",0.0,272.84853,5,0.433,113.866,4,0.441,"No Next Time",0
+437,"SOUQVUD12A8C142DCE",473710,"Openbare Weg","ARJGNV61187B98F3B5",,"Tallahassee FL",,"Mira",0.0,177.81506,4,0.695,85.621,4,0.612,"Openbare Weg",2006
+438,"SOWJRTX12AB0183C28",540204,"Unloved and Weeded Out","ARYOPH81187B98AEED",40.65507,"Boston Brooklyn USA",-73.94888,"Converge",0.0,99.99628,10,0.142,133.549,3,0.505,"Locust Reign (Live in California)",2003
+439,"SOGVYSA12A8AE47E6A",134775,"Mountain Homecoming - Volume 1","ARNLOIO11F4C841019",35.83073,"Tennessee",-85.97874,"Isaacs",0.0,194.01098,6,0.976,103.694,4,0.298,"Did You Ever Go Sailin'",0
+440,"SOKQDQZ12A8C13BB10",112605,"Messiaen Oeuvres Orgue","AR342K51187B98B571",,"",,"Olivier Messiaen",0.0,647.60118,5,0.109,101.636,5,0.689,"Livre D'orgue (1951) : VII Soixante-Quatre Durées (Remasterisé En 2008)",0
+441,"SOJDJRK12AB018565D",645658,"Live In Lulea","ARUYVDC12086C11D5C",,"Stockholm",,"Fever Ray",0.0,280.24118,0,0.0,64.811,4,0.24,"I'm Not Done",2009
+442,"SONDNEJ12AB0186FAC",511379,"The Singles Collection","ARHLYXD11F50C4B49E",,"",,"Bruisers",0.0,143.62077,0,0.806,97.341,4,0.684,"Bloodshed",0
+443,"SORXBMW12A6310E268",1789,"15 De Coleccion","AR5KHL41187B9ADE2A",,"",,"Jyve V",0.0,191.92118,10,0.124,132.082,4,0.694,"Maria Morena",0
+444,"SOQKQJU12A58A7D262",5312,"Thank You","ARTAFV91187B9BA17C",,"",,"Stone Temple Pilots",0.0,228.96281,7,0.058,134.982,4,1.0,"Down (LP Version)",2003
+445,"SOYKTQM12AC468D0F9",743070,"Moss","AR567PN1187FB4B4F2",,"",,"Moss",0.0,274.12853,7,0.382,107.412,4,0.336,"There Alone Go I",0
+446,"SOGYXBI12AB0188309",669331,"Ana Nikolic","ARQPWTM12420783719",,"Serbia",,"Ana Nikolic",0.0,263.00036,1,0.339,145.893,4,0.766,"Sizofrenija(duet Ana Nikolic&Aca Lukas)",0
+447,"SOWAGSC12AB01815B1",602387,"Flow","AR0WQ1Q1187B992E16",40.71455,"New York",-74.00712,"Richard Smith",0.0,277.002,8,0.463,176.014,3,0.253,"Pastel",0
+448,"SOXJPKH12A8C134149",286050,"Dham Rockas","ARCCBWR122BCFCBB85",,"",,"Sabda Brahma",0.0,349.51791,10,0.214,119.987,4,0.193,"Jahuu_ Gandiva laulaa!",0
+449,"SOXAATM12A58A7ABA8",307881,"All I Can Do","AR1XE381187FB4C685",34.05349,"California - LA",-118.24532,"Kane",0.0,220.76036,3,0.116,89.975,3,1.0,"All I Can Do",2005
+450,"SONCVTJ12AB01797ED",481809,"I Have Returned","ARROUEA1187FB4AA0F",38.8991,"Washington",-77.029,"Atom",0.0,207.28118,3,0.807,137.903,4,0.622,"Know Thyself",0
+451,"SOKSSEC12AF72A3D89",36714,"The Sufferer & The Witness","ARZWK2R1187B98F09F",,"Chicago",,"Rise Against",0.0,214.88281,8,0.3,109.45,3,0.756,"Intro/Chamber The Cartridge",2006
+452,"SOWRLSY12AC4687694",599659,"Call Tyrone","ARUT16P1187FB532A4",33.39847,"Greenville MS",-91.03786,"Tyrone Davis",0.0,235.91138,10,0.46,161.976,4,0.696,"Cheatin' In The Next Room",0
+453,"SOBTCVH12AC468BF22",599426,"Remembering The Happy Goodmans","ARR575U1187B98FB97",38.8235,"Maryland",-75.92381,"The Perrys",0.0,109.81832,10,1.0,120.047,4,1.0,"When They Ring The Bells Of Heaven",0
+454,"SOLVDDZ12A8C13570B",199578,"Texas Gold/Comin' Right At Ya","AR0CDSK1187FB52ED6",,"Paw Paw WV",,"Asleep At The Wheel",0.0,243.98322,11,0.694,104.098,3,1.0,"The Son Shines Down On Me",0
+455,"SOATIOL12A8C13604E",739252,"Decimate The Weak","ARJ45SE1187FB44AD1",,"City of Angels",,"Winds Of Plague",0.0,270.13179,11,0.189,126.182,3,0.979,"Origins And Endings",2008
+456,"SOKMGFN12AB0180B99",490904,"Full Circle","ARVSQHB1187B992FF0",,"",,"Drowning Pool",0.0,248.78975,11,0.237,166.064,4,0.858,"Reborn (Explicit)",2007
+457,"SOBPURV12A81C2286A",179184,"Tampa Red Vol. 10 1938-1939","AR576O51187B990C30",31.90143,"Smithville GA",-84.25274,"Tampa Red",0.0,169.97832,10,0.47,93.443,1,0.0,"If I Had Known",0
+458,"SOAXYAX12A6D4FE44D",128106,"The Curse","ARMOHN71187FB3959F",33.6671,"Orange County CA",-117.76505,"Atreyu",0.0,74.34404,10,0.268,90.625,4,0.399,"Blood Children (an Introduction) (Album Version)",2004
+459,"SOTOHAH12AAF3B51FC",667208,"Pink Crustaceans and  Good Vibrations","ARO5P0H1187FB5BAD7",,"Kona HI",,"Pepper",0.0,204.5122,9,0.517,220.104,3,1.0,"Freeze",2008
+460,"SOWMQNJ12A8AE471EE",280146,"Ten Rounds","AR3AY3R1187FB52CF0",,"Vidor TX",,"Tracy Byrd",0.0,227.57832,0,0.463,96.068,4,0.463,"Just Let Me Be In Love",2007
+461,"SOKIZGL12AB018342D",404997,"Pablo Honey (Collector's Edition)","ARH6W4X1187B99274F",,"Oxford UK",,"Radiohead",0.0,204.06812,4,0.234,111.629,3,1.0,"You (Demo)",2009
+462,"SOKLWWG12AB018A824",468309,"Chris Farlowe Selected Hits","ARTXS851187FB411C7",,"Essex England",,"Chris Farlowe",0.0,165.51138,0,0.543,177.598,4,0.413,"Paperman_ Fly In The Sky - Original",0
+463,"SOSZLHY12A6D4F5CCC",85254,"Honge Na Juda Hum","ARNIO6W1187FB37297",,"",,"DCS",0.0,305.3971,9,0.602,95.889,4,1.0,"Tu Hi Tu Sada",0
+464,"SOAORIB12AC9072D42",601433,"He Kept On Loving Me","AR2G8UI1187FB3F33C",63.03654,"Knobel AK",-149.10568,"Barbara Fairchild",0.0,329.24689,2,0.702,151.676,4,0.517,"The Other Side Of That Hill",0
+465,"SOVGYIW12AB018186F",343267,"Decisions","ARFCOGY1187FB454B4",,"Detroit MI",,"The Winans",0.0,288.26077,10,0.625,106.515,4,0.848,"Breaking Of Day (Album Version)",0
+466,"SOGAUIQ12A6D4F8262",311757,"Some Kind Of Monster","ART5MUE1187B98C961",,"Los Angeles CA",,"Metallica",0.0,252.3424,1,0.376,167.486,4,0.901,"Hit The Lights",1982
+467,"SOGNZTE12A67AD8518",18599,"Very Best of Montserrat Caballe","ARDR4AC1187FB371A1",,"",,"Montserrat Caballé/Royal Philharmonic Orchestra/Lamberto Gardelli",0.0,498.80771,8,0.611,53.766,3,0.894,"Guillaume Tell_ Acte II (1988 Digital Remaster): Ils s'éloignent enfin....Sombre forêt",0
+468,"SOUUOSZ12A8C14378D",317364,"The Strathspey King","AR8ZTV41187FB3F311",57.15382,"Aberdeen Scotland",-2.10679,"James Scott Skinner",0.0,184.52853,10,1.0,133.953,1,0.0,"Triumph / Timour The Tartar / The Left Handed Fiddler / Speed The Plough / De'il Among The Tailors",0
+469,"SOAKAIG12A8AE46D63",347112,"Ghetto Dope","ARV4I6F1187FB4D595",,"",,"5th Ward Boyz",0.0,245.99465,6,0.353,165.779,4,0.261,"Studio Gangster",1993
+470,"SOLPJPM12A8C141BDE",221684,"Amor Y Ruleta","AR2PT4M1187FB55B1A",,"",,"Los Chichos",0.0,242.80771,5,0.129,152.857,4,0.929,"Vuelve Junto A Mi",1979
+471,"SOTNVHX12A8AE45CE9",279664,"Intégrale 81-91","AR7GOK91187FB455F5",48.85692,"Paris France",2.34121,"Jean-Jacques Goldman",0.0,558.44526,0,0.358,139.286,1,0.0,"Medley : "Traces" (Live)",0
+472,"SOVATLZ12A8C135595",286040,"Prophecy Of The Decadent","ARWSPAI12420782828",,"",,"Necrodaemon",0.0,225.59302,9,0.012,210.124,4,0.362,"The last havoc",0
+473,"SOLCSRR12AB017E36E",539725,"Is It News","AREV0ZO1187B997221",32.77815,"Dallas TX",-96.7954,"Doyle Bramhall",0.0,252.36853,2,0.592,89.922,3,0.185,"Ooh Wee Baby",2007
+474,"SORZNEP12CF54662E7",292517,"Santana/Abraxas/Santana(III) (3 Pak) (Costco Longbox Version)","ARB054P1187B9AD32E",,"San Francisco CA",,"Santana",0.0,433.37098,1,0.202,84.87,4,0.235,"Fried Neck Bones And Some Home Fries",0
+475,"SOBTJWY12AB017D2C4",330109,"The Other Side of Love","AR009211187B989185",,"",,"Carroll Thompson",0.0,425.19465,7,1.0,171.991,4,0.449,"Show Some Love Where Is The Love feat. MackaB",0
+476,"SOCOMNU12AB017EFC2",602410,"Dances_ Prayers_ & Meditations For Peace","ARXJSHW1187B9A2A52",25.72898,"Miami FL",-80.23742,"Nestor Torres",0.0,294.53016,5,0.798,137.908,5,0.53,"Rhumboso",0
+477,"SOAWLLC12AB01893BC",517497,"Ascension To Tibet","AR0GB821187B99FE96",,"",,"Dean Evenson",0.0,203.93751,2,0.751,98.442,4,0.672,"Gateway",0
+478,"SOJRUHL12A813557F6",129267,"The Warriors EP_ Vol. 2","AR65OLD1187FB5C103",,"",,"P.O.D.",0.0,188.94322,1,0.554,125.528,5,0.617,"Ya Mama (Palm Springs Demo)",0
+479,"SOWIHGX12AB017D6EA",340648,"Irish Folk Favourites","ARKNICM1187B9B9CE5",,"",,"Mick Moloney",0.0,32.91383,7,0.047,195.44,1,0.0,"Bodhrán Solo",0
+480,"SOIXLJG12AB018508A",709438,"Stings of Conscience","AR6G6G01187B9B1637",,"",,"Unearth",0.0,222.27546,11,0.771,160.783,4,0.537,"Fuel the Fire",2001
+481,"SOYZHDL12AB01864AF",714353,"Amor en Bossa Nova","ARZTSMH122988F522A",,"",,"Reginaldo Bessa",0.0,97.98485,5,0.046,102.043,4,0.152,"Gosto de Você Demais",0
+482,"SOODPJI12AB0181BD8",514098,"Hear Globally: A Cumbancha Collection","ARJPRV411A348EFE4B",,"",,"Rupa & the April Fishes",0.0,251.76771,11,0.996,165.971,4,0.53,"C'est Moi",2009
+483,"SOPVYZH12AB017C34D",619860,"After Ours","AR4JY8V1187B98A62F",,"",,"Ann Hampton Callaway",0.0,312.65914,0,0.763,103.077,3,1.0,"Time After Time",0
+484,"SOIOCUC12A8C13EDAA",111988,"Collection 2","ARA1UU51187FB5A70B",,"New Jersey",,"The Misfits",0.0,133.27628,2,0.293,83.953,1,0.0,"Halloween II",1981
+485,"SOIAWUS12AB0187B0B",462645,"Gimme A Break","ARLLANI1187FB5116F",,"",,"Simon Harris",0.0,187.16689,9,0.417,114.169,1,0.0,"Sample Track 11",0
+486,"SOSCUFQ12AB0184B0B",424018,"In for the kill","ARW4P0V1187B9B182E",,"",,"Inhume",0.0,185.20771,6,0.341,141.423,1,0.0,"Inhume",2003
+487,"SOYJFCZ12A8C137848",262341,"Whip Me Volume 1","ARTPGR61187B98B0F6",,"",,"Thriller U",0.0,226.32444,7,0.925,89.675,4,0.548,"Memories",0
+488,"SOTDYKK12AB0184B0B",575230,"Before the Frost... Until the Freeze","ARUKN9H1187B9B71C8",,"Atlanta GA",,"The Black Crowes",0.0,263.52281,4,0.148,178.299,4,0.187,"Roll Old Jeremiah",2009
+489,"SOLIERS12A58A75718",525924,"Power Trance Vol. 4","ARXWBOL11E2835E5BB",,"",,"Abbott & Chambers",0.0,496.06485,7,0.668,138.012,4,0.0,"Where Are You",0
+490,"SOWQYXA12AB01816D6",513034,"Broadway - Right Now!","ARODP5P1187FB40142",,"",,"Eddie Cano",0.0,176.16934,10,0.211,125.303,4,0.484,"It Only Takes A Moment (Album Version)",0
+491,"SOVKZLE12AB018A2F4",591200,"Nordic Hotel","ARBQ5TQ1187B992B8A",,"CANADA - Ontario",,"Vivian",0.0,184.63302,2,0.01,140.08,4,0.66,"Better",0
+492,"SOCNBNA12A58A79C7E",717115,"The Dream","ARV2X851187FB41A78",42.31256,"Mass. - Boston",-71.08868,"Open Hand",0.0,278.56934,10,0.538,156.581,1,0.0,"11th Street",2000
+493,"SOOKZLP12A8C13F561",120256,"Kalifornia Love","ARS8KBY1187FB4BC7E",39.95227,"Philadelphia PA",-75.16237,"Kurupt_ Rosco_ Jayo Felony & 40 Glocc",0.0,192.86159,10,0.328,174.762,4,0.0,"She Flock To Me",0
+494,"SOJHKYL12A6D4FA0AC",52141,"Dark Days In Paradise","AR56P361187B9AC4DB",54.5958,"Belfast Northern Ireland",-5.93494,"Gary Moore",0.0,345.93914,2,0.04,153.862,4,0.404,"What Are We Here For",1997
+495,"SOJAKEW12AB017D93A",650976,"Sweet Sounds of Country Vol. 1","AR6GSIE1187B98C3C7",39.49974,"Raines UT",-111.54732,"Ned Miller",0.0,131.83955,3,0.789,99.334,1,0.0,"From a Jack To a King",1963
+496,"SOLCKVN12AB01873D0",585297,"Taste the Blood Of...","ARK9W051187FB4B783",,"",,"Zombina & The Skeletones",0.0,152.65914,2,0.648,91.018,4,0.801,"Can't Break a Dead Girl's Heart",2002
+497,"SOYFPUW12A6D223ADC",75273,"Kicks","ARDK87R1187B98D51C",,"San Francisco CA",,"Flamin' Groovies",0.0,207.28118,1,0.358,94.15,4,0.916,"Call Me Lightning",0
+498,"SOYZBUV12A8C1393FD",255383,"Somewhere","AR0JEOI1187B98B918",31.1689,"Texas",-100.07715,"Erik Berglund",0.0,354.66404,10,0.837,79.632,5,0.475,"Ave Maria",0
+499,"SOZPIND12A8C1364ED",246671,"Timeless","ARLWR721187B9A03C9",35.82213,"Humboldt TN",-88.91599,"T.G.Sheppard",0.0,247.87546,2,0.356,80.657,5,0.599,"When I Fall In Love",0
+500,"SODPNJR12A6D4FA52D",55934,"Joao Voz E Violato","AR3THYK1187B999F1F",,"",,"João Gilberto",0.0,197.19791,4,0.665,127.782,4,0.226,"Segredo",2000
+501,"SOYOFSW12A6D4FA9F1",74608,"Open Fire","ARGQANQ11F50C4769E",37.87869,"San Francisco Bay Area",-121.94345,"Y&T",0.0,275.9571,6,0.44,170.773,4,0.332,"Black Tiger",1982
+502,"SOKTPEY12AB018170C",417438,"Mask Industries","AR74W1A1187FB5ACFC",48.20254,"Vienna",16.3688,"Devanic",0.0,210.88608,4,0.447,112.427,4,1.0,"You Live_ You Die",2006
+503,"SONOKWX12AB0185FDC",582256,"Live At Negril","ARNZPLV1187FB3DF5D",,"",,"Capleton",0.0,86.88281,7,0.442,161.737,4,1.0,"Raggy Road",1997
+504,"SOMBTZH12A8C13BB75",262524,"Future Development","ARV4KO21187FB38008",37.80506,"Oakland CA",-122.27302,"Del The Funky Homosapien",0.0,242.85995,4,0.236,87.955,4,0.421,"Corner Story",1998
+505,"SOLPOGC12AB017D41F",336169,"L'adorer","AR8UA7Z1187B9AD9C9",48.10751,"Rennes",-1.68447,"Étienne Daho",0.0,237.50485,4,0.377,140.119,5,0.572,"Cet Air Étrange (Take 1 - Abbey Road Rough Mix)",0
+506,"SOGSMXL12A81C23D88",275907,"Je Sais Que La Terre Est Plate (Deluxe)","AREJXK41187B9A4ACC",46.71067,"France",1.71819,"Raphaël",0.0,148.74077,0,0.591,124.059,4,0.372,"Je Sais Que La Terre Est Plate",2008
+507,"SOSWZAS12A8C143F3E",377293,"Greatest Groups of the 50's","ARSG0RY1187B98E989",,"CANADA - Ontario",,"The Kings",0.0,191.21587,4,0.0,100.65,3,1.0,"Who Do You Love",0
+508,"SOYIFLO12AB01877B3",554760,"Matumago X Press","ARULHJM1187B997004",,"",,"Word",0.0,187.97669,8,0.254,103.995,4,0.831,"Il rosso",0
+509,"SOEZCYJ12A58A7C0D4",262136,"My Favorite Place","ARC28SN1187B989049",,"United States",,"Greater Vision",0.0,223.76444,10,0.654,135.955,4,0.503,"Everyone_ Everywhere_ Everytime",0
+510,"SOHDNUO12AB0183EC1",359570,"Don Leopardo","AR02YGA1187B9B8AC4",-34.60852,"Buenos Aires",-58.37354,"Bersuit Vergarabat",0.0,180.11383,7,1.0,126.531,4,0.223,"Bolivian Surf",1996
+511,"SOQDTSH12A6D4F9A5B",59667,"Sugar Candy Lady","ARVGPOM1187FB55737",39.95227,"Philadelphia PA",-75.16237,"Billy Butler",0.0,180.32281,4,0.137,124.335,4,0.703,"She's Got Me Singing [Bonus Track]",0
+512,"SOXHJUK12A8C1351F4",256901,"Jennifer Clarke","ARXIPJZ1241B9C818F",51.89834,"Cork Ireland",-8.47277,"Jennifer Clarke",0.0,213.21098,1,1.0,71.233,4,0.535,"It's Alright",0
+513,"SOWPTXM12AF729D122",456702,"The Piper At The Gates Of Dawn","ARD4C1I1187FB4B0C3",,"London England",,"Pink Floyd",0.0,187.42812,4,0.832,54.398,4,0.0,"Matilda Mother (Stereo) (2007 Remaster)",1967
+514,"SOYRUNW12AB01856B8",341940,"Praise Him...Live!","ARVJ0JK1187B98C9C0",,"",,"The Brooklyn Tabernacle Choir",0.0,257.30567,7,0.721,115.371,1,0.346,"All That You Need",1995
+515,"SOEBMOR12AB018E580",773435,"Knowledge Zombie","AR8BMEQ1187B9B4214",38.2589,"Missouri",-92.43659,"Pumpkin Buzzard",0.0,193.20118,2,0.853,68.936,1,0.0,"Bladecrash Electrocution",0
+516,"SOQYXUX12A8151CA28",274665,"Collection of Wo De Zui Ai","ARNNC731187FB55D14",,"",,"Kary Ng",0.0,209.47546,5,0.646,99.605,4,0.787,"Fen Shou Yao Hen",0
+517,"SOBXWEW12AB017FB9B",343601,"La Vida Es Un Ratico En Vivo","ARYN2M61187B995BD6",,"Medellin Colombia",,"Juanes",0.0,332.5122,11,0.575,196.106,4,0.0,"Rebelion",0
+518,"SOJEEKG12A8AE48C77",138186,"The Day After","ARSE5NP1187B9B98AB",,"Chicago IL",,"Twista",0.0,200.98567,7,0.003,90.158,4,0.685,"The Day After (featuring Syleena Johnson) (Explicit Chopped & Screwed Version)",2005
+519,"SOPFEVW12AB01821DC",463877,"DUBB","AR0WAW61187B98B7D7",40.71455,"New York NY",-74.00712,"Doug MacLeod",0.0,337.42322,2,1.0,85.56,3,1.0,"The Sun Shine Down My Way",2004
+520,"SOUKJOM12AF72A5F91",323348,"Still Making History","ARW2DG51187B9A170F",44.81187,"Belgrade Yugoslavia",20.46414,"Ana Popovic",0.0,263.83628,8,0.34,177.362,4,0.565,"Shadow After Dark",2007
+521,"SOKGWST12A8C13971B",155379,"Motley Crue / Rock Legends","AREGV3K1187B9AF614",,"Los Angeles California",,"Mötley Crüe",0.0,248.21506,0,0.809,124.024,4,0.409,"Afraid",1997
+522,"SOBHRIK12A6D4F6E75",24732,"Tomorrow","ARB3YS71187FB4E54E",,"",,"Tomorrow",0.0,173.26975,2,0.682,138.028,4,0.0,"Colonel Brown (1999 Digital Remaster)",0
+523,"SOPRTNI12AC4688294",696951,"At Your Own Risk","ARRQWQW1187FB49844",,"Los Angeles CA",,"King Tee",0.0,153.57342,2,0.166,108.301,4,1.0,"King Tee Production",0
+524,"SOVXKMW12A8C1414C1",307550,"The Greatest Hits","ARH0Z131187B9B69E9",40.8079,"Harlem New York NY",-73.9454,"Kool Moe Dee",0.0,397.5571,6,0.042,107.022,4,1.0,"Death Blow",1991
+525,"SOABVWD12A58A7C3FF",611960,"South Of The Border","ARJUNZD1187B9A5DAE",34.07292,"BEVERLY HILLS California",-118.39981,"Herb Alpert And The Tijuana Brass",0.0,163.94404,5,0.62,97.52,1,0.341,"Adios_ Mi Corazon",1964
+526,"SOFGAJF12A8C141DA3",7106,"Lost Together","ARD842G1187B997376",43.64856,"Toronto Ontario Canada",-79.38533,"Blue Rodeo",0.0,280.65914,7,0.345,126.1,4,0.415,"Fools Like You",1992
+527,"SOEZJIE12A8C1318B7",192241,"Look What The Rookie Did","ARA0JEL1187B998FA3",49.26044,"Vancouver BC Canada",-123.11403,"Zumpano",0.0,228.46649,1,0.383,159.784,1,0.633,"Wraparound Shades (Album)",1995
+528,"SOGBXMY12AB01826BE",444395,"2005 International Barbershop Quartet Contest - First Round - Volume 5","ARET4E31187B99E0A7",,"",,"Fixx_ The",0.0,276.4273,6,0.493,83.413,3,0.556,"These Foolish Things",0
+529,"SOZIQBP12A58A79F4E",43305,"House Of Dark Shadows and Night Of Dark Shadows","ARPNJUD122BCFCB9B4",,"AUSTRALIA",,"Dark Shadows",0.0,67.05587,11,0.0,110.933,1,0.419,"The Taking Of Angelique",0
+530,"SOWZSFY12A67AD820C",68914,"Walking Miracle","ARP32X81187B99EBF5",42.33168,"Detroit MI",-83.04792,"Vanessa Bell Armstrong",0.0,224.65261,5,0.363,122.511,4,0.968,"Walking Miracle",0
+531,"SOTUDJY12AC9070E78",600322,"Solas","AR7AE0Q1187B9AE30E",,"",,"Solas",0.0,192.67873,3,1.0,47.934,1,0.0,"Lament for Frankie",1996
+532,"SODRDRJ12A8C14289E",748222,"Santa Claus Is Coming To Town","ARQ9BO41187FB5CF1F",40.99471,"Pennsylvania",-77.60454,"John Davis & Emma Doyle",0.0,184.86812,4,0.743,120.026,4,0.241,"Mary's Boy Child",0
+533,"SORABBL12A58A7C15E",292223,"Live in Japan 2004","AR1RMYB1187FB5A59E",37.27188,"California",-119.27023,"Incubus",0.0,227.73506,6,0.616,88.753,4,0.373,"A Crow Left Of The Murder",2004
+534,"SOCCFVI12A6D4F9646",1749,"A.B. Quintanilla III Presents Joe Lopez","ARCZN5K1187FB42CF8",31.1689,"Texas",-100.07715,"Joe Lopez",0.0,199.36608,0,0.65,161.979,3,0.246,"Me Duele",2004
+535,"SOXWHXX12AB018E307",808027,"The Greatest Hits from 40's and 50's_ Vol. 70","AR1206S1187B9AF3EA",,"",,"Albert Préjean",0.0,190.17098,2,0.747,178.596,3,0.709,"Une java",0
+536,"SOXXWCR12A58A7D4FA",530856,"Winter Dreams for Christmas","AREJ5K11187B993F5F",,"",,"R. Carlos Nakai",0.0,341.65506,9,0.612,136.778,1,0.367,"God Rest Ye Merry Gentlemen (World)",0
+537,"SOWTBTR12A6D4F7881",35166,"30 Seconds To Mars","ARRBF3M1187FB4D59F",,"Los Angeles CA",,"30 Seconds To Mars",0.0,245.02812,8,0.616,190.102,4,0.04,"The Mission",2002
+538,"SOWDITP12A58A777CF",505145,"Loose Change","ARILU7Z1187B999204",,"",,"The Gaskets",0.0,232.69832,5,0.36,83.942,4,0.815,"Deportees",0
+539,"SOEHQMQ12AB01806CC",536279,"Terra Esperança","AR3N2H11187B98AFBA",-10.68641,"Itabaiana Para� Brazil",-37.42475,"Sivuca & Clã Brasil",0.0,234.16118,2,0.189,134.99,3,0.0,"Visitando Zabelê",0
+540,"SOZEHMC12A6D4F9F30",128122,"Discovering The Waterfront","AR10USD1187B99F3F1",,"Burlington Ontario Canada",,"Silverstein",0.0,229.642,2,0.548,108.499,4,0.785,"Always And Never (Album Version)",2005
+541,"SOWJALY12A6D4F837F",45175,"Bluesbreakers With Eric Clapton - Deluxe Edition","ARJ9DSA1187B990E00",,"",,"John Mayall & The Bluesbreakers",0.0,214.69995,2,0.491,107.458,4,0.631,"All Your Love",1966
+542,"SOPAOCV12A6D4FB022",238974,"Live at Lollapalooza 2007: Dax Riggs","AR2BG0R1187FB398C3",29.59733,"Houma LA",-90.71913,"Dax Riggs",0.0,91.19302,8,1.0,108.826,1,0.0,"Ouroboros",0
+543,"SONRFCO12AC3DF6AFB",603118,"Outtakes and Demos 1975 -  2003","ARZIKR01187B98DF08",,"",,"Joe Grushecky",0.0,253.04771,11,0.614,109.997,4,0.822,"A Fool's Advice",0
+544,"SOHPDWN12AAA15E9AF",480093,"One","AR4OMY81187B9B31E7",,"",,"Cursed",0.0,74.68363,5,0.0,104.805,1,0.0,"Pariah",0
+545,"SOORFHT12A6D4F7C2D",81232,"OM","ARWJAQ81187FB46F73",45.75342,"Timişoara",21.22327,"Negura Bunget",0.0,123.66322,2,0.026,127.719,4,0.0,"Al Doilea Om",2006
+546,"SOESPJF12A8C134EEC",292043,"Fan","AR5IHI31187B998618",,"",,"Pascal Obispo",0.0,237.63546,9,0.868,130.026,4,0.62,"La Prétention De Rien",2004
+547,"SOWTIDJ12AB018808C",726003,"Il meglio di Gloriana","ARGCY1Y1187B9A4FA5",36.16778,"Nashville TN.",-86.77836,"Gloriana",0.0,179.06893,0,0.437,161.054,4,0.67,"Pulecenella 'e mò",0
+548,"SOZCBCO12A8C142714",314742,"Cocoon: The Return","ARBM57Q1187B9AF97C",34.05349,"Los Angeles CA",-118.24532,"James Horner",0.0,197.38077,0,0.596,129.237,4,0.297,"Good Friend",2000
+549,"SOHCZJH12A8C13A73C",299130,"Republica","AR0U44O1187B99007C",51.50632,"London England",-0.12714,"Republica;Jonny Male;Dave Arch",0.0,303.85587,10,0.501,129.888,4,0.0,"Ready To Go",1996
+550,"SOLWGUJ12A8C13908A",207670,"Southern Slang (Chopped & Screwed)","ARG3UX61187B9AC05A",,"",,"D.O.W.N.",0.0,350.11873,1,0.69,109.791,4,0.468,"Freeword",0
+551,"SOKCFEJ12AB017BE83",538812,"G.I. JOE","ARFFDZU1187FB50682",40.71455,"New York NY",-74.00712,"Alan Silvestri",0.0,504.05832,8,0.087,154.172,4,0.198,"The Joes Mobilize",2009
+552,"SOMDZTP12AB018672C",771302,"Unsinkable","AR01IP11187B9AF5D2",28.33268,"Rockledge Florida",-80.73486,"Call To Preserve",0.0,165.82485,2,0.0,189.824,4,1.0,"Now And Forever",2006
+553,"SOJDXQI12AF72A580E",26414,"Ocean Avenue","AR048JZ1187B9AEB85",30.33138,"Jacksonville FL",-81.6558,"Yellowcard",0.0,208.79628,7,0.456,89.896,4,0.352,"One Year_ Six Months",2003
+554,"SOGMSIS12A58A7C45D",150859,"Collecton","ARB45GQ1187B98D2B4",,"",,"DeGarmo & Key",0.0,275.74812,7,0.652,132.786,1,0.0,"Jericho  (Straight On Album Version)",0
+555,"SOHRBUD12A8C13A769",300000,"De Nadie","ARUK0W21187B995456",,"",,"Isabel Pantoja",0.0,317.36118,2,1.0,163.922,4,0.7,"Porque Me Gusta A Morir",1993
+556,"SOQFZBX12A6D4F5B4D",22126,"Caught Live + 5","ARZKUQF11F4C8456E8",52.47859,"Birmingham",-1.9086,"The Moody Blues",0.0,291.29098,9,0.321,115.514,4,0.132,"Tuesday Afternoon",1968
+557,"SOAPAIN12A8C142D08",477788,"City Of Black & White","AR4FGSF1187FB528BE",36.16778,"Nashville TN",-86.77836,"Mat Kearney",0.0,215.74485,11,0.563,151.936,4,0.325,"Never Be Ready",2009
+558,"SODDHDA12AB018CF6D",816896,"Live & Filthy","ARD3LXU1187B9ABFC5",,"",,"Sex Pistols",0.0,126.06649,8,0.663,130.429,1,0.833,"I'm A Lazy Sod (Live)",1998
+559,"SOZZWBA12A8C13F403",609492,"Ultimate Mardi Gras","ARYLG3I119B8668696",,"",,"Rockin' Dopsie_ Jr.",0.0,205.71383,7,0.692,104.448,4,0.759,"Down at the Mardi Gras",0
+560,"SOZLTVI12A6D4F77B8",22460,"Lil' Romeo","ARC41BF1187B98ECBB",,"",,"Lil' Romeo",0.0,211.82649,11,0.45,95.991,4,1.0,"Don't Want To",0
+561,"SOJULNT12AB018486A",547104,"In North Carolina","ARBZAIL1187FB5B1C8",42.31256,"Boston MA",-71.08868,"Bob Margolin",0.0,198.84363,4,0.373,79.905,1,0.0,"Baby_ Baby_ Baby",0
+562,"SOOSBQP12A8C1353B6",290264,"The Remixes","ARKSZW81187B9B695D",40.71455,"New York New York",-74.00712,"Mariah Carey",0.0,652.40771,2,0.508,121.884,4,1.0,"Anytime You Need A Friend",1993
+563,"SONQGFP12A6D4FAEAF",57714,"Scratchy: The Reprise Recordings [Includes Liner Notes]","ARXLX5L1187FB47BED",,"",,"Crazy Horse",0.0,170.23955,3,0.329,74.739,1,0.0,"Going Home (Album Version)",0
+564,"SOZDJWF12A6D4F9682",1138,"Around The Sun","ARR6LWJ1187FB44C8B",,"Athens GA",,"R.E.M.",0.0,246.17751,0,0.834,107.55,4,1.0,"Final Straw (Album Version)",2004
+565,"SOQVFVG12AAF3B3FA5",529902,"Song and Dance","ARUKNSS1187FB435E3",40.71455,"New York City",-74.00712,"Bobby Broom",0.0,382.98077,8,0.513,124.883,4,0.0,"Where Is The Love?",0
+566,"SOMPMVQ12A58A78C8E",295013,"21 & Over","ARMW4I01187B98AEF8",34.05349,"Los Angeles CA",-118.24532,"Tha Alkaholiks",0.0,217.36444,7,0.535,104.458,4,1.0,"Only When I'm Drunk",1993
+567,"SOKXTEN12A8C13B438",215115,"Facto Delafe y las flores azules VS El monstruo de las ramblas","ARL6UP41187FB5C604",,"",,"Facto Delafe y las flores azules",0.0,158.45832,2,0.0,95.036,4,0.478,"Enero en la playa (Edit)",2005
+568,"SOYTMRC12A6D4F5B58",22126,"Caught Live + 5","ARZKUQF11F4C8456E8",52.47859,"Birmingham",-1.9086,"The Moody Blues",0.0,194.97751,2,0.043,91.453,4,0.0,"Long Summer Days",1977
+569,"SOQMNBZ12A81C2301E",553001,"97 | 07","AR4MCB01187B98BF5C",,"",,"Atman",0.0,290.48118,9,0.683,118.058,4,0.876,"Luminous Bliss",2005
+570,"SOOCZWD12AB0185147",503069,"Desolation Angels","ARD8JVH1187FB4DA04",,"England",,"Bad Company",0.0,211.1473,0,0.614,194.283,7,0.47,"Crazy Circles",1979
+571,"SOMRPXI12AB018788D",556209,"Believe","ARL62M311C8A4213F2",,"",,"Katie Armiger",0.0,204.22485,9,0.388,150.085,4,0.064,"Movin On",0
+572,"SOGUEML12AB01850DA",598135,"DJ Omega Classics Part 2","ARTKOGW1241B9CD42B",,"",,"DJ Omega",0.0,217.05098,7,0.2,160.043,4,0.0,"Pop dat shit",0
+573,"SOVAKME12AB01892EE",563689,"Private Beach Club - By Afterlife","AR4AEIP1187FB4030A",33.74831,"Atlanta GA",-84.39111,"Wamdue Project",0.0,422.24281,11,0.188,123.984,4,1.0,"Washes Over Me",0
+574,"SOJZLAJ12AB017E8A2",346402,"Reality","ARS1DCR1187B9A4A56",,"",,"Winston Reedy",0.0,193.72363,1,0.931,118.123,4,0.205,"Sentimental Man",0
+575,"SOMEGDY12A8C1394D1",291851,"The One","AR4FVK41187FB4BC83",,"Tijuana Mexico/San Diego California",,"Frankie J",0.0,273.00526,4,0.0,117.844,4,1.0,"Gone",2005
+576,"SOJMXSD12A6D4F81F8",43110,"Sammi Shocking Colours Live 2001","ARG1UAO1187FB55E50",,"",,"Sammi Cheng",0.0,126.82404,4,0.865,104.25,4,1.0,"Ai Shi...",0
+577,"SOQJQUF12AB0184B38",331266,"Themes","ARA1EK21187B9A2FB7",,"",,"Silent Stream Of Godless Elegy",0.0,50.1024,3,0.248,162.676,7,0.265,"Theme III",2000
+578,"SOEYVKP12AB017B847",531228,"Canyon Trilogy","AREJ5K11187B993F5F",,"",,"R. Carlos Nakai",0.0,276.50567,6,0.161,157.381,1,0.0,"Canyon People (World)",0
+579,"SOASAOQ12A582917AA",246621,"Following After","ARSVRVA1187B99228A",,"",,"The Nelons",0.0,236.5122,3,0.656,141.982,4,0.331,"God Keeps A Candle",0
+580,"SOETZNT12A8AE46467",185940,"Beggar's Paradise","AR83XLX1187B991E33",,"",,"Chris Rodriguez",0.0,209.52771,4,0.871,121.101,4,1.0,"Turn Around (LP Version)",0
+581,"SOFTBCN12A8C13AAC1",216081,"Roni Size Reprazent - New Forms2","AR2NJG71187FB5203E",,"Bristol England",,"Roni Size",0.0,373.86404,0,0.58,109.703,5,1.0,"Less Is More",0
+582,"SOOPWJR12A8C139502",209997,"Ultimate Collection: Lullabies","ARUTS6Y1187FB5BDAB",,"",,"Twila Paris",0.0,202.70975,3,0.692,101.998,3,0.416,"Perfect Peace",2001
+583,"SOWOMMS12A8AE499EB",120908,"Life is Love","ARIBJIS11C8A414F70",,"",,"NO-TONE ft.Inusa",0.0,396.7473,2,0.16,126.012,4,0.0,"Life is Love",0
+584,"SOFQOAR12AC4688316",778229,"Café Solaire 11-Download Edition","AR5IDI61187FB43E75",,"",,"Bloomfield",0.0,353.69751,1,0.287,179.976,4,0.0,"Boulevard St. Germain",2006
+585,"SOMZCVH12AB0182B8E",619882,"The Ultimate Most Relaxing New Age Piano in the Universe","AR89DTT1187B9A7ED5",37.77916,"California - SF",-122.42005,"Suzanne Ciani",0.0,239.59465,7,0.527,106.33,4,0.526,"Stream",0
+586,"SONEIYL12AB0180FE4",639325,"Ann Nesby's Soulful Christmas","ARX2R5A1187FB5B85B",33.74831,"Joliet IL &amp; Atlanta GA",-84.39111,"Ann Nesby",0.0,230.79138,0,0.633,107.466,4,0.644,"I'm Going All The Way (Album)",0
+587,"SOIQQYQ12A6D4F4AB7",28295,"Keep Them Freaks A Rollin' - Live At Abbey Road","ARJB9TE1187FB3A9F8",,"",,"The Edgar Broughton Band",0.0,594.85995,0,0.261,131.184,4,0.747,"Out Demons Out (Live) (2004 Digital Remaster)",0
+588,"SOXNERI12A6701E92E",14320,"Aerosmith - Universal Masters Collection","AR12F2S1187FB56EEF",,"Boston MA",,"Aerosmith",0.0,314.27873,5,0.4,70.876,4,0.0,"What It Takes",1988
+589,"SOYRPRE12AB018B083",572855,"The Early Tapes 1975-1976","AR8YV1I1187FB45D2B",40.71455,"New York NY",-74.00712,"Rory Block",0.0,111.46404,2,0.203,85.981,4,0.053,"Blues Again",0
+590,"SOVQONJ12A8C139C4B",295070,"Super Hits","ARMWZF41187FB387F9",,"Sledge MS",,"Charley Pride",0.0,163.52608,0,0.698,100.893,1,0.0,"Let The Chips Fall",0
+591,"SOKXZEJ12AC3DF5E1E",776987,"Coming On Strong","ARWA8AH1187FB3FC84",51.50632,"London",-0.12714,"Hot Chip",0.0,181.02812,1,0.914,126.14,4,0.0,"Ass Attack (Four Tet Remix)",2004
+592,"SOZXLAE12AB018AB74",802838,"The Greatest Hits from 40's and 50's_ Vol. 8","ARGKPBC1187B9ADF8E",,"",,"Jean Lumière",0.0,144.19546,10,0.073,140.741,5,0.769,"Je suis le passeur du printemps",0
+593,"SOJIUVL12AB01867D9",667495,"Talk To Me","AROBVNV1187FB3F36C",42.28107,"Needham MA",-71.23605,"Joey McIntyre",0.0,173.322,5,0.624,202.693,5,0.471,"All The Way",0
+594,"SOREJVE12A58A7AD36",560992,"We Are To Answer","ARIGY9P1187B9B6428",,"GERMANY",,"Ancient Astronauts",0.0,330.57914,9,0.645,136.044,4,0.583,"Crescent Moon",2009
+595,"SONFKHD12A6D4F8ED6",57633,"Just Being Myself","AR4PQ891187FB5CA9F",40.76099,"East Orange NJ",-74.20991,"Dionne Warwick",0.0,243.85261,2,0.007,130.637,4,0.446,"Don't Let My Teardrops Bother You (Album Version)",0
+596,"SOJTZQO12AC960DB2A",602106,"Full Circle","ARAPH9U1187B9B34F0",,"Marshville NC",,"Randy Travis",0.0,176.43057,10,0.185,112.613,4,0.0,"Don't Take Your Love Away From Me (Album Version)",1996
+597,"SODDBHT12AB0186B6E",569882,"Blue [da ba dee] [2009 Remixes]","AR6JVK31187FB58FE3",,"",,"Eiffel 65",0.0,390.00771,6,0.001,130.039,4,0.638,"Blue [Da Ba Dee] [Gabry Ponte vs. HiFi Blueprint Remix]",0
+598,"SOAQBLS12AC46878BF",778910,"Yeah Yeah","ARMLLP51187B9B27B1",,"SWEDEN",,"Janina",0.0,189.70077,2,0.718,141.053,1,0.0,"Nachts um halb drei",0
+599,"SOGEGWE12A8C13E6F0",307775,"Kata Vathos","AROGWRA122988FEE45",,"",,"Christos Dantis",0.0,246.80444,5,0.058,126.976,4,0.33,"Kenourgia Fotia",0
+600,"SOLDLXG12AB0185707",351426,"Angels Fall First","AR74Q3R1187B9B24C3",,"Kitee Finland",,"Nightwish",0.0,382.58893,5,0.924,78.959,3,0.865,"Beauty And The Beast",1997
+601,"SOASAPT12AB01836BB",703022,"Decade of Suicide/10 years after beginning","AR1Y37Q1187B9B66D2",40.71455,"New York NY",-74.00712,"Suicide",0.0,321.30567,0,0.522,144.94,4,0.0,"Shadows of the thought",0
+602,"SOKXOYB12AB0182EEC",620654,"From My Tradition: The Best Of Joe Heaney","AR5J8N51187FB54ED9",38.8991,"Washington",-77.029,"Joe Heaney",0.0,147.43465,10,0.755,102.649,3,0.641,"Peigin is Peadar",0
+603,"SOPVTMB12AB0189152",472687,"Let The Dominoes Fall","ARF84A41187B9A34E7",37.87869,"Bay Area CA",-121.94345,"Rancid",0.0,94.01424,7,0.113,102.394,4,1.0,"The Bravest Kids (Acoustic)",0
+604,"SOWKWKH12A8C13C972",725665,"Adalberto","ARE6ZTY1187FB5007F",,"",,"Adalberto Santiago",0.0,299.93751,5,0.046,205.885,4,0.0,"Tu Me Desesperas",1977
+605,"SOHWHZJ12A58A79FA8",356024,"Kaskaad - Mohawk Hunt / Earuption","ARMATAK1264D13AC27",,"",,"Kaskaad",0.0,414.9024,4,0.868,87.507,4,1.0,"Mohawk Hunt",0
+606,"SOEETVW12A6D4F93B8",27997,"Extreme","AR5J8XN1187B9B712E",,"",,"Extreme",0.0,181.55057,1,0.306,120.097,4,0.194,"Teacher's Pet",0
+607,"SORKRKK12A8C13C12F",157419,"Miscelanea","ARGNGRI11E2835D567",,"",,"Tam Tam Go!",0.0,226.82077,9,0.51,119.524,4,0.941,"Spanish Shuffle (Album Version)",0
+608,"SOFJDJH12A8C136932",599291,"Soukous Trouble","AR7QBU11187B9890B5",,"",,"Loketo",0.0,291.3171,0,0.449,114.888,4,1.0,"Menssa",0
+609,"SOLRBCF12AB018A963",582985,"Tesoros De Coleccion","ARETSEJ1241B9C91DC",,"",,"El Tiempo",0.0,200.04526,9,0.003,191.964,4,0.447,"La Coloreteada",0
+610,"SOKDJRX12A8C146003",527714,"The Best Of","ARY80281187FB3E380",56.65286,"Scotland",-3.99667,"Sandi Thom",0.0,183.35302,4,0.49,210.253,4,0.0,"When Horsepower Meant What It Said",2006
+611,"SOBCQXN12AB01889DB",461028,"Here is Fabulous Eddie Cano","ARODP5P1187FB40142",,"",,"Eddie Cano",0.0,129.12281,5,0.251,124.726,5,0.682,"Barsanova Brown (Album Version)",0
+612,"SOFDDSM12AB0182DCA",484884,"Back In The Game","ARDCKVJ1187FB54D1F",35.78032,"Centerville TN",-87.46671,"Syl Johnson",0.0,238.86322,7,0.914,122.789,3,1.0,"Driving Wheel",0
+613,"SODAWYC12A8C13B094",255677,"T Lavitz And The Bad Habitz","AR49REC1187B9AFDF4",,"",,"T Lavitz",0.0,46.00118,6,0.129,118.183,1,0.0,"Times Square",0
+614,"SOFLHNX12A8AE4630C",186311,"1985 Sleng Teng Extravaganza","ARIXGOC1187FB54F4B",,"",,"John Wayne",0.0,192.70485,1,0.0,160.663,4,0.646,"Call The Police",0
+615,"SOCUBIC12A8AE45AF0",278800,"Sandinista!","AR13CXU1187B9AD30A",51.52328,"London England",-0.21346,"The Clash",0.0,308.50567,9,0.307,120.223,4,0.465,"Lose This Skin",1980
+616,"SOAMDMA12AB0186434",368975,"Heritage - Récital N°5 & 6 - BAM (1958-1959)","ARYDFJA1241B9CBFF2",,"",,"Jacques Douai",0.0,60.89098,7,0.202,127.14,4,0.0,"Pauvre Jean",0
+617,"SOQRFVZ12A8C13A4C6",159947,"Modelo Para Armar","ARJRQL51187FB541AB",,"",,"Juan Carlos Baglietto",0.0,220.99546,2,0.689,100.855,4,1.0,"Salzanitos",0
+618,"SOZPMGI12AB018979F",656041,"Calm Before the Storm","ARGXIE31187FB55B48",,"BAKERSFIELD California",,"Tech N9ne",0.0,260.38812,7,0.399,106.644,1,0.923,"Spend the Night featuring Rock Money and Paul Law",0
+619,"SOITISS12AB018667D",765236,"Sonneries Helium XXL","ARGSAFR1269FB35070",,"",,"Blingtones",0.0,29.57016,1,0.035,133.211,4,0.944,"Torero",0
+620,"SONBILX12AB0188421",665471,"Burbstrumentals_ Vol. 1","ARA0YAE1187B9B1D16",35.21962,"North Carolina",-80.01955,"John Brown",0.0,113.97179,10,0.0,101.074,4,0.422,"Ms. Marseilles",0
+621,"SOPCFDS12AB017E0E5",627198,"Monster Monster","ARAN38V1187FB4C4EE",,"Salt Lake City UT",,"The Almost",0.0,210.59873,11,0.505,84.99,4,0.675,"Books & Books",2009
+622,"SOKTKGY12A8C13F3AD",254009,"Solomon Vol. 2","AR323JD1187FB483D0",,"New York",,"Solomon",0.0,37.48526,10,1.0,110.647,1,0.619,"25 Variations And Fugue On A Theme By G.F. Handel For Piano_ Op. 24: Variation XVII",0
+623,"SOENDOQ12A8C139A41",296873,"Seasons Of The Soul","ARU0HTX1187B98B4C6",34.05349,"California - LA",-118.24532,"Lisa Lynne",0.0,316.49914,2,0.6,95.981,4,0.186,"Isla del Luna",1999
+624,"SOXEOQW12A58A7DB48",261700,"Music For Dancing","AR8WHID1187FB549B1",,"",,"Mystic Rhythms Band",0.0,206.2624,8,0.595,140.834,4,1.0,"Firedance",0
+625,"SODOKPG12A8C13B97F",93013,"Purple Haze","ARMB95F1187B9B5B93",40.8079,"Harlem NY",-73.9454,"Cam'Ron",0.0,85.96853,6,0.442,110.064,4,0.437,"I'm A Chicken Head (Skit)",2004
+626,"SOIEPKN12AB0187BB4",555751,"Larytta","ARABDBR11E2835EADC",,"",,"Larytta",0.0,278.12526,1,0.366,96.064,3,1.0,"Just in time",0
+627,"SOLBMXO12AB017D553",401881,"De Triana al Cielo","ARDW9RF1187B99002C",,"",,"Triana Pura",0.0,252.9171,2,0.691,221.796,3,0.772,"Afonsina y el mar",0
+628,"SODHWXG12A6D4F9F87",62722,"Mahlzeit!","AR4SOKG1187B98D2B0",,"",,"Geier Sturzflug",0.0,214.20363,6,0.282,116.032,4,0.0,"Schwarzarbeit",2006
+629,"SOFKGNK12AB018079D",440698,"In Shallow Seas We Sail","ARDT9VH1187B999C0B",,"South Carolina",,"Emery",0.0,186.51383,1,0.439,175.911,4,1.0,"Dear Death Part 2",0
+630,"SOCBMSI12A8AE49124",280528,"Intégrale Les Cactus","AR3QRJ91187B98E4C2",48.85692,"Paris France",2.34121,"Jacques Dutronc",0.0,152.76363,5,0.8,126.968,3,0.181,"Laquelle Des Deux Est La Plus Snob",1969
+631,"SOPHADT12A8C14245D",375621,"Haunted House:The Complete Gene Simmons on Hi Records","ARBXVFV1187B99AA63",,"Haifa Israel",,"Gene Simmons",0.0,112.06485,0,0.253,140.148,4,0.197,"Bad Boy Willie",0
+632,"SOZWCRH12AAF3B55D9",618651,"On The Winning Side","ARGOLWM1187B98CEDE",43.7427,"Michigan",-84.62167,"Commissioned",0.0,235.72853,8,0.317,124.066,4,0.822,"I'm Gonna Let My Love Flow",0
+633,"SOJUJQF12AB0186EDE",508188,"Le Bruit De Ma Vie","ARZBYDY1187FB46DD7",42.54843,"Vernet les Bains",2.38596,"Cali",0.0,207.49016,0,0.693,153.667,4,0.157,"Pour Jane (Live Acoustique)",0
+634,"SOLQMCQ12AB018E469",817855,"Taqdeer Dee Pencil","ARBY23A1187B9A82E4",,"",,"Naseebo Lal_ Arif Lohar",0.0,1037.68771,11,0.623,147.347,4,0.749,"Mar gaye te sada naal",0
+635,"SOEVDCK12AB018A8F3",583352,"Petit Coeur Assassin","AR1KMPF1187B99AA98",,"",,"Lara",0.0,206.602,9,0.754,125.1,4,0.457,"La Pieuvre",0
+636,"SOZQJKU12A8C13A0C1",668390,"Original Album Classics","AR1WC0X1187B991056",37.77916,"San Francisco CA",-122.42005,"Jefferson Starship",0.0,220.52526,10,0.58,122.348,4,1.0,"Fading Lady Light",0
+637,"SOHMKHQ12A8C139C40",210302,"Azure","ARLTWXK1187FB5A3F8",32.74863,"Fort Worth TX",-97.32925,"King Curtis",0.0,127.03302,9,0.914,136.089,1,0.0,"The Lone Prairie",0
+638,"SORAIKD12AB018A306",514842,"Habla El Corazon","ARZDUJG1242077E2C5",,"",,"Yuridia",0.0,265.92608,2,0.917,116.629,1,0.0,"Estar Junto A Ti (Angel)",0
+639,"SOCVDDL12A6D4F9A6C",43847,"Thirteen","ARNBV1X1187B996249",,"",,"Alex",0.0,250.69669,2,0.264,147.871,4,0.807,"What If",0
+640,"SOWXSQT12A6D4FC02E",56685,"Dorkfish","ARHN74X1187B98D79F",,"Galveston TX",,"Bill Engvall",0.0,482.21995,5,0.0,112.964,3,0.623,"T-Ball and Indian Guides (LP Version)",1998
+641,"SONOMUN12A67020B06",15590,"City High","ARW9SN11187FB52D0D",,"",,"City High",0.0,256.33914,2,0.442,92.922,3,0.851,"The Only One I Trust",2001
+642,"SOZVTZB12A58A7AEE4",22583,"Vixen","AR3PDNJ1187B9AF3F0",,"California - LA",,"Vixen",0.0,259.60444,11,0.323,124.67,4,0.509,"American Dream",1988
+643,"SONGTGF12AB017EC2C",329922,"DJ Slugo Juke Chronicles Vol. 10","ARCZ42S1187B98C0D7",,"",,"DJ Slugo",0.0,199.20934,1,0.0,150.056,4,0.0,"Whip It",0
+644,"SOBMEDP12AB017FBE5",502881,"The Sunny Side Of Life","ARRJ3UC1187FB579D7",,"Croix-des-Bouquets  Haiti",,"Wyclef Jean",0.0,208.29995,2,0.122,87.965,4,0.905,"Guantanamera",1997
+645,"SODVBYU12A8C13CB5B",322088,"Eazy E & Posse","ARROKMI1187B9B42D0",,"",,"L.a. Dream Team",0.0,314.90567,6,0.355,241.52,4,1.0,"Rockberry Jam",1985
+646,"SOSQIHH12A8C13370B",188863,"In Rainbows","ARH6W4X1187B99274F",,"Oxford UK",,"Radiohead",0.0,237.21751,1,0.623,188.91,5,0.68,"15 Step",2007
+647,"SOHSPMJ12AB0181C96",624707,"Same Old Place","ARXBXVM11E9057944C",40.19033,"Ohio",-82.66947,"NewFound Road",0.0,176.56118,7,1.0,223.34,4,0.48,"Brand New Broken Heart",2009
+648,"SORHXYU12A8C13716B",150516,"Talento","ARAHQDS1187FB55275",,"",,"Maysa",0.0,150.25587,10,0.038,137.673,7,0.415,"Bloco Da Solidao (1996 Digital Remaster)",0
+649,"SOSZPEW12AB018287A",535176,"Street Scriptures","AROGHQQ1187B9890E3",,"",,"Mil featuring Memphis Bleek",0.0,265.29914,0,0.378,211.987,3,0.552,"Street Sh***",0
+650,"SOGWIQS12A8C1339B1",86789,"The Flesh","ARBR7II1187B9B821E",40.65507,"Brooklyn NY",-73.94888,"The Flesh",0.0,227.00363,5,0.0,86.09,3,0.959,"Sweet Defeat",0
+651,"SOJEYRE12A6D4F7610",78514,"Live at the Gem Theater","ARUTP601187FB388AC",,"",,"The Elders",0.0,282.43546,7,0.729,129.903,1,0.0,"Buzz's Jig",0
+652,"SOQERJP12A8C14130F",610646,"Where You Are","ARGA5RF1187FB5C7EB",,"",,"Socialburn",0.0,241.84118,9,0.777,91.231,4,1.0,"Everyone (LP Version)",2003
+653,"SOSXZDI12A6D4FD20F",239965,"That Good Old Gospel Music_ Volume 1","ARKRQSV1187B99FB13",35.14968,"Memphis TN",-90.04892,"Deborah Allen",0.0,172.48608,9,0.854,89.972,3,1.0,"In The Sweet By And By",0
+654,"SOSKVKM12A6702153C",7085,"Everyday People","ARSYKGV1187B9A49CD",,"",,"Nicole C. Mullen",0.0,164.8322,9,0.31,130.64,5,0.885,"This This (LP Version)",0
+655,"SONPYGH12A6701F6CF",14549,"Eazy Duz It","AR0D6EL1187B9AF46B",,"Compton California",,"Eazy-E",0.0,208.32608,8,0.33,115.692,4,1.0,"I'mma Break It Down",1988
+656,"SODJFJT12A6D4F67EB",23997,"Axe Victim","ARJTX7M1187FB4CED3",52.88356,"England",-1.97406,"Be Bop Deluxe",0.0,312.58077,4,0.293,127.803,4,0.0,"Piece Of Mine",1977
+657,"SOSDRZY12A58A7D3F2",243391,"Vignola Plays Gershwin","ARYTTQW1187B9BA487",,"",,"Frank Vignola",0.0,234.44853,5,0.301,149.689,1,0.0,"But Not For Me",0
+658,"SOYLBYP12A8C13C62C",261440,"North Amerikay","ARDGFTD11F4C83C209",,"",,"Dale Russ / Finn MacGinty",0.0,261.85098,2,0.455,121.733,1,0.0,"Reels: Old Joes / the Cliffs of Moher / the clips of mohair / the slightly less-well-informed maid",0
+659,"SOXHSRQ12A8C13C56F",160733,"Helium","ARKO7AO1187FB5664B",,"",,"Tin Hat Trio",0.0,44.59057,0,0.209,86.826,1,0.0,"Scrap",2000
+660,"SOBGPAH12A58A78C55",280392,"CARNIVAL VOL. II Memoirs of an Immigrant","ARRJ3UC1187FB579D7",,"Croix-des-Bouquets  Haiti",,"Wyclef Jean",0.0,287.50322,6,0.945,85.964,4,0.845,"Heaven's In New York",2007
+661,"SOOKCBG12A58A7FA89",467379,"Sonoran Hope and Madness","AR5FIDV1187FB50D40",,"",,"Roger Clyne & The Peacemakers",0.0,170.81424,11,1.0,149.01,4,0.641,"Mile High and Risin'",2002
+662,"SOIQTTM12AC3DFB614",786773,"Ah...c'qu'on est cons ! - EP","ARIUNKJ12802FDE157",,"",,"Dine et Déon",0.0,113.57995,8,0.303,110.5,1,0.669,"Géraldine",0
+663,"SOIBHJO12A6D4F7774",22455,"Personal Business (Explicit)","AREB22L1187B9A4BCE",,"",,"Bad Azz",0.0,270.39302,2,0.0,102.922,4,0.591,"How We Get Down",0
+664,"SOATRAN12AC3DF9F6B",777566,"Top-Notch & First-Rate","ARH0ZIQ1187B99EC94",37.77916,"California - SF",-122.42005,"Cotton Candy",0.0,149.9424,9,0.786,106.836,1,0.0,"The Windsor Tap Recap",0
+665,"SONUAHI12AC468C21D",604170,"Changing Tha Game","ARUG6DV1187B992475",33.45081,"Indianola MS",-90.645,"Willie Clayton",0.0,279.7971,6,0.31,141.992,3,0.834,"Unconditionally (Soul and R&B)",0
+666,"SOLLHMX12AB01846DC",463514,"The Emperor Falls","AR1Y2PT1187FB5B9CE",27.94017,"Brandon",-82.32547,"John Wesley",0.0,484.62322,4,0.283,138.007,4,0.893,"The Emperor Falls",0
+667,"SOSGVRE12AB01832AC",536574,"Serie Platino","ARGHMTX1187FB456CA",,"",,"Los Indios Tabajaras",0.0,171.28444,11,0.656,128.162,4,0.305,"Sueño Salvaje",1997
+668,"SOCQVYX12A8C1389E1",295494,"Music Of The Celtic Harp","AR0V36F1187FB366B1",53.41961,"Ireland",-8.24055,"The Chieftains",0.0,185.86077,2,0.771,175.711,4,0.0,"Carolan's Concerto",1971
+669,"SOOVSAM12A81C218AF",274218,"Firehouse Rock","AR0DSOO1187B9B855E",,"",,"Wailing Souls",0.0,255.4771,9,0.204,86.752,1,0.991,"Firehouse Rock",1980
+670,"SOROXGS12AB0180D21",620764,"Traditional Music Of Ireland","ARB06Z71187B99049A",,"",,"Seamus Egan",0.0,184.2673,7,0.611,98.355,1,0.0,"The Munster Cloak",0
+671,"SOWCLTO12A67021CEC",15450,"Chicago '85...The Movie","ARXP7MQ1187FB3AC5F",,"LOWELL",,"Dave Hollister",0.0,271.62077,4,0.33,91.003,4,0.796,"One Woman Man",2001
+672,"SOJXRWG12AC9E15691",455287,"If You Love These Blues_ Play'em As You Please","ARFONSP11F50C4D175",,"",,"Michael Bloomfield",0.0,10.65751,9,0.063,195.462,5,0.851,"Narrative #2",0
+673,"SOQZCBF12AB018644D",379517,"Spanning A Lifetime","AR243ZT1187B9A98D2",32.29869,"Jackson MS",-90.18049,"Otis Spann",0.0,298.55302,5,0.644,89.518,3,0.684,"Monkey Faced Woman",0
+674,"SOUVGPX12A8C13CE77",216084,"Present Tense","AR2G8SU1187FB4A871",42.33168,"Detroit MI",-83.04792,"James Carter",0.0,366.0273,8,0.41,140.666,4,0.29,"Dodo's Bounce",2008
+675,"SOAZGWL12A6D4F7AC2",33272,"The Music of The Beatles In Bossa Nova","AREYIHC1187B99CE0B",,"",,"Brasilian Tropical Orchestra",0.0,160.31302,5,0.513,159.848,4,0.166,"Yesterday",1999
+676,"SOXDXMS12A8AE454DD",233466,"Coup D'Etat (UK)","AREENKN1187B98F35D",40.71455,"New York NY",-74.00712,"Plasmatics",0.0,168.25424,0,0.215,134.102,4,0.816,"Lightning Breaks",1996
+677,"SOORRKR12A8C13FF18",255526,"Secret Wispers - Double Image pays homage to Clara Schumann","ARWBYIR11F4C83B3FE",38.8235,"Maryland",-75.92381,"Double Image",0.0,348.42077,7,0.464,135.092,4,1.0,"Trio in G minor for piano_ violin_ and 'cello Op. 17: Andante",0
+678,"SOFKWBH12A6D4F584E",38608,"Territory","ARCLJQZ11E2835CE37",37.80506,"Oakland CA",-122.27302,"Alvin Youngblood Hart",0.0,159.39873,9,0.722,195.223,1,0.0,"Ouachita Run (Album Version)",1998
+679,"SOJJZTV12A6D4F6F6C",33907,"Anthology: Addicted To Funk","ARDMPZU1187B99A472",51.50632,"London England",-0.12714,"Light Of The World",0.0,251.92444,0,0.565,120.878,4,0.665,"Pete's Crusade (12" Version) (2006 Digital Remaster)",0
+680,"SOKFQSX12AB0188CEE",806430,"Born A Woman","ARFLHWV1187FB4E77F",,"Jasper AL",,"Sandy Posey",0.0,165.19791,0,0.641,149.252,4,0.0,"Touch You",1966
+681,"SOBYMIE12AB017E82A",601969,"Georges Brassens: Le siècle d'or","ARLV8S31187B988B71",46.71067,"S� France",1.71819,"Georges Brassens",0.0,100.8322,9,0.551,75.064,4,0.971,"Comme hier",1953
+682,"SOFHZHN12AB0180EA6",630508,"Four Days Late (Studio Track)","ARHNMEZ11F50C4706C",35.83073,"Tennessee",-85.97874,"Karen Peck And New River",0.0,262.84363,7,0.664,153.909,3,1.0,"Four Days Late (Studio Track w/o Background Vocals)",0
+683,"SOEPVDO12A8AE48BF4",138052,"Faces And Places","AR0QS8F1187B9ADC96",,"",,"Sandy Lam",0.0,299.44118,6,0.78,109.748,4,1.0,"Ai Ji Mei Gui 1000 Da",0
+684,"SOQPCKN12AB018AAEA",664804,"Celtic Dreams","ARRGDPV122BCFCB7F2",,"",,"Bowen_ Robin Huw",0.0,244.29669,7,1.0,92.656,1,0.0,"All Through The Night (Album)",0
+685,"SOXUAQZ12AB0184442",333739,"Good Vibes - The Very Best of Laid Back","AR31G891187FB3892D",56.27609,"Denmark",9.51695,"Laid Back",0.0,196.72771,10,0.584,124.534,4,0.902,"Maybe I'm Crazy (Single original version_ 2008 Digital Remaster)",0
+686,"SOWFMJA12AB01837B6",750876,"Polyvinyl 2002 - 2003 Sampler","ARDHWW41187B9A86B0",43.07295,"Madison WI",-89.38669,"Paris_ Texas",0.0,225.67138,0,0.958,100.532,4,0.183,"Hip Replacement",2002
+687,"SOGXQRO12A8AE47D50",350343,"Joyful","ARN03F71187FB4E3F4",,"United States",,"Ayo",0.0,212.71465,0,0.713,128.689,4,0.433,"Complain",2006
+688,"SOHZYBG12A5829168F",35970,"I Apli Methodos Ton Trion","AR4CL6I11C8A4158B4",,"",,"IMISKOUBRIA featuring Etsi De",0.0,245.26322,10,0.421,100.003,4,1.0,"Apoliome Re Giorgi (Feat. Etsi De)",0
+689,"SOGHPNQ12AB017E3E2",331468,"Len Barry - The Hits","ARBV2AK1187FB5BA33",39.95227,"Philadelphia PA",-75.16237,"Len Barry",0.0,293.95546,1,0.646,112.281,4,0.998,"Dirty Old Man",0
+690,"SOZDOYP12A8C13ABDF",102191,"Shiva Technology","AREEJJK1187FB56DC7",,"Sofia",,"Evolution",0.0,436.21832,6,0.252,137.971,4,0.753,"Peyote",0
+691,"SORHBPD12A8C1434B6",313577,"Love It To Life","ARE0OLY1187B9AD19F",40.79263,"Whitestone Queens NY",-73.80817,"Jesse Malin",0.0,147.85261,2,0.466,133.404,1,0.0,"Going Out West",2004
+692,"SOYOOPY12A58A7C4F8",210431,"Trexe","ARIJ7MR1187B9B484E",,"",,"Peggy Zina",0.0,177.44934,8,0.011,107.55,4,0.585,"Ithaki",0
+693,"SOQFWBE12A8C1316AF",144663,"Rock Hits Workout 45 Minute Continuous Fitness Music Mix. 114Bpm  152Bpm For Jogging_ Cycling_ Spin","ARVG4OK1187B9B6BD3",,"",,"The Killers",0.0,527.98649,1,0.764,134.02,4,0.0,"Mr. Brightside (Jacques Lu Cont's Thin White Duke Mix)",2005
+694,"SOKXVWW12AB017BA92",386484,"40 Greatest Hits","ARZZRK91187B9A5CA5",18.01571,"Kingston Jamaica",-76.79731,"Delroy Wilson",0.0,191.73832,7,0.97,142.066,4,0.0,"Who Cares",1969
+695,"SOLYLAQ12AB018A0C1",818326,"Wish","AR5K75Y1187B9B5F7E",,"",,"Janice Vidal",0.0,246.59546,9,0.601,136.887,4,0.532,"Li Jia Chu Zou",0
+696,"SOCRHCQ12A58A7C8C6",46647,"Can We Go Home Now","AR11NP91187B9901B4",,"New York City",,"The Roches",0.0,338.33751,2,0.626,130.027,4,0.509,"Christlike Roche",1995
+697,"SOAIWTO12A8C1419E7",314826,"Sister Mary Explains It All","ARWNRBH1187B9B7E68",48.88437,"Neuilly-sur-Seine France",2.26934,"Philippe Sarde",0.0,172.30322,2,0.711,167.559,4,0.477,"LOVESICK - Obsession in ¾ Time",0
+698,"SOPVOHK12A6310D84C",864,"Losing Streak","ARG8DXO1187B9AF743",,"Gainesville FL",,"Less Than Jake",0.0,125.28281,2,0.635,133.05,1,0.0,"Automatic",1996
+699,"SOTQGQR12CF5CFD61E",291991,"On The 6 / J. Lo (Coffret 2 CD)","AR7C6G11187B9B4C1E",,"The Bronx New York",,"Jennifer Lopez",0.0,275.69587,6,0.75,80.979,4,0.388,"Talk About Us",1999
+700,"SOQIBCH12A8C142CE5",524634,"Hör auf zu weinen","AR4SOKG1187B98D2B0",,"",,"Geier Sturzflug",0.0,231.96689,7,0.528,160.24,4,0.887,"Und die Zeit vergeht",0
+701,"SOSMFGX12A8C1411D8",250842,"Creole People","ARMX0GY1187B98B62E",30.22032,"Lafayette LA",-92.01705,"Lynn August",0.0,262.5824,2,0.035,115.848,4,0.312,"Trust In The Lord",0
+702,"SOJDQMV12AB0182752",560332,"Romanzas de Zarzuela","AR5R7791187FB3A8C3",,"",,"Alfredo Kraus - Orquesta de Conciertos de Madrid - Pablo Sorozábal",0.0,243.48689,4,0.658,92.475,3,0.835,"El último romántico: romanza de tenor",0
+703,"SONPLPJ12AC4685296",695511,"Mambó Inspiración - Primeras Grabaciones 1953-1955","ARRVUWA1187B9A0FE2",21.51102,"Cuba",-77.80679,"Orquesta Aragón",0.0,182.85669,6,0.622,131.568,1,0.0,"Mambo del Beso",0
+704,"SOULASI12A67ADC8DC",69346,"South African Homecoming","AREAEX91187B98DC01",,"",,"Gaither Vocal Band",0.0,257.09669,7,0.816,103.979,5,0.972,"Little Is Much When God Is In It (South African Homecoming Album Version)",0
+705,"SOZLLLT12A3F1EA275",47639,"Business As Usual","ARSQDUN1187B98D7D7",,"allentown Pennsylvania USA",,"EPMD",0.0,159.26812,6,0.543,173.423,4,0.918,"Mr. Bozack",1990
+706,"SOSUEIX12AB0185021",759417,"T.I.M.E.","ARZ7IH41187FB3B8F5",40.71793,"Uniondale NY",-73.59354,"Leaders Of The New School",0.0,263.88853,7,0.375,97.292,4,0.859,"The End Is Near (LP Version)",1993
+707,"SOYRKAG12A8C13D7A0",106927,"Solo Exitos","AR0CZWN1187B9A47E2",,"",,"Obie Bermudez",0.0,220.78649,10,0.532,109.23,4,0.537,"Celos",2004
+708,"SOXGZAI12A6D4F4199",23951,"Come A Little Bit Closer","ARBJI5N1187FB400D0",40.71455,"New York NY",-74.00712,"Jay & The Americans",0.0,173.58322,10,0.537,86.442,4,0.921,"Tomorrow",1990
+709,"SORMORE12A8C133DCA",146604,"Flee","AR695PK1187B996E35",54.6904,"West Hartlepool England",-1.2323,"The Jeremy Spencer Band",0.0,327.05261,10,0.579,135.013,1,0.0,"Sunshine (Album Version)",0
+710,"SONGLFT12AB0189B1E",800483,"Pinkboy Presents TPC","ARPZPET1252CCF9386",,"",,"Plagia",0.0,354.11546,3,0.0,132.002,4,0.868,"Floripa",0
+711,"SOIGKCB12A6310F113",316,"Live 2003","ARJ7KF01187B98D717",,"",,"Coldplay",0.0,410.8273,5,0.463,138.038,4,0.59,"A Rush Of Blood To The Head (Live In Sydney)",2003
+712,"SOUIWLO12AB017CBC2",485420,"Devil In The Rearview","ARIBTOJ11F4C83E8DD",,"",,"Undertakin' Daddies",0.0,146.02404,7,0.177,122.358,4,1.0,"Two Wheels In the Ditch",0
+713,"SOKHDOO12AB01825E3",550709,"Siempre Es Hoy/Reversiones","AR189B91187B9B8D9C",,"",,"Gustavo Cerati",0.0,237.68771,6,0.102,94.009,4,0.747,"Amo Dejarte Asi",0
+714,"SOAOYFX12AB018686C",545971,"Late for the Future","ARRNO111187B9B3FC9",,"",,"Galactic",0.0,89.67791,1,0.367,121.26,1,0.0,"[Hidden Track]",2000
+715,"SOUEWVH12AB018B119",768012,"Kaikkien aikojen parhaat -45 klassikkoa - Aattelepa ite","ARW1WST1187FB384DA",,"",,"Jope Ruonansuu",0.0,175.41179,9,0.435,134.109,4,0.0,"Työnnä kännykkä hanuriin",2002
+716,"SOFCHDR12AB01866EF",560818,"Harsh Realities","AREVWGE1187B9B890A",-13.442,"Noci (BA)",-41.9952,"Bitter End",0.0,282.43546,10,0.532,111.032,3,0.863,"Living Hell",0
+717,"SOKWJCX12AB018542C",500552,"Heritage","ARAVS1S1187FB4C519",,"Los Angeles CA",,"Chico Hamilton",0.0,270.602,6,0.47,88.98,4,1.0,"Denise (Jeremy Carlstedt Funk Variation)",0
+718,"SOGXXTV12AB018B61D",714651,"The Latin Sounds of Edmundo Ros","ART9Z1P1187FB36C94",6.47279,"Venezuela",-66.58904,"Edmundo Ros",0.0,134.1122,10,0.688,191.863,1,0.045,"Happy Beat",0
+719,"SOKHRGL12AB018ADAC",589057,"The Open Mind Of John D. Loudermilk","AR5ZJLK1187B9B3A8E",35.99527,"Durham NC",-78.89601,"John D. Loudermilk",0.0,252.682,5,0.812,112.781,4,1.0,"Brown Girl",0
+720,"SOHJYGD12A8C13CF7F",300031,"Stomping Ground","AR8ZQ9T1187FB56FE5",,"Miami Florida",,"Goldfinger",0.0,128.49587,7,0.394,185.409,4,0.225,"I'm Down",0
+721,"SOOACXX12AB017C8E6",815863,"Arrivederci","ARHHO3O1187B989413",,"",,"Bob Azzam",0.0,107.31057,5,0.008,121.649,1,0.0,"Guarda Che Luna",0
+722,"SOJDTLW12A8C1394FD",256070,"Fast_ Long_ Loud","ARNHTNJ11ECC836DAF",,"New Jersey",,"Smash Palace",0.0,276.81914,4,0.602,136.164,4,0.621,"It's All Because",0
+723,"SOTZGQR12A8C13718B",99054,"Furry Lewis 1927 - 1929","ARN7OQ21187FB5A6B3",,"Greenwood MS",,"Furry Lewis",0.0,151.97995,6,0.19,123.111,4,0.918,"Judge Harsh Blues (Tk. 1)",0
+724,"SOYEFZY12A8C1333DA",287223,"X.O. Experience","ARLLUSZ1187B98ACDC",,"",,"Tha Liks",0.0,33.09669,3,0.545,156.021,5,0.381,"Yo Mouth (Skit)",2001
+725,"SOMHQKT12A6D4FAE5D",555129,"Love Junk","ARFK98R1187B9B0552",43.64856,"Toronto Ontario Canada",-79.38533,"Pursuit Of Happiness",0.0,159.60771,9,0.655,125.1,4,0.0,"Hard To Laugh",1988
+726,"SORIFID12A8C140949",254009,"Solomon Vol. 2","AR323JD1187FB483D0",,"New York",,"Solomon",0.0,284.23791,5,0.663,95.619,4,0.0,"25 Variations And Fugue On A Theme By G.F. Handel For Piano_ Op. 24: Fugue",0
+727,"SOLIQRN12A8C1391A6",154282,"Eleanor","ARLT4N91187FB533DB",,"Los Angeles CA",,"Low Millions",0.0,193.38404,5,0.606,112.897,1,0.201,"Eleanor",2004
+728,"SOHWJYQ12A8C13658B",292085,"85555","ARWF1KM1187B9908CA",,"",,"Spliff",0.0,225.74975,8,0.004,110.598,4,0.912,"S.O.S.",1988
+729,"SOLXEVV12AB0181AB4",364307,"Twilight","ARPOQKS1187B988FE2",27.9758,"Florida",-81.54106,"Ed Calle",0.0,253.51791,5,0.61,116.034,4,0.107,"Bar Talk",0
+730,"SOMLDJP12A6D4FD967",272660,"My Wife And Her Husband","ARFXQZA11F4C841613",,"",,"Dezz White",0.0,44.93016,4,0.0,59.021,4,1.0,"Drunk Driving Tip",0
+731,"SOLTRLC12A8C13E710",114406,"Das Album zum Film","AR5BLB01187FB57E99",,"",,"Headliners",0.0,169.56036,4,0.373,88.001,3,1.0,"Negativ Song",2006
+732,"SOZAPRE12AB0182FFA",327658,"Esa Pakarinen","ARBV8MP1187B9B60B1",,"",,"Esa Pakarinen",0.0,152.58077,0,0.708,156.32,1,0.0,"Vanhapoika-Severi",1990
+733,"SOYYIZT12A8C1408CA",372337,"Skin And Bones","AR6XPWV1187B9ADAEB",,"Seattle WA",,"Foo Fighters",0.0,274.65098,7,0.704,173.983,4,0.453,"Next Year",1999
+734,"SOMRWKM12A8C13AEC9",301445,"The Fabulous Mae West And Other Wonderful Girls","ARFLD291187B9966AA",30.2676,"Austin TX",-97.74298,"Damita Jo",0.0,182.33424,10,0.209,110.058,4,0.126,"Face To Face",0
+735,"SOFEPGY12A67ADAE9D",734782,"Séance","ARB4ZRM1187B993147",,"",,"Dark Fortress",0.0,320.44363,7,0.0,152.6,5,1.0,"Incide",2006
+736,"SONNUHH12A8C133376",620110,"Punch The Big Guy","ARYVJYT1187FB484D7",,"San Diego CA",,"John Stewart",0.0,290.53342,2,0.844,91.496,4,0.385,"Price Of The Fire",0
+737,"SONYDNP12AB0186DCE",765935,"George Nooks Sings Dennis Brown","ARB78VW1187B98F81C",,"",,"George Nooks",0.0,252.3424,2,1.0,179.888,1,0.0,"Your Love (Got a Hold of Me) instrumental",0
+738,"SORSQRR12A8C13A20D",303100,"Hotel","AR19QNR1187B9A13C5",,"Philadelphia PA",,"Cassidy",0.0,180.11383,7,0.893,114.959,4,0.927,"Take It",0
+739,"SONRUXD12A6D4F4A5E",27867,"Doe Or Die","ARKQ9JM1187FB57521",,"Oakland CA",,"A.Z.",0.0,203.10159,11,0.072,88.064,4,1.0,"We Can't Win (Explicit)",1995
+740,"SOHGJUI12AF72A724F",257676,"The Best Of","ARH6W4X1187B99274F",,"Oxford UK",,"Radiohead",0.0,198.47791,5,0.779,149.492,1,0.526,"2 + 2 = 5",2003
+741,"SOGRJSY12A8C13C25E",298752,"Bully","ARF1PSM1187B9B802A",,"",,"Sugarbomb",0.0,260.93669,8,0.705,122.761,4,0.671,"Posterchild for Tragedy",2001
+742,"SOGCJBR12AB0184C53",451334,"Rustic","AR0B8CT1187B9B2CF3",,"",,"Fyah Blaze",0.0,62.92853,1,0.75,121.407,5,0.901,"Hurry Hurry Baby (Dj Edit)",0
+743,"SOOHZIM12A67ADDB09",731006,"The Long Way Back","AR567PN1187FB4B4F2",,"",,"Moss",0.0,206.57587,4,0.76,119.947,4,0.781,"Winter In Finland",2006
+744,"SOWRILA12A8C1360D0",205285,"The Beat Goes On","AR202MX1187B9B0383",,"",,"Tanto Metro & Devonte",0.0,207.56853,6,0.346,105.671,4,0.143,"Sometimes",0
+745,"SOJRGVK12CF5CFC527",395797,"Soul To Soul/ Texas Flood/ Couldn't Stand The Weather","ART3O5Z1187B9AB043",32.77815,"Dallas TX",-96.7954,"Stevie Ray Vaughan And Double Trouble",0.0,240.77016,6,0.703,112.719,4,0.048,"Cold Shot",1985
+746,"SOQMROZ12AF729B758",300910,"Don't You Fake It","AR4YKRO1187B9B7829",30.06677,"Middleburg Florida",-81.86674,"The Red Jumpsuit Apparatus",0.0,208.79628,0,0.529,199.004,4,0.697,"In Fate's Hands (Album Version)",2006
+747,"SOFJNFW12AB0181B90",621263,"22 (Vingt Deux)","ARKZJ301187FB521B2",,"London England",,"Lily Allen Featuring Ours",0.0,189.20444,10,0.059,130.939,4,0.415,"22 (Vingt Deux) (Feat. Ours)",2009
+748,"SOITOFS12A81C21D00",674246,"Gipsy Kings / Mosaique / Este mundo","AR2UQQ51187B9AC816",,"Arles France",,"Gipsy Kings",0.0,303.09832,2,0.693,91.846,4,0.15,"Camino",1989
+749,"SOVRUGO12A8151D3B3",129747,"Strikes","ARKE7ZQ1187FB504BB",,"Jacksonville FL",,"Blackfoot",0.0,177.8673,9,0.576,121.483,4,0.57,"Train_ Train (LP Version)",0
+750,"SODVPYI12AB017B0D2",533388,"The Future Crayon","ARFNJ4O1187B9A204B",52.47859,"Birmingham England",-1.9086,"Broadcast",0.0,163.91791,11,0.86,119.2,4,0.803,"Where Youth And Laughter Go",2000
+751,"SOMEQIJ12A8C139C37",296933,"México Lindo","ARUKJUP12086C14589",,"",,"Ramón Vargas",0.0,239.5424,3,0.541,154.429,3,0.534,"Granada",0
+752,"SOCNIVN12AC3DF98D2",775974,"Vintage World Nº 16 - EPs Collectors "Yvette Horner And His Accordion","ARHSS201187B98A8CC",,"",,"Yvette Horner",0.0,137.32526,1,0.565,62.614,4,0.0,"Le Chant Du Tropeau (La Canción Del Rebaño) Vals Tirolés",0
+753,"SOAXRPH12A6D4F802D",27646,"Girl Bites Dog_ Your Compact Disc Pet","AR4R0741187FB39AF2",51.50632,"London England",-0.12714,"Bow Wow Wow",0.0,182.9873,10,0.01,231.725,1,0.663,"C30 C60 C90 Go",2003
+754,"SOJUPRU12A58A7A5B6",153075,"Los Primeros Exitos Alacraneros","AR4W5GR1187FB51F7E",,"",,"Alacranes Musical",0.0,284.1073,0,0.492,168.144,3,0.769,"Indita Mia (Album Version)",0
+755,"SOMNOPZ12A81C23100",275860,"60 Jahre Oscar Vol. 1","ARYKFVV1187FB3CA6B",,"",,"The Golden Age Orchestra_ Paul Summer ",0.0,168.75057,0,0.564,133.471,4,0.0,"Over the Rainbow",0
+756,"SOCXOGU12A8C1327B3",287297,"So Long_ Astoria","ARPKK761187FB4D53C",40.10216,"Anderson IN",-85.67869,"The Ataris",0.0,246.85669,2,0.531,145.711,4,0.594,"The Hero Dies in This One",2003
+757,"SOFMNYQ12AC468D899",782401,"The Harvey Averne Dozen","AR449OQ1187B99B25E",,"",,"Harvey Averne",0.0,185.20771,8,0.941,89.848,1,0.156,"Why Can't We Really Be Free",0
+758,"SORFIFZ12AB0189866",796841,"Ta Oriaotera Mou Tragoudia","ARBKMHZ11F4C843491",,"",,"Dakis",0.0,186.87955,4,0.448,137.289,1,0.0,"Min Xechnas (Forse)",0
+759,"SOCZOTF12AB018C245",682722,"Country Lovers_ Vol. 2","AR14CJ91187FB3A994",35.52069,"Madisonville TN",-84.36354,"Eddy Arnold",0.0,156.21179,3,0.0,42.086,4,0.0,"Enclosed_ One Broken Heart",0
+760,"SOUTUFC12A8AE4706A",139457,"Millennium-Tanzparty","ARZWBH21187B99ACE1",,"",,"Günter Noris",0.0,180.92363,0,0.112,86.51,4,0.394,"Bye-Bye - Medley",0
+761,"SOCJFFQ12A8C13E02A",109053,"Cajun Conja","ARE8RCR1187B996BF2",,"",,"BeauSoleil",0.0,268.30322,5,0.0,119.663,4,0.0,"'Ti Monde (LP Version)",1991
+762,"SOUIJVE12A8AE4961E",280176,"Exclusive","ARXOTQH1187FB57084",,"Fairfax California",,"Chris Brown",0.0,197.09342,11,0.137,89.966,4,1.0,"Help Me",0
+763,"SONNDTL12AB0187AC9",465675,"Ethnic Lounge 2","ARFUSID1241B9C9462",44.41033,"Genova",8.93889,"Daniela Dessì",0.0,178.75546,10,0.443,179.998,4,0.226,"Afro Profondo",0
+764,"SONXZLQ12AB018C1E4",714137,"Say Something","ARRTI6E1187B9A661D",,"",,"Tony Tuff",0.0,229.58975,4,0.065,149.844,4,0.462,"Say Something",0
+765,"SOAUTVB12AB018AFF0",726495,"Puce de luxe","ARLOVHG1187FB39692",,"",,"Sébastien Roch",0.0,184.08444,4,0.0,126.103,4,0.26,"",0
+766,"SOQRSPD12A8C133A86",245245,"Wowie Zowie","ARPLE851187B9B2B7C",,"",,"Superchumbo",0.0,443.37587,9,0.0,85.321,3,1.0,"Revolution",2001
+767,"SOZMMFV12AB0183F74",662089,"Greatest Hits","ARDQO721187FB3C6D9",,"",,"Rodney O & Joe Cooley",0.0,346.22649,6,0.634,118.933,4,1.0,"Supercuts",1995
+768,"SOMARVB12A6D4FAE82",227650,"Rise","AR1DGSO1187FB59B15",,"",,"Eddie Turner",0.0,254.9024,0,0.671,93.99,4,0.499,"Secret",2005
+769,"SOQCHOP12A8C13DA4D",307272,"Entrega Total... Los Exitos","ARXTM8U1187B99F200",,"",,"Pablo Montero",0.0,187.14077,7,0.0,96.107,4,1.0,"Cuando Calienta El Sol",0
+770,"SOIWZZD12A8C14505C",317615,"Shogun","ARJBWQI1187B9B17D1",,"Orlando FL",,"Trivium",0.0,321.17506,4,0.597,100.604,4,0.448,"Upon The Shores [Explicit]",2008
+771,"SOICDVR12AC3DFB6F6",694867,"H2H","ARRUGT71187B98F222",,"",,"Cyndi Wang",0.0,260.98893,1,0.843,131.981,4,0.579,"I'll Be Better",0
+772,"SOQQPAX12AB0185375",668808,"Stop Your Tickling Jock","ARTQ0WY1187B98A7B0",55.95327,"Portobello Scotland",-3.11499,"Harry Lauder",0.0,177.6322,2,0.299,162.993,1,0.0,"Portobello Lass",0
+773,"SOKXPCX12AB0181594",337167,"Get A Life","ARA8DDQ1187B9AE3A0",,"",,"Eason Chan",0.0,275.59138,0,0.457,72.882,4,0.283,"Fang Bu Sheng Fang",0
+774,"SOOTADG12AF729F5CF",332606,"My Love Ultimate Essential Collection","ARFWL8S1187B9B4B44",,"Charlemagne Quebec Canada",,"Céline Dion",0.0,274.57261,1,0.523,120.047,4,0.952,"Because You Loved Me (Theme from "Up Close and Personal")",1996
+775,"SODYKTT12A58A7BB18",53561,"We Three Kings","AR11NP91187B9901B4",,"New York City",,"The Roches",0.0,329.45587,2,0.538,135.011,4,1.0,"We Three Kings",1990
+776,"SOWMYEK12A8C141C1C",611612,"Surprisingly Good for You","ARLMRES11F4C83E1E1",44.11559,"Oregon",-120.51484,"Barbara Lusch",0.0,203.65016,10,0.059,100.278,7,0.646,"Sentimental Journey",0
+777,"SOHEQWN12AB0183127",748702,"Live At Oaktree","AR2FJV21187B98EBE3",35.83073,"Tennessee",-85.97874,"Legacy Five",0.0,168.12363,8,0.642,156.131,4,0.076,"Wy Wouldn't I",0
+778,"SOVGBEK12A8C134E04",152247,"Britten: Orchestral Works","ARBH0MS1187FB36311",,"",,"Sir Neville Marriner",0.0,315.27138,4,0.517,100.349,1,0.0,"4 Sea Interludes Op. 33a: Storm",0
+779,"SOLRLAT12AB0183EE0",644126,"Drum Cargo - Rhythms of Wind","ARJ3TAF1187FB4AAB1",37.27188,"California",-119.27023,"David & Steve Gordon",0.0,610.95138,11,0.137,127.986,3,0.0,"East Wind Drum Call",0
+780,"SOWWQST12A8AE4675B",185809,"Que Vuelva La Musica","ARSZVAK1187FB4A9F0",,"",,"Richie Ray & Bobby Cruz",0.0,209.162,7,0.069,109.505,4,0.575,"El Gallo Y La Vaca",2005
+781,"SOWHIHY12AB018B64A",665359,"Juke Trax Online Vol. 6","ARPOPBQ11F4C83D36D",,"",,"DJ Spinn",0.0,312.94649,6,0.037,119.987,3,1.0,"Feelin You",0
+782,"SOAOBPV12A8C13A57A",300651,"V","ARBQ5TQ1187B992B8A",,"CANADA - Ontario",,"Vivian",0.0,192.44363,9,0.745,177.972,1,0.0,"Slipping Away",0
+783,"SOTJZBJ12A8C143A71",521763,"LIVE AT MONTREUX","AR1ABAO1187FB531E1",42.33168,"Detroit MI",-83.04792,"Alice Cooper",0.0,197.90322,6,0.737,119.744,1,0.754,"Be My Lover",1971
+784,"SOMQFTE12AB0188B21",563754,"Kunnioittaen-Yhden miehen tribuutti","ARW1WST1187FB384DA",,"",,"Jope Ruonansuu",0.0,216.63302,4,0.633,127.968,4,0.822,"Matti Ja Teppo",2009
+785,"SORRXOY12AB0183759",646375,"Isn't That Just Like God (Studio Track)","ARK6JC91187B9B4B2D",,"United States",,"Babbie Mason",0.0,236.2771,2,0.624,141.022,4,0.584,"Isn't That Just Like God (Low Key Performance Track Without Background Vocals)",0
+786,"SOUKRZV12AB0182E90",457401,"These Are Good Times","ARTE6AQ1187B9B2826",42.33168,"Detroit MI",-83.04792,"High Strung_ The",0.0,165.3024,9,0.795,120.944,4,0.688,"Ain't That Something",2003
+787,"SOQLAEP12A8C1372F1",287708,"La Historia","AR2FSX31187B98E3EF",,"San Juan Puerto Rico",,"Ricky Martin",0.0,336.19546,3,0.764,141.71,4,0.0,"Fuego De Noche_ Nieve De Día",2001
+788,"SOFEOPN12AC468D446",747122,"Discografia Completa Vol.5","ARYN8YT1187FB38396",,"",,"Los Iracundos",0.0,188.05506,5,0.907,93.283,3,0.66,"Deja El Ultimo Baile Para Mi (Lascia L'Ultimo Ballo Per Me)",0
+789,"SOTRAIA12A8AE47465",186254,"Strictly The Best Vol. 23","ARBX0VO1187B98A412",,"",,"Zebra",0.0,205.11302,11,0.491,90.07,4,1.0,"Red",1999
+790,"SOVKCHA12A58A7D703",204047,"Segundo","AR7DFJP1187B992F13",,"",,"Juana Molina",0.0,159.65995,11,0.113,87.461,4,1.0,"Quiero",2003
+791,"SOFPDFR12A8C136ACA",201488,"Kaufen lassen - Beziehungs-Management","ARLMCCW1241B9CE7CB",,"",,"Kurt Tepperwein",0.0,1222.42567,8,0.888,145.259,3,0.723,"Subliminal mit Naturgeraeuschen",0
+792,"SOIDGDW12AB01803DA",373701,"Never Alone","AR6TD9K1187B9A207D",35.00459,"Cotton Plant AR",-91.25019,"Sister Rosetta Tharpe",0.0,84.11383,1,0.781,100.399,4,1.0,"Oh The Joy That Came To Me",0
+793,"SOIXCUV12AB017F48C",542446,"Home Town Hero","ARWADDH1187B98FDBB",34.05349,"Los Angeles California",-118.24532,"Home Town Hero",0.0,206.88934,8,0.807,161.991,4,0.0,"Twelve Ounce (Album Version)",2002
+794,"SOEHISP12AB0188417",589791,"Crash Love","AR2FAMK1187FB4CF60",,"Ukiah CA",,"AFI",0.0,223.29424,1,0.784,157.944,4,0.868,"Darling_ I Want To Destroy You",2009
+795,"SOOYIJN12AB017C168",387577,"Waiting For Columbus [Live Deluxe]","AR6W5MS1187FB3BF47",34.05349,"Los Angeles CA",-118.24532,"Little Feat",0.0,330.73587,4,0.633,93.42,1,0.064,"Day Or Night [Live Album Version]",0
+796,"SOCJMUC12AB01859E9",420078,"Stronger Rastaman","ARTX57T1187B98F34B",18.11526,"Jamaica",-77.27348,"Mikey General",0.0,220.73424,1,0.484,87.858,4,0.824,"I'm Wondering",0
+797,"SOLMKME12B0B8081D3",278700,"Lovers Rock","AR7N7MI1187FB46935",7.37884,"Ibadan Nigeria",3.89527,"Sade",0.0,252.47302,6,0.072,118.023,4,0.928,"Slave Song",2000
+798,"SOSSSPO12A8C135F1A",251622,"Hits & Hymns Volume II","ARR575U1187B98FB97",38.8235,"Maryland",-75.92381,"The Perrys",0.0,241.44934,7,0.934,45.709,4,0.637,"By Faith I Can Touch Him Now",0
+799,"SORNHUW12A6D4F9006",34608,"This Is My Country","ARCT5P61187FB3D950",,"United States",,"The Impressions",0.0,168.01914,6,0.412,103.088,1,0.0,"This Is My Country",1968
+800,"SOQKXGT12A6D4FB337",271353,"Chanter L'Ardèche","ARSKATF1187B98A622",,"",,"Alain Turban",0.0,211.53914,2,0.562,137.495,4,0.756,"L'Ardechoise Aux Cheveux Blanc",0
+801,"SOCGAOT12A8C138D1C",428202,"PODIUM","ARTO6KU1187B99910C",,"",,"Claude François",0.0,197.25016,6,0.246,134.237,4,0.0,"Le chanteur malheureux",1994
+802,"SOTBGCQ12AB0186F00",761602,"Diamond Master Series - Mike Bloomfield","AR0569B1187B9A4036",,"",,"Mike Bloomfield",0.0,153.91302,7,0.654,104.53,4,0.126,"One Of These Days",0
+803,"SOAHRTY12AC468AF45",699988,"The Dystopia Journals","AR3YJMO11C8A42B348",60.3907,"Bergen",5.33275,"Vulture Industries",0.0,379.29751,7,0.435,100.078,4,1.0,"The Benevolent Path",2007
+804,"SOSYPCS12A8C136D12",289149,"Let's Get Free","AROIIF91187FB4F2D5",,"",,"Dead Prez",0.0,154.30485,2,0.674,94.905,4,1.0,"Be Healthy",2000
+805,"SOHTZSS12A6D4FCAC2",226963,"Serenata","ARSFVDS1187B990F14",,"",,"Tranzas",0.0,204.85179,8,0.594,126.956,4,0.343,"Serenata",0
+806,"SONZEZK12A8C13A421",295644,"Nineteen Naughty Nine Nature's Fury","AR1ZYLH1187B98C159",,"East Orange NJ",,"Naughty By Nature;Naughty By Nature featuring Zhane",0.0,213.91628,0,0.7,91.981,4,1.0,"Jamboree",0
+807,"SOPIKEG12A58291636",104765,"White Trash ......","AR06EB01187FB40150",,"Berkeley CA",,"NOFX",0.0,144.50893,4,0.093,152.622,4,0.358,"Stickin In My Eye",1992
+808,"SOHBIKA12AB01857DB",804501,"Demolition Men Present: Block Tested Hood Approved","ARJRRJZ11F50C47E95",,"New Jersey",,"Big Rich featuring J. Stalin_ Aristotle",0.0,137.79546,1,0.364,103.948,4,0.823,"Imaginary Gangsters",0
+809,"SODXQTB12A8C13F0F7",308335,"Taking The Long Way","AR11YQ81187FB3C654",,"Austin TX",,"Dixie Chicks",0.0,351.84281,5,0.458,109.74,4,0.0,"Lullaby",2006
+810,"SONJYDQ12AB018B0F7",795563,"The Greatest Hits","ARB2M051187FB56FA9",40.71455,"New York NY",-74.00712,"The Sugarhill Gang",0.0,451.02975,1,0.49,213.617,7,0.922,"8th Wonder",1981
+811,"SOYYJNB12AB0184408",411450,"Engram","AREBWEH1187B99EA9A",,"Helsinki",,"Beherit",0.0,266.89261,2,0.804,149.069,4,0.602,"Suck My Blood",2009
+812,"SOSLEMJ12A8C13F86B",304190,"Ystävän Laulu - 25 Unohtumatonta Laulua","ARIUQZL1187FB4303B",,"",,"Erkki Junkkarinen",0.0,215.82322,4,0.273,100.612,4,0.702,"Rakkauden satu - Histoire d'un Amour -",0
+813,"SOFJCSH12A81C20934",123619,"Maria","ARGV2PR1187B9AD702",41.90311,"Rome Italy",12.49576,"Cecilia Bartoli / International Chamber Soloists / Orchestra La Scintilla / Adam Fischer",0.0,225.14893,5,0.371,79.261,5,0.49,"Se un mio desir...Cedi al duo!",0
+814,"SOYPQHV12A67ADF698",521581,"IN THE PALACE OF THE KING","ARJ9DSA1187B990E00",,"",,"John Mayall",0.0,264.6722,10,0.032,147.128,4,0.631,"Now I Got A Woman",2007
+815,"SONFOEG12A8C13B8B8",302144,"Greatest Hits","ARLAEJO1187B98DB85",,"",,"FU-Schnickens",0.0,237.92281,9,0.591,101.871,4,1.0,"True Fuschnick",1992
+816,"SOOGLXF12AF729E2D7",619744,"If You Want it","ARRW6DJ1187FB50A67",40.71455,"New York NY",-74.00712,"Pacha Massive",0.0,211.17342,11,0.518,102.009,4,0.43,"Take The Wheel",2009
+817,"SOUZXYV12A8C13CADA",542091,"Vuosikirja 1976 - 50 hittiä","ARIUQZL1187FB4303B",,"",,"Erkki Junkkarinen",0.0,218.93179,4,0.694,164.769,3,1.0,"Nuoruusmuistoja",2002
+818,"SOMRISS12A6D4FE3D0",176774,"King Of Western Swing_ Vol. 3","ARVX3V41187FB59E0F",,"",,"Spade Cooley",0.0,167.33995,2,0.247,115.386,3,0.491,"Its Dark Outside",0
+819,"SOOQDTX12A6701F09A",10149,"Rarities & B-Sides","ARN5NHX1187FB4F755",41.88415,"Chicago IL",-87.63241,"The Smashing Pumpkins",0.0,399.98649,7,0.737,66.41,4,1.0,"Soot and Stars",2001
+820,"SOHSQVS12A8C1369F2",88747,"Happy Again","ARQQCFZ11F4C84217F",,"",,"Jazz Crusaders",0.0,406.07302,1,0.644,96.617,1,0.928,"Top Of The World",0
+821,"SOQELNC12A8C13FE06",6589,"Motograter","AR8M6LC1187B998D48",34.41925,"Santa Barbara California",-119.69887,"Motograter",0.0,226.92526,5,0.858,143.932,4,0.98,"Red (Main Version)",2003
+822,"SOSSOBZ12AF72A294F",223562,"The Red Album","ARKLA8V1187B999B68",,"",,"Baroness",0.0,269.71383,0,0.621,162.019,1,0.0,"Wanderlust",2007
+823,"SOOXNKG12A58A7C6BC",185925,"A Reason To Live","ARYJ6RP1187B9B3827",36.16778,"Nashville TN",-86.77836,"Cindy Morgan",0.0,287.05914,0,0.703,92.411,4,0.428,"Someone Believes In You - Album Version",0
+824,"SOLIBHA12AB018800D",513353,"What Can I Say","ARV4BPJ1187B99C978",34.02791,"Broken Bow OK",-94.73954,"Gail Davies",0.0,192.96608,9,0.094,127.494,4,0.0,"Following You Around (Album Version)",0
+825,"SOTOBYW12A8C1429DE",700848,"Pure","ARNI9J91187B9ACFCD",51.7562,"Oxford England",-1.25949,"The Primitives",0.0,172.93016,2,0.675,99.752,4,0.859,"Never Tell",0
+826,"SOYNEII12AB0181DB6",545429,"7 Miles","ARKE8PP1187B997DD4",,"",,"Brixx",0.0,349.12608,11,0.7,138.003,4,0.0,"7 Miles",0
+827,"SOMBFCS12A8C13E5AF",304675,"Palace & Main","AR1SQSG1187B9AC782",,"Eskilstuna Sweden",,"Kent",0.0,240.97914,3,0.751,143.908,4,0.863,"Alla Mot Alla",0
+828,"SOKHMJO12AB01832DA",413215,"From Her To Eternity (2009 Digital Remaster)","ARODBRG1187FB3FD99",,"",,"Nick Cave & The Bad Seeds",0.0,246.46485,4,0.505,103.145,3,1.0,"Wings Off Flies (2009 Digital Remaster)",0
+829,"SOUOETK12A58A7B18D",513118,"Groover's Paradise","AR25LGJ1187B9B2492",29.42449,"San Antonio TX",-98.49462,"Doug Sahm Tex Mex Trip",0.0,307.51302,4,0.882,140.945,1,0.0,"Catch Me In The Morning (Album Version)",0
+830,"SOASCHQ12A6D4F9091",32915,"G.O.A.T","ARNHMFD1187FB3B3F6",40.72023,"Bayshore Long Island NY",-73.24922,"LL Cool J / Amil",0.0,232.14975,10,0.47,184.15,4,0.987,"Hello",2000
+831,"SOHHJIL12A8C144BDB",374550,"Le Roi de la Bossa Nova","ARQCHDN1187FB4C7C2",-22.97673,"Rio de Janeiro Brazil",-43.19508,"Luiz Bonfa",0.0,192.78322,4,0.328,124.842,1,0.0,"Samba De Duas Notas",2005
+832,"SOKTNOK12A8C1340BA",242333,"Gnosis","ARJRIM91187FB3EF9A",,"",,"Paul Avgerinos",0.0,423.60118,9,0.982,119.897,1,0.751,"Gnosis",2006
+833,"SOLLVWH12A6D4FAA5A",124304,"Nobiltà di strada","ARJ5BEW1187FB52361",,"",,"Inoki",0.0,75.93751,4,0.536,98.533,3,0.801,"Parola di faliero",0
+834,"SOVRVBI12A8C13AA09",157882,"La Historia","ARB5S4L1187FB4AD20",,"",,"Carlos Ponce",0.0,223.60771,5,0.791,98.501,4,0.786,"Todo Lo Que Soy",1999
+835,"SOYKSBN12AB017EF6B",405525,"Blues At Sunrise","ART3O5Z1187B9AB043",32.77815,"Dallas TX",-96.7954,"Stevie Ray Vaughan And Double Trouble",0.0,235.65016,9,0.325,111.834,4,1.0,"Chitlins Con Carne",1996
+836,"SOLCWWS12AB0188F42",708849,"Ylem","ARB4ZRM1187B993147",,"",,"Dark Fortress",0.0,336.16934,3,0.0,127.817,4,1.0,"Evenfall",2010
+837,"SOHICSA12AAA8C6B63",321478,"Chansons De France","ARJFDKM1269FB35F40",,"",,"Monique Morelli",0.0,196.44036,1,0.331,180.854,5,0.405,"Elsa",0
+838,"SONUVBF12AB017CFDC",449631,"Private Room - The X-Mas Lounge Session 2006","ARNZNFW122BCFCAB3B",53.89128,"Quebec",-68.43114,"Ino",0.0,392.35873,0,0.591,124.997,5,0.736,"Silence tells you all",0
+839,"SOHDMZZ12AB018AC70",663511,"Smokin' Hits","ARPFKK81187B99878D",39.14465,"Ramsey Fayette County IL",-89.10827,"Tex Williams",0.0,181.08036,9,0.569,142.398,4,1.0,"Smoke! Smoke! Smoke! (That Cigarette)",1947
+840,"SOGCMMV12AB0184BBB",539338,"C.C. Adcock","AR8LD3R1187FB4D08F",30.9742,"Louisiana",-91.52382,"C.C. Adcock",0.0,121.0771,7,0.398,172.716,1,0.0,"Good Loving",0
+841,"SORXBDA12AB018553E",653224,"Greatest Hits","AR8WHEJ1187B98CDCA",34.7519,"Blythesville AR",-92.13055,"Dee Clark",0.0,133.3024,7,0.359,111.422,4,0.773,"You're Looking Good",2000
+842,"SOOAOFY12A8C13BDEB",159678,"Images Of Christmas","ARY1VGA1187FB5A39E",56.85147,"Lynn Lake Manitoba Canada",-101.04893,"Tom Cochrane",0.0,204.14649,7,0.738,80.63,4,0.776,"Christmas All The Time (Acoustic)",0
+843,"SOGEIFG12AB018E42D",810160,"Tha Remixes Vol. 3","ARGBGC71187FB3DD0B",,"",,"DJ Nasty",0.0,195.13424,11,0.0,149.956,4,0.787,"Southern Fried",0
+844,"SOQHXOA12A8C136BF9",151102,"Live At The Blue Note","AR9JNFU1187B9B9868",,"",,"Gal Costa",0.0,230.47791,2,0.507,123.871,4,0.433,"Wave",1999
+845,"SOMCLCK12A8C13B918",252603,"Today's Song For Tomorrow","ARTOC971187FB37592",40.14323,"New Jersey",-74.72671,"Lord Sterling",0.0,315.16689,6,0.575,141.769,4,0.0,"Poison Lips",2004
+846,"SONPGMN12A8C1403FD",269897,"Grits Ain't Groceries","AR7AOEJ1187FB3D279",33.35303,"Inverness MS",-90.59005,"Little Milton",0.0,438.88281,1,0.758,97.521,3,0.388,"Walking The Back Streets And Crying",2007
+847,"SOVNGGG12A8C1391CF",106282,"For The Last Time","AR9OLFX1187B9A5762",31.30757,"Kosse TX",-96.63166,"Bob Wills",0.0,90.69669,7,0.77,130.752,3,0.0,"Playboy Theme",0
+848,"SOJTYYE12A6D4F956E",46619,"Zhen Qing Liu Lu","ARN3X4T1187B99EA39",,"",,"Jacky Cheung",0.0,287.4771,4,0.827,91.999,4,0.452,"Fen Shou Zong Yao Zai Yu Tian",0
+849,"SONTOZF12A8C138296",295707,"Voy A Enamorarte","AR4O3MM1187FB3DF77",18.22328,"Puerto Rico",-66.42889,"Gisselle",0.0,244.34893,10,0.272,78.571,4,0.516,"Prefiero Decir Adios",0
+850,"SOQVGIU12AB0180C10",556530,"Trem Maluco e Outras Cantigas de Roda","AR1PQYO1187B98BEC9",,"",,"Hélio Ziskind",0.0,110.78485,7,0.94,106.783,1,0.0,"Centopéia",0
+851,"SOWSLMW12AB017DA7D",500763,"Minha Voz_ Minha Vida","AR9JNFU1187B9B9868",,"",,"Gal Costa",0.0,189.57016,11,0.099,177.281,1,0.0,"Noites Cariocas (Minhas Noites Sem Sono)",0
+852,"SOHOOPX12A58A7951E",28863,"Modus Operandi","ARKQ6QN1187B9B016D",52.05777,"Ipswich England",1.14378,"Photek",0.0,421.19791,1,0.282,161.772,1,0.9,"124",1997
+853,"SOWLWCO12AB018B0AA",755020,"Are We Still In The Game?","ARUFQW01187FB5BA63",,"",,"Ashbrg",0.0,164.57098,4,0.169,94.234,4,0.519,"Night Shift",0
+854,"SOBUUHE12A8C143DD8",314575,"Proper Rock","AROJAG11187B9B71A3",51.50632,"London",-0.12714,"The Chap",0.0,216.2673,4,0.308,181.863,4,0.655,"What's Love Got to Do With It",2008
+855,"SOMMUOG12AB01821FF",655158,"Top of the Mountains Vol. 5","ARMLW331187B9923F9",,"",,"DJ Ostkurve",0.0,207.43791,9,0.006,137.951,4,0.034,"Sailing",0
+856,"SOERWLL12AB0189813",810202,"Tha Remixes Vol. 19","ARGBGC71187FB3DD0B",,"",,"DJ Nasty",0.0,188.26404,1,0.382,145.008,4,0.814,"Houston Anthem",0
+857,"SOKDCSL12A8C13B736",265786,"The Digital Pimp Series Vol.1","ARIL9H31187B9893FF",,"",,"DJ Deeon",0.0,211.09506,7,0.604,95.571,3,0.886,"Rubber Track",0
+858,"SOZDAFC12A8C139F6D",211112,"Un Mundo De Sensaciones","ARO0R521187B98A2D1",,"",,"2 Minutos",0.0,83.12118,0,0.315,168.231,4,0.0,"2 Minutos",2006
+859,"SOXRVYA12A8C1425A7",610045,"Super Box Of Country - 35 Country Classics From the 50's_ 60's_ 70's And 80's","AR0X3JJ1187FB3A9A7",,"McLellan FL",,"Hank Locklin",0.0,143.35955,0,0.0,122.798,4,0.0,"Send Me The Pillow You Dream On",1960
+860,"SOQTGOL12A58A768C3",600392,"The Very Best of Nestor Torres","ARXJSHW1187B9A2A52",25.72898,"Miami FL",-80.23742,"Nestor Torres",0.0,286.53669,9,0.686,150.028,4,0.313,"Ain't No Sunshine",0
+861,"SOWQKZC12A8C13F2A5",521414,"De mi puño y letra - Edicion Coleccionista","ARZBOES1187FB40178",,"",,"Carlos Baute",0.0,210.6771,1,0.938,105.01,4,0.628,"Te extraño porque te extraño",2008
+862,"SOYIWNY12AC3DF96FC",694201,"Showtime Juggling","ART5IUL1187B9B0143",,"St. Mary's Jamaica",,"Lady Saw",0.0,207.12444,7,0.481,86.535,4,0.835,"Get A Straw",0
+863,"SOEDOYM12AB0189A92",469687,"Jewel Lake","ARBXBQR1187FB56FA5",,"",,"Bill Douglas",0.0,185.67791,3,0.722,106.117,4,0.524,"Caroline",0
+864,"SOKHMUX12A8C13A78A",107008,"Dialogue (The Rudy Van Gelder Edition)","ARU9Q5Q1187FB3D6EB",34.05349,"Los Angeles CA",-118.24532,"Bobby Hutcherson",0.0,399.51628,2,0.484,151.391,4,0.375,"Les Noirs Marchant (Rudy Van Gelder 24Bit Mastering) (2002 Digital Remaster)",0
+865,"SOCNADB12AB0185B07",352603,"Meteorito EP","AR6UQ8H1187B99DA9E",34.16612,"New Mexico",-106.02612,"Chacho",0.0,460.69506,7,0.085,102.572,4,1.0,"Meteorito",0
+866,"SOOVQIU12A6D4FB6C9",55862,"Live In Tokyo","AR3THYK1187B999F1F",,"",,"João Gilberto",0.0,333.89669,7,0.0,76.953,5,0.361,"Meditacao",0
+867,"SONZANZ12A8C136AC8",288466,"It's a shame","AR051KA1187B98B2FF",,"",,"Wilks featuring jah mason",0.0,249.75628,4,0.65,70.708,3,1.0,"Have fi pray",0
+868,"SOQQWFU12A8C132F42",284195,"Freak Show","ARIH5GU1187FB4C958",,"Newcastle",,"Silverchair",0.0,209.00526,7,0.058,153.785,3,0.531,"Roses",1997
+869,"SODKGGR12A58A7DCB2",588902,"Ants Remastered Boxset","AR7G5I41187FB4CE6C",,"London England",,"Adam Ant",0.0,226.5073,0,0.258,82.048,4,0.569,"Mohair Locker Room Pin-Up Boys",1998
+870,"SONWLUL12A8C13AEEE",265380,"The Edge Of Love","AR1PCLK1187FB5BBFF",40.14323,"New Jersey",-74.72671,"Angelo Badalamenti / Keira Knightley",0.0,63.29424,1,0.459,123.797,1,0.0,"Overture/Blue Tahitian Moon",0
+871,"SOUYYZV12A6D4FBE40",228846,"Frei zu sein","ARHKQGH1187B9A4DB4",,"",,"In Extremo",0.0,186.06975,9,0.492,170.095,4,0.0,"Frei zu sein",2008
+872,"SOLDKKK12A6D4FD12B",297570,"Punk-O-Rama 6","AR06EB01187FB40150",34.05349,"Los Angeles CA",-118.24532,"NOFX",0.0,108.12036,0,0.772,198.201,4,0.0,"Bath Of Least Resistance",2001
+873,"SOEPYCP12AF72A77E0",280392,"CARNIVAL VOL. II Memoirs of an Immigrant","ARRJ3UC1187FB579D7",,"Croix-des-Bouquets  Haiti",,"Wyclef Jean featuring will.i.am and Melissa Jiménez;Wyclef Jean featuring Machel Montano_ Daniela Mercury_ Black Alex_ and Djakout Mizik",0.0,809.58649,7,0.112,129.703,7,1.0,"Touch Your Button Carnival Jam",0
+874,"SOEXULP12AB0186514",356623,"The Birth of R&B","ARAOPEF1187B995099",32.61518,"Minden LA",-93.286,"Percy Mayfield",0.0,173.50485,0,0.529,93.707,3,0.976,"Please Send Me Someone To Love",1950
+875,"SOTSKKZ12A6D4F71C4",28425,"Ultra-Lounge / A Bachelor In Paris - Volume Ten","ARHCZHQ12086C11407",,"",,"Henri Rene And His Orchestra",0.0,168.54159,3,0.138,112.911,1,0.548,"Petite Fleur (Instrumental) (1996 Digital Remaster)",0
+876,"SOJDKVC12A8C13927A",293876,"Joy Enriquez","AR4AR1R1187B98E76F",,"",,"Joy Enriquez",0.0,260.96281,10,0.397,96.087,4,1.0,"Between You And Me",2001
+877,"SONYFKQ12A58A7B29F",703170,"Head Over Heels - Club Mixes","ARXALW01187FB4B466",40.71455,"Wolcott CT",-74.00712,"Sylvia Tosun",0.0,575.79057,8,0.328,127.968,4,0.673,"Head Over Heels",2004
+878,"SOZSRHD12AB0189A2C",579812,"Blues Consolidated","ARQDONM1187B9BA1AD",34.19451,"Clarksdale MS",-90.5651,"Little Jr. Parker",0.0,154.8273,4,0.939,101.914,3,0.397,"Mother-In-Law Blues",1958
+879,"SOEMMUW12A58A77F60",509390,"20 Secretos de Amor - Palito Ortega","AR3UYDN1187B99DCA3",,"",,"Palito Ortega",0.0,134.3473,9,0.822,103.755,1,0.0,"Te Fuiste En Abril",0
+880,"SODWDRX12A8C136E77",150913,"No Better Place","ARK6JC91187B9B4B2D",,"United States",,"Babbie Mason",0.0,240.84853,8,0.428,129.88,4,0.468,"Pray On",0
+881,"SOGYRUP12AB017FB4C",455287,"If You Love These Blues_ Play'em As You Please","ARFONSP11F50C4D175",,"",,"Michael Bloomfield",0.0,137.69098,7,0.201,121.218,4,0.89,"Have Thine Own Way",0
+882,"SOAKVYO12AB0187E78",641925,"Wonderful World Of Edelweiss","ARDCIH31187B98B241",,"",,"Edelweiss",0.0,201.42975,0,0.023,173.903,4,0.767,"The Kangaroo Theory",0
+883,"SOFSTCX12A8C139C09",295618,"Platinum & Gold Collection","AREOGMA1187B9908EF",37.77916,"San Francisco CA",-122.42005,"Hot Tuna",0.0,304.45669,9,0.155,134.616,1,0.0,"Hesitation Blues",1970
+884,"SOXIIPZ12A8C13EDC0",217149,"Everywhere At Once","AR0JPOG1187FB37383",,"Japan",,"Lyrics Born",0.0,233.32526,8,0.553,151.051,4,0.827,"Is It The Skin I'm In?",2008
+885,"SOEVPYU12CF5827356",391899,"Of June","AR0WLH6119B8669027",,"Minnesota",,"Owl City",0.0,187.6371,5,0.015,150.066,4,0.648,"Panda Bear",2007
+886,"SODKSMV12A6D4F6922",28977,"One And One Is One","AR95QS71187FB3F49A",32.67828,"Georgia",-83.22295,"Joi",0.0,321.2273,4,0.671,182.01,4,0.71,"Oh My People",0
+887,"SOGKLVR12A6BD550C7",72563,"Phoney Phone Calls 1959-1972","ARV21JS1187B99E516",40.73197,"Newark NJ",-74.17418,"Jerry Lewis",0.0,132.98893,4,0.552,122.786,1,0.489,"Borgia Liquor",0
+888,"SOYMECD12AB0186797",585535,"Tales From The Sick","ARE1N571187B98A47D",51.50632,"London",-0.12714,"Prozak",0.0,195.42159,0,0.091,200.004,4,0.639,"Its Too Late Now",0
+889,"SOMFZZQ12A8C13AB56",104144,"Bacilos","ARPAAPH1187FB3601B",,"",,"Bacilos",0.0,247.71873,6,0.096,80.996,4,0.502,"Lo Mismo Que Yo (Bonus Track)",0
+890,"SOQQABM12AF729A392",225526,"A2G EP","ARTXGGI1187B9B3D58",38.54666,"Davis CA",-121.74477,"Blackalicious",0.0,260.33587,1,0.663,100.694,4,1.0,"Rock the Spot",1999
+891,"SOPTTOX12A6310E279",988,"Premium Gold Collection","ARMG34A1187FB548A8",30.08374,"Cairo Egypt",31.25536,"Thomas Dolby",0.0,309.57669,1,0.579,130.017,4,0.573,"One Of Our Submarines",1982
+892,"SOLISXB12A6D4FB3B6",60420,"A History","ARMR44C1187FB433D2",,"",,"Penguin Café Orchestra",0.0,293.72036,2,0.396,124.513,3,0.793,"Southern Jukebox Music (Live) (2001 Digital Remaster)",0
+893,"SOYEMEE12A8C144815",526010,"My Turn","ARZAHDN1187B9B4BED",,"Tennessee",,"Ice & Breeze",0.0,521.19465,11,0.0,145.011,4,0.315,"How It Begins",0
+894,"SOZXPDN12AB018302E",500301,"Ultrakurzwelle","ARQAXT91187B99103A",,"",,"UKW",0.0,266.762,0,0.714,97.362,3,1.0,"Allein",0
