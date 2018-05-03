@@ -13,8 +13,8 @@ def get_info(song_name = 'africa', artist_name = 'toto', req_type = 'track'):
     year = res['album']['release_date'][:4]
     artist_id = res['artists'][0]['id']
     track_id = res['id']
-    
-    
+    track_pop = res['popularity']
+
     res = requests.get('https://api.spotify.com/v1/audio-analysis/{}'.format(track_id), headers = headers)
     res = res.json()['track']
     duration = res['duration']
@@ -32,7 +32,7 @@ def get_info(song_name = 'africa', artist_name = 'toto', req_type = 'track'):
     res = requests.get('https://api.spotify.com/v1/artists/{}'.format(artist_id), headers = headers)
     artist_hot = res.json()['popularity']/100
     
-    return pd.Series({'duration': duration, 
+    return pd.to_numeric(pd.Series({'duration': duration, 
                       'key': key,
                     'loudness': loud,
                      'mode': mode,
@@ -44,4 +44,4 @@ def get_info(song_name = 'africa', artist_name = 'toto', req_type = 'track'):
                      'key_confidence': key_con,
                      'time_signature': time_sig,
                      'time_signature_confidence': time_sig_con,
-                     'year': year})
+                     'year': year})), track_pop
